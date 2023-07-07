@@ -1,5 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T20:29:36.438Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aP5u9ZVCxQexgNCKS9E1" version="21.6.1" type="github" pages="3">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Wood Age">
+<mxfile host="app.diagrams.net" modified="2023-07-07T21:11:13.564Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="P9QZ-PUkBgEvB0WexKt1" version="21.6.1" type="github" pages="4">
+  <diagram id="jrwpJjfteTBtRHEWPzPA" name="Ruleset">
+    <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4rWX3KUOFH1uNvAEdd1c-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kn7PD-53Ynr1DFzxw3J9-1" target="hqtLyXIOB-26WxpZOX00-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kn7PD-53Ynr1DFzxw3J9-1" value="Resource" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="50" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4rWX3KUOFH1uNvAEdd1c-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hqtLyXIOB-26WxpZOX00-1" target="4rWX3KUOFH1uNvAEdd1c-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqtLyXIOB-26WxpZOX00-1" value="Process" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="180" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s8UntD37v0S1v3NfBxwZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqtLyXIOB-26WxpZOX00-5" target="kn7PD-53Ynr1DFzxw3J9-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqtLyXIOB-26WxpZOX00-5" value="Beginning of Age" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="50" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s8UntD37v0S1v3NfBxwZ-1" value="Transfer to Next Age" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;" parent="1" vertex="1">
+          <mxGeometry x="430" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rWX3KUOFH1uNvAEdd1c-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.89;exitY=0.89;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4rWX3KUOFH1uNvAEdd1c-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rWX3KUOFH1uNvAEdd1c-1" value="Crafting&lt;br&gt;Station" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4rWX3KUOFH1uNvAEdd1c-7" value="Color Code:&lt;br&gt;Pink: Modded&lt;br&gt;Green: Vanilla&lt;br&gt;Orange: Adventure&lt;br&gt;Blue: Create&lt;br&gt;Black: Default" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rWX3KUOFH1uNvAEdd1c-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rWX3KUOFH1uNvAEdd1c-10" target="s8UntD37v0S1v3NfBxwZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rWX3KUOFH1uNvAEdd1c-10" value="Resource" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Primal Age">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -44,8 +90,33 @@
         <mxCell id="TUnPEZxrtdir9Y8ssUcF-27" value="Wooden Tools" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="190" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TUnPEZxrtdir9Y8ssUcF-29" value="Wood Age" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TUnPEZxrtdir9Y8ssUcF-29" value="Wood Age" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JUyDz2Itm9JIY_unAilU" name="Wood Age">
+    <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1MSIuV73TEWTeKXblVis-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wjU9GnD7V5oCleI02q_D-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="191.5" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjU9GnD7V5oCleI02q_D-1" value="Wooden Tools" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwv2Tb8R-BlYpYCRF7B6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cwv2Tb8R-BlYpYCRF7B6-1" target="wjU9GnD7V5oCleI02q_D-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cwv2Tb8R-BlYpYCRF7B6-1" value="Wood Age" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="50" y="14" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pEmJxS7P7kt8y4BHN_O--1" value="Cobblestone" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -55,71 +126,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Vi_djC96B-yvqEV1zyWl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="z849LxCrmkc4KVr5ACgc-2" target="R6FNEFB7K5eZXq1tM2pU-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z849LxCrmkc4KVr5ACgc-2" value="Wooden Tools" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="70" y="87" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qFmJsl34PRpNLbYgkGp7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R6FNEFB7K5eZXq1tM2pU-1" target="qFmJsl34PRpNLbYgkGp7-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R6FNEFB7K5eZXq1tM2pU-1" value="Mine Gravel&lt;br&gt;for flint" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="210" y="87" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qFmJsl34PRpNLbYgkGp7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qFmJsl34PRpNLbYgkGp7-1" target="qFmJsl34PRpNLbYgkGp7-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qFmJsl34PRpNLbYgkGp7-1" value="Crafting Table" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="210" y="190" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qFmJsl34PRpNLbYgkGp7-3" value="Flint Knife" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="70" y="190" width="100" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="jrwpJjfteTBtRHEWPzPA" name="Ruleset">
-    <mxGraphModel dx="1730" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="s8UntD37v0S1v3NfBxwZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kn7PD-53Ynr1DFzxw3J9-1" target="hqtLyXIOB-26WxpZOX00-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s8UntD37v0S1v3NfBxwZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kn7PD-53Ynr1DFzxw3J9-1" target="hqtLyXIOB-26WxpZOX00-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s8UntD37v0S1v3NfBxwZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kn7PD-53Ynr1DFzxw3J9-1" target="hqtLyXIOB-26WxpZOX00-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s8UntD37v0S1v3NfBxwZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kn7PD-53Ynr1DFzxw3J9-1" target="hqtLyXIOB-26WxpZOX00-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kn7PD-53Ynr1DFzxw3J9-1" value="Resource" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="140" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hqtLyXIOB-26WxpZOX00-1" value="Processing:&lt;br&gt;Vanilla" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="180" y="220" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hqtLyXIOB-26WxpZOX00-2" value="Processing:&lt;br&gt;Create" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="220" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hqtLyXIOB-26WxpZOX00-3" value="Adventure" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="50" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hqtLyXIOB-26WxpZOX00-4" value="Processing:&lt;br&gt;Mod" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="180" y="50" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s8UntD37v0S1v3NfBxwZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hqtLyXIOB-26WxpZOX00-5" target="kn7PD-53Ynr1DFzxw3J9-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hqtLyXIOB-26WxpZOX00-5" value="Beginning of Age" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s8UntD37v0S1v3NfBxwZ-1" value="Transfer to Next Age" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="50" y="370" width="100" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
