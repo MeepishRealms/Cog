@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T00:15:25.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1ScdH1UF75VjSsHoJbtt" version="21.6.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-07-09T00:19:12.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fbi7DyGCYDSMyVLdDPGV" version="21.6.1" type="github" pages="7">
   <diagram id="jrwpJjfteTBtRHEWPzPA" name="Ruleset">
     <mxGraphModel dx="1730" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -430,7 +430,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JUyDz2Itm9JIY_unAilU" name="Early Age">
-    <mxGraphModel dx="1615" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1776" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -905,17 +905,23 @@
         <mxCell id="FaKwEU8rN6k1rGkKG9Kc-3" value="Copper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="820" y="695" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FaKwEU8rN6k1rGkKG9Kc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FaKwEU8rN6k1rGkKG9Kc-6" target="FaKwEU8rN6k1rGkKG9Kc-9">
+        <mxCell id="mpmb8pbRZ8ISU7nGnBub-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FaKwEU8rN6k1rGkKG9Kc-6" target="FaKwEU8rN6k1rGkKG9Kc-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FaKwEU8rN6k1rGkKG9Kc-6" value="Heated&lt;br&gt;Mixing" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="880" y="795" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FaKwEU8rN6k1rGkKG9Kc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FaKwEU8rN6k1rGkKG9Kc-9" target="_m1E75TKd1Sv6TDYLToD-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mpmb8pbRZ8ISU7nGnBub-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FaKwEU8rN6k1rGkKG9Kc-9" target="_m1E75TKd1Sv6TDYLToD-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="825" />
+              <mxPoint x="1220" y="870" />
+              <mxPoint x="1290" y="870" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FaKwEU8rN6k1rGkKG9Kc-9" value="Brass" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="880" y="895" width="100" height="60" as="geometry" />
+          <mxGeometry x="1100" y="795" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
