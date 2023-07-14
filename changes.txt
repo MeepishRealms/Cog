@@ -9,6 +9,7 @@ frost wand: change iron to zinc
 cooking pot: change iron to copper and iron sheet
 shulker shell: make obtainiable via chorus
 things: IDK YET
+drill: require 1 diamond
 
 NEW COMPAT ITEM AND USE
 clay bucket
@@ -23,4 +24,7 @@ DESIGN CHANGE
 iron tools -> brass [t]
 notch apple -> netherite apple [t]
 spell binding table -> inscription table
+
+NEW ITEMS
+unobtainium: used for crafting creative only items
 
