@@ -1,0 +1,26 @@
+CRAFTING TWEAKS
+inscription table: include candles and brass
+iron tools: change to brass tools and change recipe, leave iron weapons and bucket
+leather to hide conversion
+bundle: add recipe
+iron flask: IDK YET
+andesite alloy: add iron alternative
+frost wand: change iron to zinc
+cooking pot: change iron to copper and iron sheet
+shulker shell: make obtainiable via chorus
+things: IDK YET
+
+NEW COMPAT ITEM AND USE
+clay bucket
+
+FUNCTIONALITY TWEAKS
+
+
+BALANCING TWEAKS
+increase damage of hammer
+
+DESIGN CHANGE
+iron tools -> brass [t]
+notch apple -> netherite apple [t]
+spell binding table -> inscription table
+
