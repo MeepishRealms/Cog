@@ -1,0 +1,12 @@
+*.jar
+/.minecraft/saves/*
+/.minecraft/logs/*
+/.minecraft/dashloader-cache/*
+/.minecraft/mods/*
+/.minecraft/screenshots/*
+/.minecraft/schematics/*
+/.minecraft/crash-reports/*
+/.minecraft/coremods/*
+/.minecraft/.cache/*
+/.minecraft/usercache.json
+/.minecraft/usernamecache.json
