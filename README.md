@@ -1,3 +1,3 @@
 # create-pack
-atlas v99 but finnally boommm
+A vanilla aesthetic modpack focused around long-term progression, automation, and building.
 
