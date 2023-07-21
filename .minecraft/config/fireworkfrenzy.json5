@@ -20,11 +20,11 @@
 	/* Should Elytra flight cancel Rocket Jumping?
 	       (Overwrites Firework Boost option if true)
 	*/
-	"elytrasCancelRocketJumping": true,
+	"elytrasCancelRocketJumping": false,
 	// Should Firework Boosts cancel Rocket Jumping?
 	"boostsCancelRocketJumping": true,
 	// Should Crossbows get Infinity?
 	"crossbowsGetInfinity": true,
 	// Should Infinity work on Firework Rockets?
-	"infinityAffectsRockets": true
+	"infinityAffectsRockets": false
 }
