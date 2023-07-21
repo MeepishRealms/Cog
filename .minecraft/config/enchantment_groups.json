@@ -4,14 +4,36 @@
       "minecraft:loyalty",
       "minecraft:riptide"
     ],
+    "trident2": [
+      "enchancement:leech",
+      "minecraft:riptide",
+      "enchancement:warp",
+      "enchancement:channeling"
+    ],
+    "durability": [
+      "minecraft:unbreaking",
+      "minecraft:mending"
+    ],
     "melee_damage": [
       "minecraft:bane_of_arthropods",
       "minecraft:smite",
       "minecraft:sharpness"
     ],
-    "crossbow": [
+    "crossbow1": [
       "minecraft:multishot",
-      "minecraft:piercing"
+      "minecraft:piercing",
+      "enchancement:scatter",
+      "enchancement:brimstone"
+    ],
+    "crossbow2": [
+      "enchancement:torch",
+      "enchancement:scatter",
+      "enchancement:brimstone"
+    ],
+    "crossbow3": [
+      "minecraft:quick_charge",
+      "enchancement:torch",
+      "enchancement:brimstone"
     ],
     "protection": [
       "minecraft:protection",
@@ -19,17 +41,41 @@
       "minecraft:fire_protection",
       "minecraft:projectile_protection"
     ],
-    "bow": [
-      "minecraft:mending",
+    "bow1": [
+      "minecraft:infinity",
+      "enchancement:chaos",
+      "minecraft:punch"
+    ],
+    "bow2": [
+      "enchancement:chaos",
+      "enchancement:delay"    
+    ],
+    "bow3": [
+      "enchancement:chaos",
+      "enchancement:phasing"
+    ],
+    "bow4": [
+      "enchancement:chaos",
+      "minecraft:flame"
+    ],
+    "bow5": [
+      "enchancement:phasing",
       "minecraft:infinity"
     ],
     "mining": [
       "minecraft:fortune",
-      "minecraft:silk_touch"
+      "minecraft:silk_touch",
+      "enchancement:extracting",
+      "enchancement:molten"
     ],
-    "trident2": [
-      "minecraft:channeling",
-      "minecraft:riptide"
+    "airjump": [
+      "grapplemod:doublejumpenchantment",
+      "enchancement:gale",
+      "enchancement:bounce"
+    ],
+    "leggings_movement": [
+      "enchancement:dash",
+      "enchancement:slide"
     ]
   },
   "treasures": [
