@@ -68,12 +68,45 @@
       "enchancement:extracting",
       "enchancement:molten"
     ],
-    "airjump": [
+    "helmet1": [
+      "enchancement:assimilation",
+      "enchancement:perception",
+      "minecraft:respiration"
+    ],
+    "helmet2": [
+      "enchancement:assimilation",
+      "enchancement:perception",
+      "enchancement:veil"
+    ],
+    "helmet3": [
+      "enchancement:assimilation",
+      "enchancement:perception",
+      "minecraft:aqua_affinity",
+      "enchancement:veil"
+    ],
+    "chestplate": [
+      "enchancement:amphibious",
+      "enchancement:strafe",
+      "enchancement:wardenspine"
+    ],
+    "chestplate_movement": [
+      "minecraft:fire_protection",
+      "minecraft:blast_protection",
+      "minecraft:projectile_protection",
+      "enchancement:strafe"
+    ],
+    "boots_movement": [
+      "minecraft:fire_protection",
+      "minecraft:blast_protection",
+      "minecraft:projectile_protection",
       "grapplemod:doublejumpenchantment",
       "enchancement:gale",
       "enchancement:bounce"
     ],
     "leggings_movement": [
+      "minecraft:fire_protection",
+      "minecraft:blast_protection",
+      "minecraft:projectile_protection",
       "enchancement:dash",
       "enchancement:slide"
     ]
