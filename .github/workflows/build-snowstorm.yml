@@ -1,13 +1,15 @@
-name: learn-github-actions
-run-name: ${{ github.actor }} is learning GitHub Actions
-on: [push]
+name: Build Snowstorm
+run-name: Create an archive of a new version of Snowstorm.
+on: 
+  push:
+    paths: 'snowstorm/version.json'
 jobs:
-  check-bats-version:
+  tar-snowstorm:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v3
+      - uses: TheDoctor0/zip-release@0.7.
         with:
-          node-version: '14'
-      - run: npm install -g bats
-      - run: bats -v
+          type: zip
+          filename: Snowstorm.zip
+          path: snowstorm          
