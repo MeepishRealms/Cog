@@ -1,0 +1,15 @@
+name: Build Modrinth Modpack
+run-name: Creates a .mrpack.
+on: 
+  release:
+    types: [published]
+jobs:
+  tar-snowstorm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: TheDoctor0/zip-release@0.7.
+        with:
+          type: zip
+          filename: cogno_latest.mrpack
+          path: mrpack
