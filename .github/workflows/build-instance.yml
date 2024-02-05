@@ -1,0 +1,15 @@
+name: Build Minecraft Instance
+run-name: Creates an instance archive compatible with MultiMC, PolyMC, Prism Launcher, and their derivatives.
+on: 
+  release:
+    types: [published]
+jobs:
+  tar-snowstorm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: TheDoctor0/zip-release@0.7.
+        with:
+          type: zip
+          filename: cogno-mmc_latest.zip
+          exclusions: '/.github /flowcharts /mrpack changes.txt enchants.txt'
