@@ -3,6 +3,8 @@ run-name: Create an archive of a new version of Snowstorm.
 on: 
   push:
     paths: 'snowstorm/version.json'
+  release:
+    types: [published]
 jobs:
   tar-snowstorm:
     runs-on: ubuntu-latest
@@ -12,4 +14,4 @@ jobs:
         with:
           type: zip
           filename: Snowstorm.zip
-          path: snowstorm          
+          path: snowstorm
