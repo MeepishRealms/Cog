@@ -1,0 +1,4 @@
+#Tue Feb 06 21:06:19 PST 2024
+shadowDistance=128.0
+SHADER_STYLE=1
+RP_MODE=0
