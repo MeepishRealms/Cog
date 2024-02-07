@@ -4,6 +4,7 @@ on:
     paths: 'snowstorm/version.json'
   release:
     types: [published]
+  workflow_dispatch:
 jobs:
   tar-snowstorm:
     runs-on: ubuntu-latest
