@@ -1,0 +1,9 @@
+{
+    "version": "v2.0.0-p001",
+    "branch": "dev",
+    "tags": [ 
+        "prealpha",
+        "edge-builds"
+    ],
+    "cooresponds": "cogno-prealpha"
+}
