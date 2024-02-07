@@ -1,5 +1,4 @@
 name: Build .mrpack
-run-name: Creates a .mrpack of current build.
 on: 
   release:
     types: [published]
