@@ -14,5 +14,5 @@ jobs:
           exclusions: '/.github /flowcharts /mrpack changes.txt enchants.txt'
       - uses: actions/upload-artifact@v2
         with:
-          name: snowstorm
+          name: instance
           path: ./cogno-mmc_autobuild.zip
