@@ -1,17 +1,21 @@
 name: Build Snowstorm
-run-name: Create an archive of a new version of Snowstorm.
 on: 
   push:
     paths: 'snowstorm/version.json'
   release:
     types: [published]
+  workflow_dispatch:
 jobs:
   tar-snowstorm:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: TheDoctor0/zip-release@0.7.
+      - uses: TheDoctor0/zip-release@0.7.6
         with:
           type: zip
-          filename: Snowstorm.zip
+          filename: snowstorm_autobuild.zip
           path: snowstorm
+      - uses: actions/upload-artifact@v2
+        with:
+          name: snowstorm
+          path: ./snowstorm_autobuild.zip
