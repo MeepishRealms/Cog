@@ -1,5 +1,4 @@
 name: Build Snowstorm
-run-name: Create an archive of a new version of Snowstorm.
 on: 
   push:
     paths: 'snowstorm/version.json'
@@ -13,5 +12,9 @@ jobs:
       - uses: TheDoctor0/zip-release@0.7.6
         with:
           type: zip
-          filename: Snowstorm.zip
+          filename: snowstorm.zip
           path: snowstorm
+      - uses: actions/upload-artifact@v2
+        with:
+          name: snowstorm
+          path: ./snowstorm.zip
