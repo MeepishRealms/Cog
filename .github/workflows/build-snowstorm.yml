@@ -12,9 +12,9 @@ jobs:
       - uses: TheDoctor0/zip-release@0.7.6
         with:
           type: zip
-          filename: snowstorm-autobuild.zip
+          filename: snowstorm_autobuild.zip
           path: snowstorm
       - uses: actions/upload-artifact@v2
         with:
           name: snowstorm
-          path: ./snowstorm-autobuild.zip
+          path: ./snowstorm_autobuild.zip
