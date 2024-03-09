@@ -3,7 +3,7 @@
   "pattern": [
     "PNP",
     "PFP",
-    "SSS",
+    "SSS"
   ],
   "key": {
     "N": {
@@ -14,7 +14,8 @@
     },
     "F": {
       "item": "minecraft:furnace"
-    },
+    }
+  },
   "result": {
     "item": "minecraft:blast_furnace",
     "count": 1
