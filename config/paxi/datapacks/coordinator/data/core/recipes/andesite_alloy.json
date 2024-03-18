@@ -1,20 +1,19 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-      "CA",
-      "AC"
-    ],
-    "key": {
-      "C": {
-        "item": "minecraft:copper_ingot"
-      },
-      "A": {
-        "item": "minecraft:andesite"
-      }
+  "type": "crafting_shaped",
+  "pattern": [
+    "CA",
+    "AC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
     },
-    "result": {
-      "item": "create:andesite_alloy",
-      "count": 1
+    "A": {
+      "item": "minecraft:andesite"
     }
+  },
+  "result": {
+    "item": "create:andesite_alloy",
+    "count": 1
   }
-  
+}

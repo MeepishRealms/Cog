@@ -1,21 +1,20 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-      "BB",
-      "S ",
-      "S "
-    ],
-    "key": {
-        "B": {
-            "item": "create:brass_ingot"
-        },
-        "S": {
-            "item": "minecraft:stick"
-        }
+  "type": "crafting_shaped",
+  "pattern": [
+    "BB",
+    "S ",
+    "S "
+  ],
+  "key": {
+    "B": {
+      "item": "create:brass_ingot"
     },
-    "result": {
-      "item": "minecraft:iron_hoe",
-      "count": 1
+    "S": {
+      "item": "minecraft:stick"
     }
-}
-  
+  },
+  "result": {
+    "item": "minecraft:iron_hoe",
+    "count": 1
+  }
+}  

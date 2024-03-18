@@ -1,4 +1,5 @@
 {
-    "workbench.iconTheme": "mc-dp-icons",
-    "editor.fontFamily": "Monocraft, 'monospace', monospace"
+  "workbench.iconTheme": "mc-dp-icons",
+  "editor.fontFamily": "Monocraft, 'monospace', monospace",
+  "editor.tabSize": 2
 }

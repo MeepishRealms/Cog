@@ -1,9 +1,8 @@
 {
-    "version": "v3.0.0-alpha_1",
-    "branch": "dev",
-    "tags": [ 
-        "prealpha",
-        "edge-builds"
-    ],
-    "cooresponds": "pcog-prealpha"
+  "version": "v3.0.0-alpha_1",
+  "branch": "v3",
+  "tags": [ 
+    "live"
+  ],
+  "cooresponds": "pcog-alpha"
 }
