@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "CSC",
+    "I I",
+    "III"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "I": {
+      "item": "create:iron_plate"
+    },
+    "S": {
+      "item": "minecraft:wooden_shovel"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:cooking_pot",
+    "count": 1
+  }
+}

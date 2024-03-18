@@ -1,0 +1,7 @@
+{
+	"pack":{
+		"pack_format": 15,
+		"supported_formats": {"min_inclusive": 15, "max_inclusive": 26},
+		"description": "§6Vanilla Tweaks 1.20\n§evanillatweaks.net"
+	}
+}
