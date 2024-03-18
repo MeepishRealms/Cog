@@ -3,41 +3,19 @@ inscription table: include candles and brass
 iron tools: change to brass tools and change recipe, leave iron weapons and bucket
 leather to hide conversion
 bundle: add recipe
-iron flask: IDK YET
-andesite alloy: add iron alternative
-frost wand: change iron to zinc
-cooking pot: change iron to copper and iron sheet
 shulker shell: make obtainiable via chorus
-things: IDK YET
-drill: require 1 diamond
+drill: require 1 diamond (???)
 jukebox: no more diamond
 earthdive_spear/voidlance: make obtainable earlier maybe in the industrial age
-*brass_hook: change recipe to contain brass instead
-*trident upgrades: change smithing recipe to contain a boss drop
-
-TT's SUGGESTIONS
-grapple: maybe we could do brass instead of iron to force the use of create with a simple retexture, however iron could become underused
-
-trident upgrades: trident upgrades being in the industrial age might not be a great idea as the modern age is the age for passaging armor and tools alike. the modern age would probably be best and i think the trident passaging in a smithing table would be best
-
-inscription table: since we retextured the spell binding table to be the inscription table, if it was meant to be obtained in the industrial age, it would essentially mean that players cant use magic at all until this point due to tomes needing to be bound to spells before use
-
-NEW COMPAT ITEM AND USE
-clay bucket
 
 FUNCTIONALITY TWEAKS
 *drill cant mine diamonds
-
-BALANCING TWEAKS
-increase damage of hammer
+idk if this is possible
 
 DESIGN CHANGE
 iron tools -> brass [t]
 notch apple -> netherite apple [t]
-spell binding table -> inscription table
-grappling hook -> brass hook [t]
 
 NEW ITEMS
-unobtainium: used for crafting creative only items
+unobtainium: used for crafting creative only items (???)
 *special eyes: used too open the end portal and also as a failsafe to prevent the early end demension causing the playthrough to essentially end
-
