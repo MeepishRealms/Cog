@@ -1,10 +1,6 @@
 {
-    "version": "v3.1.0-p001",
-    "branch": "dev",
-    "tags": [ 
-        "prealpha",
-        "edge-builds"
-    ],
-    "cooresponds": "pcog-prealpha"
+  "version": "v1.0.0",
+  "build": "1",
+  "branch": "dev",
+  "cooresponds": "project_cog"
 }
-
