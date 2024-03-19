@@ -1,7 +1,7 @@
 
 ["Elenai Dodge 2's Config"]
 	#How many ticks it takes after dodging before you can dodge again
-	"Dodge Cooldown" = 12
+	"Dodge Cooldown" = 14
 	#How many ticks the player is invincible for after dodging
 	"Invincibility Ticks" = 6
 	#How many half feathers it costs to dodge
