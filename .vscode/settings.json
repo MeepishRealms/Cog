@@ -1,5 +1,7 @@
 {
   "workbench.iconTheme": "mc-dp-icons",
   "editor.fontFamily": "Monocraft, 'monospace', monospace",
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "prettier.quoteProps": "consistent",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
 }
