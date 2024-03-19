@@ -1,0 +1,25 @@
+
+["Vanilla Portals"]
+	#Enable or disable End portal teleportation interaction (set to 'true' to restore default functionality).
+	End_Portal = true
+	#Enable or disable Nether portal teleportation interaction (set to 'true' to restore default functionality).
+	Nether_Portal = false
+
+["Modded Portals"]
+	#Enable or disable portal teleportation interaction for The Twilight Forest mod. Link: https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
+	The_Twilight_Forest = true
+	#Enable or disable portal teleportation interaction for The Undergarden mod. Link: https://www.curseforge.com/minecraft/mc-mods/the-undergarden
+	The_Undergarden = true
+	#Enable or disable portal teleportation interaction for Tropicraft mod. Link: https://www.curseforge.com/minecraft/mc-mods/tropicraft
+	Tropicraft = true
+
+["Extra Features"]
+	#Enable or disable Ender Eye's Stronghold search interaction (set to 'true' to restore default functionality).
+	Ender_Eye_Search = false
+	#Enable or disable Ender Pearl's teleport feature (set to 'true' to restore default functionality).
+	Ender_Pearl_Teleport = true
+	#Hex color code for the warning message. Hex color generator: https://rgbcolorcode.com/color/FFFFFF
+	Warning_Color = "FFFFFF"
+	#Enable or disable the warning message when interacting with disabled portals.
+	Warning_Message = true
+
