@@ -1,6 +1,7 @@
 {
   "loadOrder": [
     "vanilla_tweaks",
-    "coordinator"
+    "coordinator",
+    "lootr_chest_retexture"
   ]
 }
