@@ -1,0 +1,8 @@
+{
+  "title": {
+    "color": "cyan"
+  },
+  "tip": {
+    "text": "A deployer can automate otherwise manual tasks, like creating casings or placing saplings."
+  }
+}
