@@ -1,0 +1,8 @@
+{
+  "title": {
+    "color": "cyan"
+  },
+  "tip": {
+    "text": "Right-Clicking a block with a wrench will rotate it."
+  }
+}

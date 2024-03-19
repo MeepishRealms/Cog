@@ -1,0 +1,8 @@
+{
+  "version": "v3.0.0-alpha_1",
+  "branch": "v3",
+  "tags": [ 
+    "live"
+  ],
+  "cooresponds": "pcog-alpha"
+}

@@ -1,0 +1,8 @@
+{
+  "title": {
+    "color": "cyan"
+  },
+  "tip": {
+    "text": "Placing a block inside of a copycat block changes its texture."
+  }
+}

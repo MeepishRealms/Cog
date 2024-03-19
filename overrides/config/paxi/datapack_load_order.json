@@ -1,0 +1,6 @@
+{
+  "loadOrder": [
+    "vanilla_tweaks",
+    "coordinator"
+  ]
+}
