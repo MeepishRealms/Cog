@@ -126,18 +126,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 16259740,
-      "hashes": {
-        "sha1": "b42adab2ec0a2919db552a7acbe71196eb6e183c",
-        "sha512": "26c20c1b83cef03dbe4839f7ef32aad858264e450c2ea84ff238057acf6929281685a72f89ffc58de1e9b3f8af5581f7dabe998c09cf53b33cfc19f86d45cf1f"
-      },
-      "path": "mods/DistantHorizons-2.0.1-a-1.20.1.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/CYSUVOdj/versions/nYI4tEpt/EquipmentCompare-1.20.1-fabric-1.3.7.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -363,18 +351,6 @@
         "sha512": "8a79790a0644c0838f7f9764ffea78d00403645d685e8ba474680831f5f300026dd9ae00c7c3673a5b04216c6f8c178114bc52c78cc554375d64f71d49aa2e4c"
       },
       "path": "mods/ThirstWasTaken-1.20.1-1.3.6.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/AMCbgyVw/versions/I2w28mk6/Tips-Forge-1.20.1-12.0.5.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 109768,
-      "hashes": {
-        "sha1": "abbad8ab16ac123cb803e26bd7ed86a132a2df64",
-        "sha512": "bd59afa44d9ca4de48d5455fb1f0b9dc53f15effba10912def7b37380ca9e3dc81511a1bdcccbe250452e7f0e20bc4f5e2c1b01f8de33554c488b74e6029c93d"
-      },
-      "path": "mods/Tips-Forge-1.20.1-12.0.5.jar"
     },
     {
       "downloads": [
