@@ -1327,7 +1327,7 @@
   ],
   "formatVersion": 1,
   "game": "minecraft",
-  "name": "Project Cog",
+  "name": "Cog",
   "summary": "Project Cog is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
-  "versionId": "1.0.0_alpha.1"
+  "versionId": "1.0.0_beta.1"
 }
