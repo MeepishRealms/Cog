@@ -4,13 +4,7 @@ iron tools: change to brass tools and change recipe, leave iron weapons and buck
 leather to hide conversion
 bundle: add recipe
 shulker shell: make obtainiable via chorus
-drill: require 1 diamond (???)
 jukebox: no more diamond
-earthdive_spear/voidlance: make obtainable earlier maybe in the industrial age
-
-FUNCTIONALITY TWEAKS
-*drill cant mine diamonds
-idk if this is possible
 
 DESIGN CHANGE
 iron tools -> brass [t]

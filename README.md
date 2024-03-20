@@ -6,10 +6,11 @@ Project Cog is built around a vanilla aesthetic, extended midgame, automation, a
 ## Installation and Server Hosting
 To install Project Cog, you can use the following methods.
 
-1. Install via Prism Launcher as Modrinth Pack (Recommended)
-2. Install via MultiMC/PolyMC/Prism Launcher Instance
-3. Install via Modrinth App
-4. Install to Minecraft Launcher (Not Recommended)
+1. Install via Prism Launcher as Modrinth Pack
+2. Install via Modrinth App as Custom Import
+3. Install via Curseforge App as Custom Import
+4. Install via MultiMC Instance
+5. Install to Minecraft Launcher (Not Recommended)
 
 If you plan to host a server for Project Cog, either download the Server Instance ZIP or use a container template.
 
