@@ -1335,6 +1335,18 @@
         "sha512": "8ab09307f7bf1b61e1486839fddfeef821f50a4c225d41fe500ce60d116ef30d7aaed512286eef7a4609142d7d57968ae441863f1498ffd32f1c7de112a7febe"
       },
       "path": "mods/textrues_embeddium_options-0.1.5+mc1.20.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/gTtHakxy/voicechat-forge-1.20.1-2.5.9.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 7707469,
+      "hashes": {
+        "sha1": "b6095e42f03d24654670d88f4ef5a87fec2bc9c9",
+        "sha512": "09bcfe0a3005fc970153c46cc6db846f078cc635c92df63dc16247eeccadf4a38c7ad7f5a0739bc345a0368689870662c3619cd771cbd3fdb89e7dcb6beb7eed"
+      },
+      "path": "mods/voicechat-forge-1.20.1-2.5.9.jar"
     }
   ],
   "formatVersion": 1,
