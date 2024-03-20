@@ -846,6 +846,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Dafp0il6/versions/zJkErXfC/experimentalsettingsdisabler-1.20.2-6.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 9906,
+      "hashes": {
+        "sha1": "40287901d480cfd7849ec91c725e4a4f8ed1aa04",
+        "sha512": "625174db6c011c3cb2aecddeeabfac3661b0d0fcc477b3f864f3c194206811a950a05f51418e2ef1e80d73f5a5cd7cec40f53a244dca7fb41c6ec45eea9ba4b4"
+      },
+      "path": "mods/experimentalsettingsdisabler-1.20.2-6.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/sCxHMib4/fastback-0.15.6%2B1.20.1-forge.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -1287,18 +1299,6 @@
         "sha512": "cc89c6b2dd0db709586028c7732a57a3e6184f19cc2b98b25964c720c3ab434031e62de23e0dab022575d637b5e4a34b5813164d32ec356d56588da400e7d026"
       },
       "path": "mods/starlight-1.1.2+forge.1cda73c.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/lWDHr9jE/versions/hxUteWC1/tectonic-mod-1.19.3-v2.2.1.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 254445,
-      "hashes": {
-        "sha1": "acea849476ac4300f7e174e3f0de76979c90c40f",
-        "sha512": "9db833326e38ed224c4b52656ee1a28c4068a624c83b60a5dfc9369fb27c492ad4766f4ea30fa8c552ec5fe33a02488706a94941ebb97cdc34d694687147bf81"
-      },
-      "path": "mods/tectonic-mod-1.19.3-v2.2.1.jar"
     },
     {
       "downloads": [
