@@ -1,4 +1,4 @@
-name: Build .mrpack
+name: Pack Release
 on: 
   release:
     types: [published]
@@ -11,9 +11,9 @@ jobs:
       - uses: TheDoctor0/zip-release@0.7.6
         with:
           type: zip
-          filename: cogno_autobuild.mrpack
-          path: mrpack
+          filename: cog_autobuild.mrpack
+          exclusions: '/.github /.vscode /flowcharts changes.txt CONTRACT.md HOSTING.md INSTALLATION.md LICENSE README.md'
       - uses: actions/upload-artifact@v2
         with:
-          name: modrinth
-          path: ./cogno_autobuild.mrpack
+          name: instance
+          path: ./cog_autobuild.mrpack
