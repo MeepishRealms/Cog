@@ -1,5 +1,5 @@
 # Server Hosting
-If you plan to host a server for Project Cog, either download the Server Instance ZIP or use a container template.
+If you plan to host a server for Project Cog, either download the Server Instance ZIP or use a container template. This page is still WIP.
 
 ## Server Providers
 
