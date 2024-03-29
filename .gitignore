@@ -8,3 +8,4 @@
 /.minecraft/.cache/*
 /.minecraft/usercache.json
 /.minecraft/usernamecache.json
+*.mrpack

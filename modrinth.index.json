@@ -126,15 +126,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/CYSUVOdj/versions/nYI4tEpt/EquipmentCompare-1.20.1-fabric-1.3.7.jar"
+        "https://cdn.modrinth.com/data/CYSUVOdj/versions/x1lxEKIp/EquipmentCompare-1.20.1-forge-1.3.7.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 128358,
+      "fileSize": 31704,
       "hashes": {
-        "sha1": "3327799e9457169b0570f524df3dcf0082401f30",
-        "sha512": "e511cfb8180b3956d08bb2268e96491ea348f86a556e53f6ecf1afd2826c91adb90b3a68b6ca34024b0cf45534e23a7103716f1b90551a5cbb0fa9bca53a69e4"
+        "sha1": "ef4b24935e3fe8c9b811c4942c6f03e32405f4ca",
+        "sha512": "b5bcba3d91a5f278b18030160b9d74e6e8f3f0773d9de76ebef9646f4d60e57657930ab36ca63cb93bff1100c8d1ebf4a4ff35f6bbd68d41df0427fe5ee2f2dd"
       },
-      "path": "mods/EquipmentCompare-1.20.1-fabric-1.3.7.jar"
+      "path": "mods/EquipmentCompare-1.20.1-forge-1.3.7.jar"
     },
     {
       "downloads": [
@@ -606,15 +606,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/89Wsn8GD/versions/z2zOEvPP/capes-1.5.2%2B1.20-fabric.jar"
+        "https://cdn.modrinth.com/data/89Wsn8GD/versions/84s3PTI1/capes-1.5.2%2B1.20-forge.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 170082,
+      "fileSize": 170524,
       "hashes": {
-        "sha1": "5444e301346383f6133189e66069e970d4a126fc",
-        "sha512": "e8e0b46e6a7da55e83a3883497e29666941cf865c6166b319d56ba574a5124d864353be257c05468f3626813c28544c69fb8015fb24acc41a7ef9356b83714eb"
+        "sha1": "c2631e7e3f43cb5a14949174ef3e4ffa5ffbe4fe",
+        "sha512": "b1ac39df33d96417dcb24e44448f7f5208947f83ba53438febb30a2c73e7dd02bf12a7bf907ed3b01bce5e5a711250c0d35b6c7f88689041c5b15b450ef3a994"
       },
-      "path": "mods/capes-1.5.2+1.20-fabric.jar"
+      "path": "mods/capes-1.5.2+1.20-forge.jar"
     },
     {
       "downloads": [
@@ -834,15 +834,27 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/BDwHAdWc/entityculling-fabric-1.6.2-mc1.20.1.jar"
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/17Hi340V/entityculling-forge-1.6.2-mc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 59348,
+      "fileSize": 62127,
       "hashes": {
-        "sha1": "8e4be2bb9703deddb3d3d212c812cdc1f9de072b",
-        "sha512": "0080d3733f77e6b2e80e40d5d7bfe63dd125d94984bf92568d3434ff281f68123ec382ee53eba021278c01059299c12492dd518e61de1247f5cf7e8040bc98f1"
+        "sha1": "a184f3a963c07f7026fb6d8ccd83ca29e7f7b009",
+        "sha512": "14f6b9b3161d6ebeaefaa1efc08b72a98d82aacf6f9956c3a5bff9daaae3d0200cfdb2034c2321849acf0aafaf0450cbd075a92138e1500f31a70666c59e258f"
       },
-      "path": "mods/entityculling-fabric-1.6.2-mc1.20.1.jar"
+      "path": "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Dafp0il6/versions/ILMogVwI/experimentalsettingsdisabler-1.20.1-3.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 8264,
+      "hashes": {
+        "sha1": "f03a753b276bbb1f17bc7050566a1bf9dbb0a74a",
+        "sha512": "bf6f47aa17ae5ea29f3c4a76978da5ccd184ae72ecc00ffdaeef17c669abd6fdbfa1fea3b697b571419f1f02606ed85d0b30ce9e7944df6332263cd4032bfa5a"
+      },
+      "path": "mods/experimentalsettingsdisabler-1.20.1-3.0.jar"
     },
     {
       "downloads": [
@@ -1182,15 +1194,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/TyTPFOiF/versions/31S6g6rg/seamless-loading-screen-2.0.3%2B1.20.1-fabric.jar"
+        "https://cdn.modrinth.com/data/TyTPFOiF/versions/iguviUFl/seamless-loading-screen-2.0.3%2B1.20.1-forge.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 1007608,
+      "fileSize": 1015562,
       "hashes": {
-        "sha1": "88abb18ed9fa21ed4c923b773c2681506a03be57",
-        "sha512": "40f8dac8299d768df486f2ce405211273124e4b4cf5748b5398b8c7d6ad45bb4d46b8fcf62b1e11fbcf4d7d03a5f25fde087320eabda099e3639f4e855b2e9c3"
+        "sha1": "fb03054d727573029b2dbf5e78bd187491b8931d",
+        "sha512": "58a7a8ce6bc2f9a5a1403200e46681705e256c4384ffd9043dfc9c5223c0e90b22c280163e913a69a7bf41c63830a4b9c11109b14c62d3e9fe87d32949676903"
       },
-      "path": "mods/seamless-loading-screen-2.0.3+1.20.1-fabric.jar"
+      "path": "mods/seamless-loading-screen-2.0.3+1.20.1-forge.jar"
     },
     {
       "downloads": [
@@ -1290,18 +1302,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/lWDHr9jE/versions/hxUteWC1/tectonic-mod-1.19.3-v2.2.1.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 254445,
-      "hashes": {
-        "sha1": "acea849476ac4300f7e174e3f0de76979c90c40f",
-        "sha512": "9db833326e38ed224c4b52656ee1a28c4068a624c83b60a5dfc9369fb27c492ad4766f4ea30fa8c552ec5fe33a02488706a94941ebb97cdc34d694687147bf81"
-      },
-      "path": "mods/tectonic-mod-1.19.3-v2.2.1.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/S1tndFDa/versions/r66v9j9a/textrues_embeddium_options-0.1.5%2Bmc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -1323,11 +1323,35 @@
         "sha512": "09bcfe0a3005fc970153c46cc6db846f078cc635c92df63dc16247eeccadf4a38c7ad7f5a0739bc345a0368689870662c3619cd771cbd3fdb89e7dcb6beb7eed"
       },
       "path": "mods/voicechat-forge-1.20.1-2.5.9.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/HVnmMxH1/versions/D5fox3fg/ComplementaryReimagined_r5.1.1.zip"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 409956,
+      "hashes": {
+        "sha1": "8738d99d8a78b7e7ea71b5c15a3432bc04eba715",
+        "sha512": "fb6fda4dfc4851bed754f4f0eddac8f065e69e564cbd7c479963b98c95cb5646d1c527ca0f680bde0fd302d0f3f0eaa66be7526ee5df6bdd9df0379b0b1d8cd5"
+      },
+      "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/kmwfVOoi/versions/kxINFUyA/rethinking-voxels_r0.1_beta2.zip"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 607173,
+      "hashes": {
+        "sha1": "d72d79ba8525ffbe18acc10e07b38b4ea800c51d",
+        "sha512": "773acd817d19336c287c8a1eab6b06f42437b617b3f9ecf833f979fa5ea69cf6968454208e1b30474a2e4a591f186685ebb7c48b6b67db6c684b4193cd88ff45"
+      },
+      "path": "shaderpacks/rethinking-voxels_r0.1_beta2.zip"
     }
   ],
   "formatVersion": 1,
   "game": "minecraft",
   "name": "Cog",
   "summary": "Project Cog is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
-  "versionId": "1.0.0_beta.1"
+  "versionId": "1.0.0"
 }
