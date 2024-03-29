@@ -8,9 +8,7 @@ To install Project Cog, you can use the following methods.
 
 1. Install via Prism Launcher as Modrinth Pack
 2. Install via Modrinth App as Custom Import
-3. Install via Curseforge App as Custom Import
-4. Install via MultiMC Instance
-5. Install to Minecraft Launcher (Not Recommended)
+3. Install via Curseforge App as Custom Import (Not Recommended)
 
 If you plan to host a server for Project Cog, either download the Server Instance ZIP or use a container template.
 
@@ -21,7 +19,7 @@ The following roadmap is subject to change at any time and future plans are not 
   - Easier than ever to progress with a new progression tree powered by the FTB Quests mod.
 - v1.2 - The Farsight Update
   - See Minecraft the way it was meant to be seen with expanded Shader support and compatibility with Distant Horizons-- see up to hundreds of chunks with shaders at over 120 FPS!
-- v2.0 - The Trails and Tales Update
+- v2.0 - The Ominous Trials Update
   - Update to 1.21!
   - Explore new Trail Chambers, Maces, and Wolf Armor.
 - v2.1 - The Aeronautics Update

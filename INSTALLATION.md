@@ -1,5 +1,5 @@
 # Installation
-Follow these instructions to install Project Cog
+Follow these instructions to install Project Cog. This page is still WIP.
 
 ## via Prism Launcher
 To install Project Cog, you can use the following methods.
