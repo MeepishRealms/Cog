@@ -14,8 +14,8 @@
         }
       ],
       "blacklistedEnchantments": [
-        "minecraft:protection",
-        "minecraft:fire_protection"
+        "minecraft:mending",
+        "minecraft:soul_fire_aspect"
       ]
     },
     "request": {
