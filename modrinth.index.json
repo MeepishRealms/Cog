@@ -834,15 +834,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/BDwHAdWc/entityculling-fabric-1.6.2-mc1.20.1.jar"
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/17Hi340V/entityculling-forge-1.6.2-mc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 59348,
+      "fileSize": 62127,
       "hashes": {
-        "sha1": "8e4be2bb9703deddb3d3d212c812cdc1f9de072b",
-        "sha512": "0080d3733f77e6b2e80e40d5d7bfe63dd125d94984bf92568d3434ff281f68123ec382ee53eba021278c01059299c12492dd518e61de1247f5cf7e8040bc98f1"
+        "sha1": "a184f3a963c07f7026fb6d8ccd83ca29e7f7b009",
+        "sha512": "14f6b9b3161d6ebeaefaa1efc08b72a98d82aacf6f9956c3a5bff9daaae3d0200cfdb2034c2321849acf0aafaf0450cbd075a92138e1500f31a70666c59e258f"
       },
-      "path": "mods/entityculling-fabric-1.6.2-mc1.20.1.jar"
+      "path": "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
     },
     {
       "downloads": [
