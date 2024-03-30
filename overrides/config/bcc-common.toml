@@ -3,11 +3,11 @@
 [general]
 	#The CurseForge project ID for the modpack
 	#Range: > 0
-	modpackProjectID = 10000000
+	modpackProjectID = 0
 	#The name of the modpack
 	modpackName = "Project Cog"
 	#The version of the modpack
-	modpackVersion = "v1.0.0"
+	modpackVersion = "1.0.1"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

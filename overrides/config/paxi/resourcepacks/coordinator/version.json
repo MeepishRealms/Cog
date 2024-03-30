@@ -1,6 +1,8 @@
 {
   "version": "v1.0.0",
-  "build": "1",
-  "branch": "dev",
+  "branch": "v1",
+  "tags": [ 
+    "release"
+  ],
   "cooresponds": "project_cog"
 }
