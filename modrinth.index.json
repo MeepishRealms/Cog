@@ -140,7 +140,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/4H6sumDB/versions/3d9gByqp/EuphoriaPatcher-0.3.0-forge.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 293936,
       "hashes": {
         "sha1": "0e7fe92767d397fc724b130ac9ac5036d2626d34",
@@ -152,7 +152,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/2JAUNCL4/versions/qCMwYRMZ/Fallingleaves-1.20.1-2.1.0.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 130363,
       "hashes": {
         "sha1": "7cae5ae0f3ff3af230ecb8557fe0af6ca59f3ef5",
@@ -176,7 +176,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/TbriQCWD/versions/uWXuMaW4/GeckoLibOculusCompat-Forge-1.0.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 6239,
       "hashes": {
         "sha1": "d5c91ae0cfade2672bf00628721da661a59930c5",
@@ -560,7 +560,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/o4Wx4DUB/versions/NOiJG3oF/blur-forge-3.1.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 177259,
       "hashes": {
         "sha1": "562f34155f3849463449aeb1ab54cc7064e4bc86",
@@ -620,7 +620,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/xSjLtVeN/chat_heads-0.10.32-forge-1.20.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 207501,
       "hashes": {
         "sha1": "2aa3a8e51361a32c4213bf23f91287731b347cbb",
@@ -764,7 +764,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/LQ3K71Q1/versions/NhH3bdcX/dynamic-fps-3.4.2%2Bminecraft-1.20.4-forge.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 252738,
       "hashes": {
         "sha1": "6c376b2a478a1d645407a816ce53c1e397832e8e",
@@ -800,7 +800,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/sk9rgfiA/versions/H9CSyX47/embeddium-0.3.9%2Bmc1.20.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 976411,
       "hashes": {
         "sha1": "4e2335a9aaa3c0d1a11f728cdebdcdd197e8a04d",
@@ -812,7 +812,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/q7vRRpxU/versions/sDwPKoLM/emoji-type-2.2.3%2B1.20.4-neoforge.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 28212,
       "hashes": {
         "sha1": "ffdb409f32211fe3ad77b4f2bafd7c0f2195beaa",
@@ -836,7 +836,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/NNAgCjsB/versions/17Hi340V/entityculling-forge-1.6.2-mc1.20.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 62127,
       "hashes": {
         "sha1": "a184f3a963c07f7026fb6d8ccd83ca29e7f7b009",
@@ -1004,7 +1004,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/gPCdW0Wr/versions/hrpSDBlO/make_bubbles_pop-0.2.0-forge-mc1.19.4%2B.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 18783,
       "hashes": {
         "sha1": "a6029ea4fcb9537fc034d2bfb4c2ee353639a4c8",
@@ -1028,7 +1028,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/QdG47OkI/versions/fbaUxdx3/modelfix-1.14.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 45182,
       "hashes": {
         "sha1": "f11c4d7010f9572bd2e2ed64c15e544816226e0b",
@@ -1112,7 +1112,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/ndHYMY2K/versions/H1ouLgRR/oculus-flywheel-compat-1.20.1-0.2.2.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 65197,
       "hashes": {
         "sha1": "d211a7e4d30796b0452d38a9857aeb29de16305d",
@@ -1172,7 +1172,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/nCQRBEiR/versions/rHORzYiO/raised-forge-1.20.1-3.1.3.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 36545,
       "hashes": {
         "sha1": "b8bfb049c7f4b5d8cca9739f78f42520ab119836",
@@ -1196,7 +1196,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/TyTPFOiF/versions/iguviUFl/seamless-loading-screen-2.0.3%2B1.20.1-forge.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 1015562,
       "hashes": {
         "sha1": "fb03054d727573029b2dbf5e78bd187491b8931d",
@@ -1244,7 +1244,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/z53V2L4P/versions/HkfL3iGO/smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 41044,
       "hashes": {
         "sha1": "3fd79132dba444bd109b5de4ad75dee06a48e130",
@@ -1304,7 +1304,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/S1tndFDa/versions/r66v9j9a/textrues_embeddium_options-0.1.5%2Bmc1.20.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 163631,
       "hashes": {
         "sha1": "f35d0566e43cde0c4ffba9ecf893209b2b96b0c8",
@@ -1328,7 +1328,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/HVnmMxH1/versions/D5fox3fg/ComplementaryReimagined_r5.1.1.zip"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 409956,
       "hashes": {
         "sha1": "8738d99d8a78b7e7ea71b5c15a3432bc04eba715",
@@ -1340,7 +1340,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/kmwfVOoi/versions/kxINFUyA/rethinking-voxels_r0.1_beta2.zip"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 607173,
       "hashes": {
         "sha1": "d72d79ba8525ffbe18acc10e07b38b4ea800c51d",
@@ -1353,5 +1353,5 @@
   "game": "minecraft",
   "name": "Cog",
   "summary": "Project Cog is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
-  "versionId": "1.0.0"
+  "versionId": "1.0.1"
 }

@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "minecraft:iron_ore",
     "minecraft:deepslate_iron_ore",
@@ -9,6 +9,9 @@
     "minecraft:deepslate_gold_ore",
     "minecraft:raw_gold_block",
     "minecraft:nether_gold_ore",
-    "minecraft:gold_block"
+    "minecraft:gold_block",
+    "minecraft:emerald_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:emerald_block"
   ]
 }

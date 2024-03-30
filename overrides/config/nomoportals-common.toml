@@ -1,9 +1,9 @@
 
 ["Vanilla Portals"]
 	#Enable or disable End portal teleportation interaction (set to 'true' to restore default functionality).
-	End_Portal = true
+	End_Portal = false
 	#Enable or disable Nether portal teleportation interaction (set to 'true' to restore default functionality).
-	Nether_Portal = false
+	Nether_Portal = true
 
 ["Modded Portals"]
 	#Enable or disable portal teleportation interaction for The Twilight Forest mod. Link: https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
