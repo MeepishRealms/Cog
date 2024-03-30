@@ -248,7 +248,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/atHH8NyV/versions/JhxD2e6J/LegendaryTooltips-1.20.1-forge-1.4.5.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 55258,
       "hashes": {
         "sha1": "7d83a56572d333ea352706872f565b8b8537085c",
@@ -284,7 +284,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/1OE8wbN0/versions/eXlUYTX6/Prism-1.20.1-forge-1.0.3.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 51612,
       "hashes": {
         "sha1": "4984c81a687d37132bd95e1298d718f62e618472",
@@ -1124,7 +1124,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/GchcoXML/versions/Bj8M79wL/oculus-mc1.20.1-1.6.15a.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 2806358,
       "hashes": {
         "sha1": "478a222cd6390353ba080b07fcac2b6301fbe3a2",
