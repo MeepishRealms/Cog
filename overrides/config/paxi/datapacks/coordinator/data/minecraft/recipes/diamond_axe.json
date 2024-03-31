@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "DD",
+    "ID",
+    "S "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_axe"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_axe",
+    "count": 1
+  }
+}
