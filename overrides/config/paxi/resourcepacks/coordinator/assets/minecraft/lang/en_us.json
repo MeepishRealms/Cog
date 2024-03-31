@@ -116,5 +116,7 @@
   "biome.terralith.cave.mantle_caves": "Mantle Caves",
   "biome.terralith.cave.thermal_caves": "Thermal Caves",
   "biome.terralith.cave.tuff_caves": "Tuff Caves",
-  "biome.terralith.cave.underground_jungle": "Underground Jungle"
+  "biome.terralith.cave.underground_jungle": "Underground Jungle",
+
+  "fluid_type.create_things_and_misc.slime": "Slime" 
 }
