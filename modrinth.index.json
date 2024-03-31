@@ -6,6 +6,18 @@
   "files": [
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/wXiGiyGX/versions/txd1dBMw/Amplified_Nether_1.20.4_v1.2.4.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 88304,
+      "hashes": {
+        "sha1": "24d3b84cd127c74282f9d5613d67821f9fe27125",
+        "sha512": "0e3e70402f3b462e33561b1b4d5cd14311b91ccd527c6f8ff76c1fad87ae20dd213f93fb9edaeb1e5ae90afd7f0e7f5edad8366ca8e51416d8a86530b477cc3d"
+      },
+      "path": "mods/Amplified_Nether_1.20.4_v1.2.4.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/1jvt7RTc/versions/LKHlOj9m/AxesAreWeapons-1.7.3-forge-1.20.2.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -243,6 +255,18 @@
         "sha512": "e10fd945f24af9e738726e8155c70a084de09800984d7fee2c4c1097158c73f8aee9b8e363fc9968b5a43c421daad721648b4c23188a235c0ffc19e6d067808c"
       },
       "path": "mods/JadeAddons-1.20.1-forge-5.2.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/46KJle7n/versions/u75rtQcW/L_Enders_Cataclysm-1.90%20-1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 39395215,
+      "hashes": {
+        "sha1": "1ace506392da925ee9717c440ab553dd6c7168a0",
+        "sha512": "4f0dcc21bfe717b1a42f99a64cf5499d9c66e0741937914b37807ffb7f05813746db7766915deff2a8f39dff86bad7d481cedb684066097a0d669f11fb51cc50"
+      },
+      "path": "mods/L_Enders_Cataclysm-1.90 -1.20.1.jar"
     },
     {
       "downloads": [
@@ -618,6 +642,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/M9G5zpf1/versions/eLl35whr/ceramicbucket-1.20.1-4.1.0.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 18592,
+      "hashes": {
+        "sha1": "f2e2172399db2f944e9701adadb6ad0f5286ece0",
+        "sha512": "9195de93b9782a60dbdc48e56fe5dca5e263973bd4fbec7ba25bc917c13fc6cce311671e66359fcaf160e3eebd0afaec0b4f8698711ca03c09a21bbf990b7fe2"
+      },
+      "path": "mods/ceramicbucket-1.20.1-4.1.0.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/xSjLtVeN/chat_heads-0.10.32-forge-1.20.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -627,6 +663,18 @@
         "sha512": "0edd110ec91e4c532652f49909f22a044710e648e4c47f5abf0aa64a701f2a5552e1e43ff11f4e595d5ba4922c41df461fa3ec97f302bfe2e54c29246cf3fd43"
       },
       "path": "mods/chat_heads-0.10.32-forge-1.20.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/jJfV67b1/versions/ssXkoBKk/citadel-2.5.4-1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 3181461,
+      "hashes": {
+        "sha1": "e7f209ae09cf818ecf98698482b82a1cbe0fe058",
+        "sha512": "98f3610b2ee6782211369b7beedb57392d41db3bf0f0ce143fe349ab783766429bb3049f0dbe5ee7998430f19d53e674348caf0cafd6c84a7d379ec6cea17ad4"
+      },
+      "path": "mods/citadel-2.5.4-1.20.1.jar"
     },
     {
       "downloads": [
