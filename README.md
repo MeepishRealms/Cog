@@ -14,9 +14,6 @@ If you plan to host a server for Project Cog, either download the Server Instanc
 
 ## Roadmap
 The following roadmap is subject to change at any time and future plans are not at all guaranteed. The further in the future they are, the less set in stone it is.
-- v1.1 - The Argonautic Update
-  - Work with your friends to defeat all new bosses and explore new upgrade progession via the Cataclysm mod!
-  - Easier than ever to progress with a new progression tree powered by the FTB Quests mod.
 - v1.2 - The Farsight Update
   - See Minecraft the way it was meant to be seen with expanded Shader support and compatibility with Distant Horizons-- see up to hundreds of chunks with shaders at over 120 FPS!
 - v2.0 - The Ominous Trials Update
