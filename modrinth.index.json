@@ -42,6 +42,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/8shC1gFX/versions/xo6HmgWj/BetterF3-7.0.2-Forge-1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 468517,
+      "hashes": {
+        "sha1": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d",
+        "sha512": "e88ce04d601a5953de909edaabb49dad9eea2c3a9ccccb1247fd041554b30794d4d4c315be065c90b1017cbd798199e644fe8d905125f4c431ddb8eaf170dd15"
+      },
+      "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/jXuIS25Y/BetterPingDisplay-1.20.1-1.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -315,18 +327,6 @@
         "sha512": "50ed8c99981b9860c846a18cda215d388b67019b76a172833fa4e4b52cbd122eb8e49e594e5789790f95af06e0a98dcf2433b001b1f559b3e7071d2e6b7c1dd7"
       },
       "path": "mods/Paxi-1.20-Forge-4.0.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/rcTfTZr3/versions/KAmTaDGR/PresenceFootsteps-1.9.2.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 7321394,
-      "hashes": {
-        "sha1": "f28b48e77d3e31b899b5dcddbc16b6b33c5fbf53",
-        "sha512": "a053e045eb532f2ba26bceaa8ce6cde1c6acf6cfb9252238886cf2f62210bbb05c6a152b201a06fb5dffda1addebaa11a59d0d7a4a1f7d2dcec980f24fac6c64"
-      },
-      "path": "mods/PresenceFootsteps-1.9.2.jar"
     },
     {
       "downloads": [
@@ -639,6 +639,18 @@
         "sha512": "9d35f532c40ca55eb054188e6293b6f57eecdb748da9bdbf68a0c2567101c09d62ac66f652602f0567247fe0fc6f5fc4d95fdc6c034ee22544d4ff2d3ae723c3"
       },
       "path": "mods/blur-forge-3.1.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/DItE655o/versions/4g88gMqP/bucketlib-1.20.1-2.3.3.2.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 133412,
+      "hashes": {
+        "sha1": "d698466701b946f74de2239e2ea0aca587bfa853",
+        "sha512": "7ffe0d5a38433b3fc5af3aca91a9b0a1bd62adc01068253bc38f9e3b8047066226113a04854da1de796fd241f263f2d4e7be316fa79164109b8660bbe2dfdd62"
+      },
+      "path": "mods/bucketlib-1.20.1-2.3.3.2.jar"
     },
     {
       "downloads": [
