@@ -114,6 +114,30 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/u58R1TMW/versions/aKnE8qBS/Connector-1.0.0-beta.40%2B1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 4452259,
+      "hashes": {
+        "sha1": "17a9aa22068c78eaa9d9c36b86c6a1fa13d94836",
+        "sha512": "508a02bfd2b677ea78cf7c6ce88cd84efcb81537106bcaf43adbd95c4a45ee5dec57288e91821c12d09add13a1cdd896660b143c7286e14562deab7cff609f8e"
+      },
+      "path": "mods/Connector-1.0.0-beta.40+1.20.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/FYpiwiBR/versions/bWPRSm4H/ConnectorExtras-1.10.0%2B1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 185919,
+      "hashes": {
+        "sha1": "0a965305647847e160d0130eef071850ab395dd0",
+        "sha512": "32f6f81d13e8bcf8ca815784d3f72eeb44a79b9fff27f25fb57d167b246dd0768277390a6fd640534ff24dab666d6dba51921df8b886ad30e28767f58b946035"
+      },
+      "path": "mods/ConnectorExtras-1.10.0+1.20.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/JtSnhtNJ/versions/tbDBi4m9/Delightful-1.20.1-3.5.2.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -291,6 +315,18 @@
         "sha512": "50ed8c99981b9860c846a18cda215d388b67019b76a172833fa4e4b52cbd122eb8e49e594e5789790f95af06e0a98dcf2433b001b1f559b3e7071d2e6b7c1dd7"
       },
       "path": "mods/Paxi-1.20-Forge-4.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/rcTfTZr3/versions/KAmTaDGR/PresenceFootsteps-1.9.2.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 7321394,
+      "hashes": {
+        "sha1": "f28b48e77d3e31b899b5dcddbc16b6b33c5fbf53",
+        "sha512": "a053e045eb532f2ba26bceaa8ce6cde1c6acf6cfb9252238886cf2f62210bbb05c6a152b201a06fb5dffda1addebaa11a59d0d7a4a1f7d2dcec980f24fac6c64"
+      },
+      "path": "mods/PresenceFootsteps-1.9.2.jar"
     },
     {
       "downloads": [
@@ -498,6 +534,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/aotdezQJ/antique-atlas-1.4.3%2B1.20.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 1943818,
+      "hashes": {
+        "sha1": "5b06e15397726f2841ed667281c1a00bad304aef",
+        "sha512": "f84980181a46b16c249eb8fb542c0713da1b8e7d5fbc3fb22186a889cd2916b1a9fcd8143f3f2ae6bd279780510ffc0bcaf6143b7ce9199db58a4bec63134601"
+      },
+      "path": "mods/antique-atlas-1.4.3+1.20.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -531,6 +579,18 @@
         "sha512": "5a71a1c220eafbfbdb570fa204454352b48d55f238db1a5b398a8c40f6b0fbd8c09a2f6c10def330abdf3daadaa24dfa52471f8de931a93fd99dc7d85b60960b"
       },
       "path": "mods/athena-forge-1.20.1-3.1.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/SRlzjEBS/versions/leSdRVZw/audioplayer-fabric-1.20.1-1.9.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 610341,
+      "hashes": {
+        "sha1": "47e5b2135b82f7c648fc90ed92f99d984c53171a",
+        "sha512": "52ff3ad62241b1b87ca5ec4c478918692d066b811a4047a165deb6a334b478e3ceba7b8ad910b2f7a3edf79e98ee408833c5ef1363c78b28be5b56a493ecaa4b"
+      },
+      "path": "mods/audioplayer-fabric-1.20.1-1.9.0.jar"
     },
     {
       "downloads": [
@@ -891,6 +951,18 @@
         "sha512": "bf6f47aa17ae5ea29f3c4a76978da5ccd184ae72ecc00ffdaeef17c669abd6fdbfa1fea3b697b571419f1f02606ed85d0b30ce9e7944df6332263cd4032bfa5a"
       },
       "path": "mods/experimentalsettingsdisabler-1.20.1-3.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Aqlf1Shp/versions/pWa2YXuc/fabric-api-0.92.0%2B1.11.3%2B1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 3036869,
+      "hashes": {
+        "sha1": "06d86409adeb6d8f677e862e6704df625ecd9ce6",
+        "sha512": "1042031096f1b0f2238ec3b56b8a55435fcc73feca68596a5787d69db46cd86b92cf2800b62f7ba4f27abbede8455256f5c51117261eeedc15a95e355f1d602e"
+      },
+      "path": "mods/fabric-api-0.92.0+1.11.3+1.20.1.jar"
     },
     {
       "downloads": [
@@ -1290,15 +1362,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/qyVF9oeo/versions/CmxXa8uE/sound-physics-remastered-forge-1.20.1-1.3.1.jar"
+        "https://cdn.modrinth.com/data/qyVF9oeo/versions/GdHd0uVw/sound-physics-remastered-fabric-1.20.1-1.3.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 174516,
+      "fileSize": 174029,
       "hashes": {
-        "sha1": "47b74fae41e3a677dbbb939d67b4160f3e4af5b6",
-        "sha512": "a3c000d96687da06be40ab123a67203bb7749188a50c56d3018f1a7dc5fa1901d15a716768a521efa98d640e8f59016b040e59c84940821fa139bba2b1d86e83"
+        "sha1": "fc41d2febae832dd6e7df66ba37905b9641a3f88",
+        "sha512": "4e5527408b83c519f8f7ec186cd743298b55dd8a38ea18ef56e3cba82170fa8edd7b330fe56e1dc741383feac3b1972071df721985caf964da3bec82fcca3196"
       },
-      "path": "mods/sound-physics-remastered-forge-1.20.1-1.3.1.jar"
+      "path": "mods/sound-physics-remastered-fabric-1.20.1-1.3.1.jar"
     },
     {
       "downloads": [
@@ -1326,6 +1398,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/4KjqhPc9/versions/L19RgRxx/surveyor-0.1.0-beta.29%2B1.20.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 429306,
+      "hashes": {
+        "sha1": "4e39783b2b270b28af00cd991603166e22e516ef",
+        "sha512": "cf3b827be61d76ffdc8cac6a988881007e30948603c29c273f45aaf1ee2d4e0d6b6cf9165fc26e699009de5d1f2f2d9df3c1d6f1e46f5907e38eb542a46c83c1"
+      },
+      "path": "mods/surveyor-0.1.0-beta.29+1.20.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/S1tndFDa/versions/r66v9j9a/textrues_embeddium_options-0.1.5%2Bmc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -1338,15 +1422,27 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/gTtHakxy/voicechat-forge-1.20.1-2.5.9.jar"
+        "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/v4X0aHw0/vcinteraction-1.20.1-1.0.5.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 7707469,
+      "fileSize": 377794,
       "hashes": {
-        "sha1": "b6095e42f03d24654670d88f4ef5a87fec2bc9c9",
-        "sha512": "09bcfe0a3005fc970153c46cc6db846f078cc635c92df63dc16247eeccadf4a38c7ad7f5a0739bc345a0368689870662c3619cd771cbd3fdb89e7dcb6beb7eed"
+        "sha1": "c98f1607274435aea4dcad9fd1dfae73246a749a",
+        "sha512": "7d6fda60afea86b6e20f8bf32e131eb654911f621f5d6ab6749aa58c710fa03d6c50a59a30e9e4ff63d9cca29963c17031b48001be532cd456ddc2ab181337b7"
       },
-      "path": "mods/voicechat-forge-1.20.1-2.5.9.jar"
+      "path": "mods/vcinteraction-1.20.1-1.0.5.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/yGdXF0OW/voicechat-fabric-1.20.1-2.5.11.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 8057265,
+      "hashes": {
+        "sha1": "dc3505c0b0bc27c488c4e4bacf7edb6a6552c77b",
+        "sha512": "5b15421ff703ed8f7a07129d4a77431119bacda310e5917d4cf6f13beea9218a17f92e6f58051ab416ffd00ffe1b12a1e86c33267f578bbe338458d55c9d0bb7"
+      },
+      "path": "mods/voicechat-fabric-1.20.1-2.5.11.jar"
     },
     {
       "downloads": [
