@@ -44,7 +44,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/8shC1gFX/versions/xo6HmgWj/BetterF3-7.0.2-Forge-1.20.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 468517,
       "hashes": {
         "sha1": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d",
