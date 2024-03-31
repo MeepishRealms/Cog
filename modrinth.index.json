@@ -42,18 +42,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/KJhXPbHQ/versions/auZ4x8at/BetterCompatibilityChecker-3.0.1-build.58%2Bmc1.20.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 21072,
-      "hashes": {
-        "sha1": "5c63ec18176fdf072c3b8d0fb7e8445ed73b9b86",
-        "sha512": "4b7e47858fdc91540dcde025bf9d771a45fb9071d2a5c9d40becf045532ea19d6a517b2d8008b2d00dc4d6705a929e56ab1116cb314abb1d3b4d46710af08f3b"
-      },
-      "path": "mods/BetterCompatibilityChecker-3.0.1-build.58+mc1.20.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/jXuIS25Y/BetterPingDisplay-1.20.1-1.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -987,18 +975,6 @@
         "sha512": "f6436da1b65b8d010d6cf516f90141ca00f8a36eda753818eb42a4ebcda185381336e950787aebbd79683ff0223591fe30271aa8e13d4e40d1ece4534d5e79f9"
       },
       "path": "mods/interiors-0.5.2+mc1.20.1-FORGE.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/otXdBiS4/versions/fJ4Z4INS/irons_rpg_tweaks-1.20-1.2.2.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 283876,
-      "hashes": {
-        "sha1": "f26f3cfe14625496e0f0214e339a0bf98fbf24a0",
-        "sha512": "7a835aa716dd777d885a5e0328787c4947840031f0909a61521ff02da4cd82116741317eaf5b5e55cdca7ad2989ddf7c7b24c2c0432c75bbb908db045c45af86"
-      },
-      "path": "mods/irons_rpg_tweaks-1.20-1.2.2.jar"
     },
     {
       "downloads": [
