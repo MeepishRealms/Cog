@@ -6,6 +6,18 @@
   "files": [
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/wXiGiyGX/versions/txd1dBMw/Amplified_Nether_1.20.4_v1.2.4.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 88304,
+      "hashes": {
+        "sha1": "24d3b84cd127c74282f9d5613d67821f9fe27125",
+        "sha512": "0e3e70402f3b462e33561b1b4d5cd14311b91ccd527c6f8ff76c1fad87ae20dd213f93fb9edaeb1e5ae90afd7f0e7f5edad8366ca8e51416d8a86530b477cc3d"
+      },
+      "path": "mods/Amplified_Nether_1.20.4_v1.2.4.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/1jvt7RTc/versions/LKHlOj9m/AxesAreWeapons-1.7.3-forge-1.20.2.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -30,15 +42,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/KJhXPbHQ/versions/auZ4x8at/BetterCompatibilityChecker-3.0.1-build.58%2Bmc1.20.jar"
+        "https://cdn.modrinth.com/data/8shC1gFX/versions/xo6HmgWj/BetterF3-7.0.2-Forge-1.20.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 21072,
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 468517,
       "hashes": {
-        "sha1": "5c63ec18176fdf072c3b8d0fb7e8445ed73b9b86",
-        "sha512": "4b7e47858fdc91540dcde025bf9d771a45fb9071d2a5c9d40becf045532ea19d6a517b2d8008b2d00dc4d6705a929e56ab1116cb314abb1d3b4d46710af08f3b"
+        "sha1": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d",
+        "sha512": "e88ce04d601a5953de909edaabb49dad9eea2c3a9ccccb1247fd041554b30794d4d4c315be065c90b1017cbd798199e644fe8d905125f4c431ddb8eaf170dd15"
       },
-      "path": "mods/BetterCompatibilityChecker-3.0.1-build.58+mc1.20.jar"
+      "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar"
     },
     {
       "downloads": [
@@ -111,6 +123,30 @@
         "sha512": "aed9526886431fe6e09a27fc9934af18ffb73e7f9c0313c5541f42a771c954dfe03232e57200dfccd6d3a324428108bcd646bed37352e16078b5794f8657c5ba"
       },
       "path": "mods/Companion-1.20.1-forge-5.0.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/u58R1TMW/versions/aKnE8qBS/Connector-1.0.0-beta.40%2B1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 4452259,
+      "hashes": {
+        "sha1": "17a9aa22068c78eaa9d9c36b86c6a1fa13d94836",
+        "sha512": "508a02bfd2b677ea78cf7c6ce88cd84efcb81537106bcaf43adbd95c4a45ee5dec57288e91821c12d09add13a1cdd896660b143c7286e14562deab7cff609f8e"
+      },
+      "path": "mods/Connector-1.0.0-beta.40+1.20.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/FYpiwiBR/versions/bWPRSm4H/ConnectorExtras-1.10.0%2B1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 185919,
+      "hashes": {
+        "sha1": "0a965305647847e160d0130eef071850ab395dd0",
+        "sha512": "32f6f81d13e8bcf8ca815784d3f72eeb44a79b9fff27f25fb57d167b246dd0768277390a6fd640534ff24dab666d6dba51921df8b886ad30e28767f58b946035"
+      },
+      "path": "mods/ConnectorExtras-1.10.0+1.20.1.jar"
     },
     {
       "downloads": [
@@ -243,6 +279,18 @@
         "sha512": "e10fd945f24af9e738726e8155c70a084de09800984d7fee2c4c1097158c73f8aee9b8e363fc9968b5a43c421daad721648b4c23188a235c0ffc19e6d067808c"
       },
       "path": "mods/JadeAddons-1.20.1-forge-5.2.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/46KJle7n/versions/u75rtQcW/L_Enders_Cataclysm-1.90%20-1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 39395215,
+      "hashes": {
+        "sha1": "1ace506392da925ee9717c440ab553dd6c7168a0",
+        "sha512": "4f0dcc21bfe717b1a42f99a64cf5499d9c66e0741937914b37807ffb7f05813746db7766915deff2a8f39dff86bad7d481cedb684066097a0d669f11fb51cc50"
+      },
+      "path": "mods/L_Enders_Cataclysm-1.90 -1.20.1.jar"
     },
     {
       "downloads": [
@@ -486,6 +534,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/aotdezQJ/antique-atlas-1.4.3%2B1.20.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 1943818,
+      "hashes": {
+        "sha1": "5b06e15397726f2841ed667281c1a00bad304aef",
+        "sha512": "f84980181a46b16c249eb8fb542c0713da1b8e7d5fbc3fb22186a889cd2916b1a9fcd8143f3f2ae6bd279780510ffc0bcaf6143b7ce9199db58a4bec63134601"
+      },
+      "path": "mods/antique-atlas-1.4.3+1.20.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -519,6 +579,18 @@
         "sha512": "5a71a1c220eafbfbdb570fa204454352b48d55f238db1a5b398a8c40f6b0fbd8c09a2f6c10def330abdf3daadaa24dfa52471f8de931a93fd99dc7d85b60960b"
       },
       "path": "mods/athena-forge-1.20.1-3.1.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/SRlzjEBS/versions/leSdRVZw/audioplayer-fabric-1.20.1-1.9.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 610341,
+      "hashes": {
+        "sha1": "47e5b2135b82f7c648fc90ed92f99d984c53171a",
+        "sha512": "52ff3ad62241b1b87ca5ec4c478918692d066b811a4047a165deb6a334b478e3ceba7b8ad910b2f7a3edf79e98ee408833c5ef1363c78b28be5b56a493ecaa4b"
+      },
+      "path": "mods/audioplayer-fabric-1.20.1-1.9.0.jar"
     },
     {
       "downloads": [
@@ -570,6 +642,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/DItE655o/versions/4g88gMqP/bucketlib-1.20.1-2.3.3.2.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 133412,
+      "hashes": {
+        "sha1": "d698466701b946f74de2239e2ea0aca587bfa853",
+        "sha512": "7ffe0d5a38433b3fc5af3aca91a9b0a1bd62adc01068253bc38f9e3b8047066226113a04854da1de796fd241f263f2d4e7be316fa79164109b8660bbe2dfdd62"
+      },
+      "path": "mods/bucketlib-1.20.1-2.3.3.2.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/lL2MtE37/versions/MnHRIoUj/bwncr-forge-1.20.1-3.17.0.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -618,6 +702,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/M9G5zpf1/versions/eLl35whr/ceramicbucket-1.20.1-4.1.0.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 18592,
+      "hashes": {
+        "sha1": "f2e2172399db2f944e9701adadb6ad0f5286ece0",
+        "sha512": "9195de93b9782a60dbdc48e56fe5dca5e263973bd4fbec7ba25bc917c13fc6cce311671e66359fcaf160e3eebd0afaec0b4f8698711ca03c09a21bbf990b7fe2"
+      },
+      "path": "mods/ceramicbucket-1.20.1-4.1.0.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/xSjLtVeN/chat_heads-0.10.32-forge-1.20.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -627,6 +723,18 @@
         "sha512": "0edd110ec91e4c532652f49909f22a044710e648e4c47f5abf0aa64a701f2a5552e1e43ff11f4e595d5ba4922c41df461fa3ec97f302bfe2e54c29246cf3fd43"
       },
       "path": "mods/chat_heads-0.10.32-forge-1.20.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/jJfV67b1/versions/ssXkoBKk/citadel-2.5.4-1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 3181461,
+      "hashes": {
+        "sha1": "e7f209ae09cf818ecf98698482b82a1cbe0fe058",
+        "sha512": "98f3610b2ee6782211369b7beedb57392d41db3bf0f0ce143fe349ab783766429bb3049f0dbe5ee7998430f19d53e674348caf0cafd6c84a7d379ec6cea17ad4"
+      },
+      "path": "mods/citadel-2.5.4-1.20.1.jar"
     },
     {
       "downloads": [
@@ -858,6 +966,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Aqlf1Shp/versions/pWa2YXuc/fabric-api-0.92.0%2B1.11.3%2B1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 3036869,
+      "hashes": {
+        "sha1": "06d86409adeb6d8f677e862e6704df625ecd9ce6",
+        "sha512": "1042031096f1b0f2238ec3b56b8a55435fcc73feca68596a5787d69db46cd86b92cf2800b62f7ba4f27abbede8455256f5c51117261eeedc15a95e355f1d602e"
+      },
+      "path": "mods/fabric-api-0.92.0+1.11.3+1.20.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/sCxHMib4/fastback-0.15.6%2B1.20.1-forge.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -939,18 +1059,6 @@
         "sha512": "f6436da1b65b8d010d6cf516f90141ca00f8a36eda753818eb42a4ebcda185381336e950787aebbd79683ff0223591fe30271aa8e13d4e40d1ece4534d5e79f9"
       },
       "path": "mods/interiors-0.5.2+mc1.20.1-FORGE.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/otXdBiS4/versions/fJ4Z4INS/irons_rpg_tweaks-1.20-1.2.2.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 283876,
-      "hashes": {
-        "sha1": "f26f3cfe14625496e0f0214e339a0bf98fbf24a0",
-        "sha512": "7a835aa716dd777d885a5e0328787c4947840031f0909a61521ff02da4cd82116741317eaf5b5e55cdca7ad2989ddf7c7b24c2c0432c75bbb908db045c45af86"
-      },
-      "path": "mods/irons_rpg_tweaks-1.20-1.2.2.jar"
     },
     {
       "downloads": [
@@ -1266,15 +1374,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/qyVF9oeo/versions/CmxXa8uE/sound-physics-remastered-forge-1.20.1-1.3.1.jar"
+        "https://cdn.modrinth.com/data/qyVF9oeo/versions/GdHd0uVw/sound-physics-remastered-fabric-1.20.1-1.3.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 174516,
+      "fileSize": 174029,
       "hashes": {
-        "sha1": "47b74fae41e3a677dbbb939d67b4160f3e4af5b6",
-        "sha512": "a3c000d96687da06be40ab123a67203bb7749188a50c56d3018f1a7dc5fa1901d15a716768a521efa98d640e8f59016b040e59c84940821fa139bba2b1d86e83"
+        "sha1": "fc41d2febae832dd6e7df66ba37905b9641a3f88",
+        "sha512": "4e5527408b83c519f8f7ec186cd743298b55dd8a38ea18ef56e3cba82170fa8edd7b330fe56e1dc741383feac3b1972071df721985caf964da3bec82fcca3196"
       },
-      "path": "mods/sound-physics-remastered-forge-1.20.1-1.3.1.jar"
+      "path": "mods/sound-physics-remastered-fabric-1.20.1-1.3.1.jar"
     },
     {
       "downloads": [
@@ -1302,6 +1410,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/4KjqhPc9/versions/L19RgRxx/surveyor-0.1.0-beta.29%2B1.20.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 429306,
+      "hashes": {
+        "sha1": "4e39783b2b270b28af00cd991603166e22e516ef",
+        "sha512": "cf3b827be61d76ffdc8cac6a988881007e30948603c29c273f45aaf1ee2d4e0d6b6cf9165fc26e699009de5d1f2f2d9df3c1d6f1e46f5907e38eb542a46c83c1"
+      },
+      "path": "mods/surveyor-0.1.0-beta.29+1.20.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/S1tndFDa/versions/r66v9j9a/textrues_embeddium_options-0.1.5%2Bmc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -1314,15 +1434,27 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/gTtHakxy/voicechat-forge-1.20.1-2.5.9.jar"
+        "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/v4X0aHw0/vcinteraction-1.20.1-1.0.5.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 7707469,
+      "fileSize": 377794,
       "hashes": {
-        "sha1": "b6095e42f03d24654670d88f4ef5a87fec2bc9c9",
-        "sha512": "09bcfe0a3005fc970153c46cc6db846f078cc635c92df63dc16247eeccadf4a38c7ad7f5a0739bc345a0368689870662c3619cd771cbd3fdb89e7dcb6beb7eed"
+        "sha1": "c98f1607274435aea4dcad9fd1dfae73246a749a",
+        "sha512": "7d6fda60afea86b6e20f8bf32e131eb654911f621f5d6ab6749aa58c710fa03d6c50a59a30e9e4ff63d9cca29963c17031b48001be532cd456ddc2ab181337b7"
       },
-      "path": "mods/voicechat-forge-1.20.1-2.5.9.jar"
+      "path": "mods/vcinteraction-1.20.1-1.0.5.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/yGdXF0OW/voicechat-fabric-1.20.1-2.5.11.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 8057265,
+      "hashes": {
+        "sha1": "dc3505c0b0bc27c488c4e4bacf7edb6a6552c77b",
+        "sha512": "5b15421ff703ed8f7a07129d4a77431119bacda310e5917d4cf6f13beea9218a17f92e6f58051ab416ffd00ffe1b12a1e86c33267f578bbe338458d55c9d0bb7"
+      },
+      "path": "mods/voicechat-fabric-1.20.1-2.5.11.jar"
     },
     {
       "downloads": [
@@ -1353,5 +1485,5 @@
   "game": "minecraft",
   "name": "Cog",
   "summary": "Project Cog is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
-  "versionId": "1.0.1"
+  "versionId": "1.1.0"
 }

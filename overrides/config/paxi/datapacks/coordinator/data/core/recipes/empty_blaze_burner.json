@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " Z ",
+    "ZNZ",
+    " Z "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft_netherrack"
+    },
+    "Z": {
+      "item": "create:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "create:empty_blaze_burner",
+    "count": 1
+  }
+}

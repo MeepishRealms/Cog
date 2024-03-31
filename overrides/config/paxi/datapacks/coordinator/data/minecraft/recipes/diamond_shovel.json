@@ -1,20 +1,23 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "B",
-    "S",
+    "D",
+    "I",
     "S"
   ],
   "key": {
-    "B": {
-      "item": "create:brass_ingot"
+    "I": {
+      "item": "minecraft:iron_shovel"
+    },
+    "D": {
+      "item": "minecraft:diamond"
     },
     "S": {
       "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "minecraft:iron_shovel",
+    "item": "minecraft:diamond_shovel",
     "count": 1
   }
 }

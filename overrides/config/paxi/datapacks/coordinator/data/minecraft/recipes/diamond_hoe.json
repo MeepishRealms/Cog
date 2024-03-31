@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "DD",
+    "I ",
+    "S "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_hoe"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_hoe",
+    "count": 1
+  }
+}

@@ -74,6 +74,7 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.spyglass-improvements.use:key.keyboard.x
 key_key.curios.open.desc:key.keyboard.unknown
+key_key.openatlas.desc:key.keyboard.y
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
