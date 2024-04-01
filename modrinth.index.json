@@ -536,7 +536,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/aotdezQJ/antique-atlas-1.4.3%2B1.20.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 1943818,
       "hashes": {
         "sha1": "5b06e15397726f2841ed667281c1a00bad304aef",
