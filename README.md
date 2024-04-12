@@ -8,13 +8,23 @@ To install Project Cog, you can use the following methods.
 
 1. Install via Prism Launcher as Modrinth Pack
 2. Install via Modrinth App as Custom Import
-3. Install via Curseforge App as Custom Import (Not Recommended)
+3. Install via Curseforge App as Custom Import
 
 If you plan to host a server for Project Cog, either download the Server Instance ZIP or use a container template.
 
 ## Roadmap
 The following roadmap is subject to change at any time and future plans are not at all guaranteed. The further in the future they are, the less set in stone it is.
-- v1.2 - The Farsight Update
+- v1.0 - Initial Update ✔️
+  - Our first release!
+- v1.1 - The Argonautic Update ✔️
+  - Explore all new bosses with the Cataclysm mod!
+  - Loot the Ancient City with caution, Sculk can now hear voice chat!
+  - Enjoy custom music discs!
+- v1.2 - The Quality of Life Update
+  - Balance and change recipes for more creative gameplay.
+  - Brand new Waypoint and Minimap system.
+  - Never have your items despawn again with the Gravestones mod!
+- v1.3 - The Farsight Update
   - See Minecraft the way it was meant to be seen with expanded Shader support and compatibility with Distant Horizons-- see up to hundreds of chunks with shaders at over 120 FPS!
 - v2.0 - The Ominous Trials Update
   - Update to 1.21!
