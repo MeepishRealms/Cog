@@ -42,6 +42,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Q2OqKxDG/versions/vhpXnjE2/BetterAdvancements-1.20.1-0.3.2.162.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 72249,
+      "hashes": {
+        "sha1": "84a6293b9b662c93aa30aa047436b6d8c19e5088",
+        "sha512": "ddfc16bc64c2ca411401841bf953b44b48f675d78ad4ed4223660ada2e1433e1d1553153506b2f0fe74d759990280f1ecfea0c4d0b9e76dfb8c4ceeb80ce61c8"
+      },
+      "path": "mods/BetterAdvancements-1.20.1-0.3.2.162.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/KJhXPbHQ/versions/YLJKBPTh/BetterCompatibilityChecker-forge-4.0.8%2Bmc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
