@@ -20,11 +20,14 @@ The following roadmap is subject to change at any time and future plans are not 
   - Explore all new bosses with the Cataclysm mod!
   - Loot the Ancient City with caution, Sculk can now hear voice chat!
   - Enjoy custom music discs!
-- v1.2 - The Quality of Life Update
+- v1.2 - The Quality of Life Update ✔️
   - Balance and change recipes for more creative gameplay.
   - Brand new Waypoint and Minimap system.
   - Never have your items despawn again with the Gravestones mod!
-- v1.3 - The Farsight Update
+- v1.3 - The Balancing Update
+  - Balance Villagers and Enchanting
+  - Make more things renewable!
+- v1.4 - The Farsight Update
   - See Minecraft the way it was meant to be seen with expanded Shader support and compatibility with Distant Horizons-- see up to hundreds of chunks with shaders at over 120 FPS!
 - v2.0 - The Ominous Trials Update
   - Update to 1.21!
