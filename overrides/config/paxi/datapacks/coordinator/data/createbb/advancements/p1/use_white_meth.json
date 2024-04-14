@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "createbbusableproduct:white_methamphetamine"
+    },
+    "title": "Slippery Slope",
+    "description": "You can never go back.",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "methlvl_1000": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "createbbusableproduct:white_methamphetamine"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "createbb:p1/obtain_white_meth.json"
+}
