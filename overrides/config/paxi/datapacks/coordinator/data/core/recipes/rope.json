@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "F",
+    "F",
+    "F"
+  ],
+  "key": {
+    "F": {
+      "item": "supplementaries:flax"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:rope",
+    "count": 8
+  }
+}

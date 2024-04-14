@@ -1,0 +1,13 @@
+{
+  "group": "methmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+	  "item": "createbb:blue_meth"
+	}
+  ],
+  "result": {
+    "item": "createbbusableproduct:blue_methamphetamine",
+    "count": 1
+  }
+}

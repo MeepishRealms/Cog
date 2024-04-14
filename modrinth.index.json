@@ -42,6 +42,30 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Q2OqKxDG/versions/vhpXnjE2/BetterAdvancements-1.20.1-0.3.2.162.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 72249,
+      "hashes": {
+        "sha1": "84a6293b9b662c93aa30aa047436b6d8c19e5088",
+        "sha512": "ddfc16bc64c2ca411401841bf953b44b48f675d78ad4ed4223660ada2e1433e1d1553153506b2f0fe74d759990280f1ecfea0c4d0b9e76dfb8c4ceeb80ce61c8"
+      },
+      "path": "mods/BetterAdvancements-1.20.1-0.3.2.162.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/KJhXPbHQ/versions/YLJKBPTh/BetterCompatibilityChecker-forge-4.0.8%2Bmc1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 26540,
+      "hashes": {
+        "sha1": "c5407cfd0b38d8db6d6f1c0088397f4c5616c7ae",
+        "sha512": "9bc033b764d50bf9563a11ebe3cceee6d071bd68b96715ddef23419103d09d1380276975e1e1ea981418bee281af89fadb250ec09a270ffa1c41c1788ce0028a"
+      },
+      "path": "mods/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/8shC1gFX/versions/xo6HmgWj/BetterF3-7.0.2-Forge-1.20.1.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -306,6 +330,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/aC3cM3Vq/versions/stb5nE30/MouseTweaks-forge-mc1.20-2.25.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 76146,
+      "hashes": {
+        "sha1": "f3e8805d706a36717306d92bd5c45cb2aef854b6",
+        "sha512": "487206c6116aa742d3c9fe638f4388c0b82e2837e25552faec21d2abf960f95a46a0132b704bb46b78e559ab42e8512b50719311b37bd2c6b3c4764869eb1f07"
+      },
+      "path": "mods/MouseTweaks-forge-mc1.20-2.25.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/qQyHxfxd/versions/ksEG6N5E/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -354,27 +390,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/e0bNACJD/versions/gvqNV855/SereneSeasons-1.20.1-9.0.0.46.jar"
+        "https://cdn.modrinth.com/data/ZzjhlDgM/versions/WYhvuPqr/Steam_Rails-1.6.1%2Bforge-mc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 148149,
+      "fileSize": 9051619,
       "hashes": {
-        "sha1": "9d30811b601f12282b7243931df7aa37ea380693",
-        "sha512": "a6e927e9cf5be1773d269ec92eadadca7bf3e7a7804a0b392de9ce94ec2f6b70080ac087470ee46df7db1700547879737a4a0e2f3719d39005f6c20b20ff92e7"
+        "sha1": "33da894a0c9820408baf2f841ff02ef3e111e970",
+        "sha512": "491b2aa7a28be56a470e159276bdaa78871932e26e49a0c6633514fae1e73c31c6ad88054416b5cce8a0e106791d141c018ff3bb0f30b31deeb4ecd340c1de1e"
       },
-      "path": "mods/SereneSeasons-1.20.1-9.0.0.46.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/ZzjhlDgM/versions/LLyO2sHq/Steam_Rails-1.5.3%2Bforge-mc1.20.1.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 6704629,
-      "hashes": {
-        "sha1": "ed3611b9a6e947d93a7fdfaf4d6d037c17f5ec6e",
-        "sha512": "441b90f0cb9d64774ea21ad02a1fcb494a6785a4c08a4e3d1e2cc54adc56bbd2875873e1e5c230dd7dc7e4a3aa9130af7577376823ebefd10d9f4fd502d56913"
-      },
-      "path": "mods/Steam_Rails-1.5.3+forge-mc1.20.1.jar"
+      "path": "mods/Steam_Rails-1.6.1+forge-mc1.20.1.jar"
     },
     {
       "downloads": [
@@ -399,6 +423,18 @@
         "sha512": "8a79790a0644c0838f7f9764ffea78d00403645d685e8ba474680831f5f300026dd9ae00c7c3673a5b04216c6f8c178114bc52c78cc554375d64f71d49aa2e4c"
       },
       "path": "mods/ThirstWasTaken-1.20.1-1.3.6.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/JkSi2Fzx/versions/D0dQzXpG/Xaeros_Minimap_FP23.9.4_Forge_1.20.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 1341290,
+      "hashes": {
+        "sha1": "d06eef2105bc66e178562acef77c6c9469b8319f",
+        "sha512": "c95ada346cb4310c712f522cfea9899cabcfdee0ba2ba97678dedeecfae2e6bd0e1c3dd4cb649dee12abdb31dc6afe37a5e0f94f42b04002e31acd1a39aec756"
+      },
+      "path": "mods/Xaeros_Minimap_FP23.9.4_Forge_1.20.jar"
     },
     {
       "downloads": [
@@ -534,15 +570,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/aotdezQJ/antique-atlas-1.4.3%2B1.20.jar"
+        "https://cdn.modrinth.com/data/6iTJugQR/versions/C8xDpSXg/amendments-1.20-1.1.18.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 1943818,
+      "fileSize": 929737,
       "hashes": {
-        "sha1": "5b06e15397726f2841ed667281c1a00bad304aef",
-        "sha512": "f84980181a46b16c249eb8fb542c0713da1b8e7d5fbc3fb22186a889cd2916b1a9fcd8143f3f2ae6bd279780510ffc0bcaf6143b7ce9199db58a4bec63134601"
+        "sha1": "8a0573f771081901b9c7ec60d69b2cfd20008be1",
+        "sha512": "351af58bcb44bcdc2b64f08b1f5e3853303b2ec9d054cb47d78b4f07fec11a2906bd650988aea9191ffadf78be3d813a9ade4a49cb663c4dadc920302b4afd25"
       },
-      "path": "mods/antique-atlas-1.4.3+1.20.jar"
+      "path": "mods/amendments-1.20-1.1.18.jar"
     },
     {
       "downloads": [
@@ -615,18 +651,6 @@
         "sha512": "8b78879a2d2a4b450892a97701dd594b78002006072d38c7a2d67e58e32fd5af1de831c71d826365c976903fc8208c4f61b17d9b1d703107a995a1ae190b65ab"
       },
       "path": "mods/bellsandwhistles-0.4.3-1.20.x.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/NRgsGZ6B/versions/Rbwb7HRB/betterlily-1.20-1.3.1.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 135324,
-      "hashes": {
-        "sha1": "5224cb8b7652cb74f328cd4ab97c20f2ffa3661f",
-        "sha512": "2daeab6afd7c779c002ac1c194e5c3fda6509b8bb1bd91bf4daaa54398272f8b56519f2dae69ae1f41eab4c62259a27c6ee2c86bf8f4e1e0124003136af6ca20"
-      },
-      "path": "mods/betterlily-1.20-1.3.1.jar"
     },
     {
       "downloads": [
@@ -1050,6 +1074,30 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/RYtXKJPr/versions/OmP48Fw1/gravestone-forge-1.20.1-1.0.15.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 314468,
+      "hashes": {
+        "sha1": "fdd5bc329bc7ae1324d730d4418915c0a89b3590",
+        "sha512": "64200fe2dab1e9eed376e30192ce0e2d26aafc62b590733b350e99542e2eb905e00391eeaa5914c6b8ec8270bcd6a8f8701c287cde7e3e47028ac7012ebb48f1"
+      },
+      "path": "mods/gravestone-forge-1.20.1-1.0.15.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Udjno5eL/versions/XoyHAKIb/ice-boat-nerf-1.0.15%2BMC1.18-1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 99679,
+      "hashes": {
+        "sha1": "a168797f987fc1a89d743adee68eccc79a3c78b5",
+        "sha512": "cb818f314e706ada60068b8fc3c33f6d8d2192b5dce4b24585f0a9b95e4de4d143b976b4a9c9bab888af74079e2deaf2ad701a074f368d78367fa42bd271aa2e"
+      },
+      "path": "mods/ice-boat-nerf-1.0.15+MC1.18-1.20.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/r4Knci2k/versions/WA1plK3v/interiors-0.5.2%2Bmc1.20.1-FORGE.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -1158,6 +1206,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/twkfQtEc/versions/cdNu7PK8/moonlight-1.20-2.11.12-forge.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 1161940,
+      "hashes": {
+        "sha1": "65ca95bce49fc3e946b34de68da53cb2c177a78a",
+        "sha512": "59bdf45b50d752180893467f3f1779722c0a70b4cbe78a0112293f5d06d2492aa18001796257ed48bb1625160eec06ae7d874142ccf87e650b3ecd1a4dadc4b7"
+      },
+      "path": "mods/moonlight-1.20-2.11.12-forge.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/twkfQtEc/versions/kxiwYQnp/moonlight-1.20-2.11.4-forge.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -1179,6 +1239,18 @@
         "sha512": "3146b9438caac5e148748beed7e7f1a5e446c40ca826e476e46fb623175b2bd58c1f4a74cab4a08dd1749add5d088440217ad68dd0b800d1ac8938582d2e81b9"
       },
       "path": "mods/nethersdelight-1.20.1-4.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/Dpilnxtl/versions/zGemlmwK/no-rocket-boosting-1.0.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 10771,
+      "hashes": {
+        "sha1": "7c7af91446a6dcecdd766b609ad3de78821bf80d",
+        "sha512": "92c7332366f735f699df32dc5cfeebde57fec8ba98793752b1de02d9e25a9b6826ce8d39d3ecdc738626e4578cb2681c013efec98c9dbe319e129b954695ce58"
+      },
+      "path": "mods/no-rocket-boosting-1.0.0.jar"
     },
     {
       "downloads": [
@@ -1410,15 +1482,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/4KjqhPc9/versions/L19RgRxx/surveyor-0.1.0-beta.29%2B1.20.jar"
+        "https://cdn.modrinth.com/data/fFEIiSDQ/versions/55DwJc4A/supplementaries-1.20-2.8.10.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 429306,
+      "fileSize": 14516938,
       "hashes": {
-        "sha1": "4e39783b2b270b28af00cd991603166e22e516ef",
-        "sha512": "cf3b827be61d76ffdc8cac6a988881007e30948603c29c273f45aaf1ee2d4e0d6b6cf9165fc26e699009de5d1f2f2d9df3c1d6f1e46f5907e38eb542a46c83c1"
+        "sha1": "41f22339177263fe76e6a575f4188811990a255f",
+        "sha512": "2ceeb92eeee0e741ccc28638540c7a4b65623491757497e518a0c47625c77de51355b1d5a21656cfcba1f89672877a2361ac1cdee9d21a07d990a3df5688e6e1"
       },
-      "path": "mods/surveyor-0.1.0-beta.29+1.20.jar"
+      "path": "mods/supplementaries-1.20-2.8.10.jar"
     },
     {
       "downloads": [
@@ -1458,6 +1530,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/WdbHS4uT/yet-another-config-lib-forge-3.2.2%2B1.20.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 984522,
+      "hashes": {
+        "sha1": "12335cc91e372b646e607daa24e1a4f5f524bef3",
+        "sha512": "c86b4f39e5388ab31f8e627b477cd59063b539101970acc6accfbbd1a7f81d45b2420f8b2df2c6c10fc3594a8915473bd0e0d5a0a979c90fad21e4d02444a5a6"
+      },
+      "path": "mods/yet-another-config-lib-forge-3.2.2+1.20.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/HVnmMxH1/versions/D5fox3fg/ComplementaryReimagined_r5.1.1.zip"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -1485,5 +1569,5 @@
   "game": "minecraft",
   "name": "Cog",
   "summary": "Project Cog is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
-  "versionId": "1.1.0"
+  "versionId": "1.2.0"
 }

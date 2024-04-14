@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "createbbusableproduct:blue_methamphetamine"
+    },
+    "title": {
+      "translate": "advancements.methlvl_1000.title"
+    },
+    "description": {
+      "translate": "advancements.methlvl_1000.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "methlvl_1000": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "createbbusableproduct:blue_methamphetamine"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "createbb:p2/obtain_blue_meth.json"
+}

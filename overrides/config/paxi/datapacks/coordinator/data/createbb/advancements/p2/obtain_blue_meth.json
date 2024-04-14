@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "createbb:blue_meth"
+    },
+    "title": "Purity",
+    "description": "Crack a tray of blue meth.",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "parent": "createbb:p2/obtain_liquid_blue_methamphetamine_bucket",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "createbb:blue_meth"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
