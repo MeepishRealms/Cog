@@ -378,15 +378,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/ZzjhlDgM/versions/LLyO2sHq/Steam_Rails-1.5.3%2Bforge-mc1.20.1.jar"
+        "https://cdn.modrinth.com/data/ZzjhlDgM/versions/WYhvuPqr/Steam_Rails-1.6.1%2Bforge-mc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 6704629,
+      "fileSize": 9051619,
       "hashes": {
-        "sha1": "ed3611b9a6e947d93a7fdfaf4d6d037c17f5ec6e",
-        "sha512": "441b90f0cb9d64774ea21ad02a1fcb494a6785a4c08a4e3d1e2cc54adc56bbd2875873e1e5c230dd7dc7e4a3aa9130af7577376823ebefd10d9f4fd502d56913"
+        "sha1": "33da894a0c9820408baf2f841ff02ef3e111e970",
+        "sha512": "491b2aa7a28be56a470e159276bdaa78871932e26e49a0c6633514fae1e73c31c6ad88054416b5cce8a0e106791d141c018ff3bb0f30b31deeb4ecd340c1de1e"
       },
-      "path": "mods/Steam_Rails-1.5.3+forge-mc1.20.1.jar"
+      "path": "mods/Steam_Rails-1.6.1+forge-mc1.20.1.jar"
     },
     {
       "downloads": [
