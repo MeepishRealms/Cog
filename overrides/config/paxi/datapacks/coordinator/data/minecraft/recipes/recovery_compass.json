@@ -1,17 +1,13 @@
 {
-  "type": "crafting_shaped",
-  "pattern": [
-    "E",
-    "C"
-  ],
-  "key": {
-    "E": {
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:echo_shard"
     },
-    "C": {
+    {
       "item": "minecraft:compass"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:recovery_compass",
     "count": 1
