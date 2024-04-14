@@ -1,5 +1,6 @@
 {
   "loadOrder": [
+    "terralith_fix",
     "vanilla_tweaks",
     "coordinator"
   ]
