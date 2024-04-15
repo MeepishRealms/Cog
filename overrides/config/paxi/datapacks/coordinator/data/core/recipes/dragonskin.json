@@ -78,7 +78,7 @@
       "item": "irons_spellbooks:divine_pearl"
     },
     {
-      "amount": 800,
+      "amount": 50,
       "fluid": "create_enchantment_industry:hyper_experience",
       "nbt": {}
     }
