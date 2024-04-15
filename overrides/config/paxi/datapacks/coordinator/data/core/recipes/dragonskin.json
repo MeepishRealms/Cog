@@ -15,7 +15,22 @@
       "item": "minecraft:ghast_tear"
     },
     {
-      "item": "bosses_of_mass_destruction:void_thorn"
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "minecraft:chorus_flower"
     },
     {
       "item": "minecraft:chorus_flower"
@@ -63,7 +78,7 @@
       "item": "irons_spellbooks:divine_pearl"
     },
     {
-      "amount": 750,
+      "amount": 800,
       "fluid": "create_enchantment_industry:hyper_experience",
       "nbt": {}
     }
