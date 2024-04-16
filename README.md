@@ -24,7 +24,8 @@ The following roadmap is subject to change at any time and future plans are not 
   - Balance and change recipes for more creative gameplay.
   - Brand new Waypoint and Minimap system.
   - Never have your items despawn again with the Gravestones mod!
-- v1.3 - The Balancing Update
+- v1.3 - The Railways Update
+  - Build Super Fancy Passenger Trains using Railways Navigator
   - Balance Villagers and Enchanting
   - Make more things renewable!
 - v1.4 - The Farsight Update
