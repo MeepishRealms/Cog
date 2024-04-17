@@ -47,5 +47,11 @@ Just have fun. That’s really the only real rule besides following the intended
 
 I’m open to all suggestions for the server, modpack, community management, and rules as long as they don’t violate the philosophy of the modpack or deviate away from the focus on Create.
 
+## Do not use the Mechanical Drill outside of automatic farms or construction projects:
+It is possible to use a mechanical drill to mine blocks that normally require higher-level tools, such as Diamonds, Obsidian, Ancient Debris, etc. This is strictly forbidden. You'll be instantly banned if you're caught doing this.
+
+## No villager halls:
+All villagers must have their own home, bed, workstation, and environment. No trapping villagers just for trading purposes.
+
 # Agreement
 - [ ] I agree to the following contract and acknowledge that I can be banned from the server if I do not follow the guidelines.
