@@ -368,7 +368,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/1OE8wbN0/versions/FFyss87M/Prism-1.20.1-forge-1.0.5.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 52205,
       "hashes": {
         "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
@@ -944,7 +944,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/sk9rgfiA/versions/Yf0WdDp1/embeddium-0.3.14%2Bmc1.20.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 1005465,
       "hashes": {
         "sha1": "efedfabdac3301016478688f3d19d2be25e743a7",
@@ -1196,7 +1196,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/QdG47OkI/versions/og4A1nN8/modelfix-1.15.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 45246,
       "hashes": {
         "sha1": "5bdda0781bf9dfb5f992a7aa2bee64d5d3fe0b84",
