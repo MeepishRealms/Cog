@@ -1,5 +1,5 @@
-# Conditions for Joining Project Cog
-By joining the official Project Cog server, you are agreeing to the following conditions in this contract. 
+# Conditions for Joining MeepishRealms: Modded Expansion
+By joining the official MR:ME server, you are agreeing to the following conditions in this contract. 
 
 *By breaking these conditions, we can’t guarantee that you’ll have fun or that we will continue to allow you to join the server. You will be banned if you ruin the fun for other players who follow the rules.*
 
@@ -11,6 +11,7 @@ Here’s a quick summary of the rules. I still recommend you read the contract s
 - Don’t try to cheat the progression. Use the Create mod.
 - No cheating.
 - Have fun and create fun for others, not ruin it.
+- No villager trading halls.
 
 ## Be an active member of society:
 This is a building-first server. You must contribute value to the server by building, contributing to the public infrastructure, or being an active member of the community. (Preferably all) You should try your best to make your builds visually appealing. 
@@ -45,6 +46,12 @@ The end goal of the server is for a peaceful, fun, and social experience for eve
 Just have fun. That’s really the only real rule besides following the intended progression.
 
 I’m open to all suggestions for the server, modpack, community management, and rules as long as they don’t violate the philosophy of the modpack or deviate away from the focus on Create.
+
+## Do not use the Mechanical Drill outside of automatic farms or construction projects:
+It is possible to use a mechanical drill to mine blocks that normally require higher-level tools, such as Diamonds, Obsidian, Ancient Debris, etc. This is strictly forbidden. You'll be instantly banned if you're caught doing this.
+
+## No villager halls:
+All villagers must have their own home, bed, workstation, and environment. No trapping villagers just for trading purposes.
 
 # Agreement
 - [ ] I agree to the following contract and acknowledge that I can be banned from the server if I do not follow the guidelines.

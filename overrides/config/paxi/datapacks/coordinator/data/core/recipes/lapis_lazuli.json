@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "amount": 30,
+      "fluid": "create_enchantment_industry:experience",
+      "nbt": {}
+    },
+    {
+      "amount": 1,
+      "fluid": "create_enchantment_industry:hyper_experience",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:lapis_ore"
+    }
+  ]
+}
