@@ -426,6 +426,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/NcUtCpym/versions/oE23WzAY/XaerosWorldMap_1.38.4_Forge_1.20.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 925318,
+      "hashes": {
+        "sha1": "2be80281c4e38be6af28022c0bf0f8a62254067f",
+        "sha512": "27e6b99f37d588d1c7927384fad3f67bc55e3150437c13f1029b760cf01e3cb646b1a6edae04edfa8037a30971fb627527b8bbc0c19dc21926865c036adac4f9"
+      },
+      "path": "mods/XaerosWorldMap_1.38.4_Forge_1.20.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/JkSi2Fzx/versions/D0dQzXpG/Xaeros_Minimap_FP23.9.4_Forge_1.20.jar"
       ],
       "env": { "client": "required", "server": "required" },
