@@ -126,15 +126,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/BAscRYKm/versions/rGLT7po1/Chipped-forge-1.20.1-3.0.4.jar"
+        "https://cdn.modrinth.com/data/BAscRYKm/versions/gfGw4ln2/Chipped-forge-1.20.1-3.0.6.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 15066398,
+      "fileSize": 15060040,
       "hashes": {
-        "sha1": "488d6d869aeac6e7835d1e91dd16ca892bba8ad6",
-        "sha512": "589958de1f49d7c4a50619a90ae98a26f87397355314d095a7026db58c3c7695358858c134bd761504b467609457bb6405e5de27c8d3fa9b2d387574c9985321"
+        "sha1": "977756a36171b80ba1767b59ffa74b90f074d74d",
+        "sha512": "1c64bfa21e5c1ce672e6538579e1da9d67df2ec158ba415d361e8bb9f6220292dc221abcf36505b73f5ccc789e49519f9e314baee978855a50db32cb1b1c88d7"
       },
-      "path": "mods/Chipped-forge-1.20.1-3.0.4.jar"
+      "path": "mods/Chipped-forge-1.20.1-3.0.6.jar"
     },
     {
       "downloads": [
@@ -195,18 +195,6 @@
         "sha512": "b5bcba3d91a5f278b18030160b9d74e6e8f3f0773d9de76ebef9646f4d60e57657930ab36ca63cb93bff1100c8d1ebf4a4ff35f6bbd68d41df0427fe5ee2f2dd"
       },
       "path": "mods/EquipmentCompare-1.20.1-forge-1.3.7.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/4H6sumDB/versions/3d9gByqp/EuphoriaPatcher-0.3.0-forge.jar"
-      ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 293936,
-      "hashes": {
-        "sha1": "0e7fe92767d397fc724b130ac9ac5036d2626d34",
-        "sha512": "d527da2069cb29cf6bcb804a0a05c10571b7a64dbc59b18c80ce267b415c62aa215203ba201f5a6b22fd693ea67cf330c2dd24091293ce078edbd594c0b29920"
-      },
-      "path": "mods/EuphoriaPatcher-0.3.0-forge.jar"
     },
     {
       "downloads": [
@@ -414,15 +402,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/iUheEnjm/versions/SBL7j9WD/ThirstWasTaken-1.20.1-1.3.6.jar"
+        "https://cdn.modrinth.com/data/iUheEnjm/versions/euvTejYR/ThirstWasTaken-1.20.1-1.3.7.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 192880,
+      "fileSize": 194238,
       "hashes": {
-        "sha1": "959118acac12b64cfd1d750b32f93f744a903f0f",
-        "sha512": "8a79790a0644c0838f7f9764ffea78d00403645d685e8ba474680831f5f300026dd9ae00c7c3673a5b04216c6f8c178114bc52c78cc554375d64f71d49aa2e4c"
+        "sha1": "b4be1982e0c47fa4c96a8c6dbfb1b993a122bbc9",
+        "sha512": "c4d6a5e6b49e295382be50a20cd2cbe4f7e494d55e2353202ac013151c97fee407ea1a221dcb54e258a5c5697431565f7f2937a1141a1783a2a5a90246e6a569"
       },
-      "path": "mods/ThirstWasTaken-1.20.1-1.3.6.jar"
+      "path": "mods/ThirstWasTaken-1.20.1-1.3.7.jar"
     },
     {
       "downloads": [
@@ -438,15 +426,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/JkSi2Fzx/versions/D0dQzXpG/Xaeros_Minimap_FP23.9.4_Forge_1.20.jar"
+        "https://cdn.modrinth.com/data/JkSi2Fzx/versions/tytqtHfU/Xaeros_Minimap_FP24.1.1_Forge_1.20.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 1341290,
+      "fileSize": 1442659,
       "hashes": {
-        "sha1": "d06eef2105bc66e178562acef77c6c9469b8319f",
-        "sha512": "c95ada346cb4310c712f522cfea9899cabcfdee0ba2ba97678dedeecfae2e6bd0e1c3dd4cb649dee12abdb31dc6afe37a5e0f94f42b04002e31acd1a39aec756"
+        "sha1": "bf22da087dea970ebdc757b5f059c040f6e09c42",
+        "sha512": "02d9ddd86f533d521c078a4235a3aa195aea27d1b3a61d8d926798713ef2bb46eb711dcdab7a198c5af14bf4916471afbfb0543b56a3079203fe3b7609b9501c"
       },
-      "path": "mods/Xaeros_Minimap_FP23.9.4_Forge_1.20.jar"
+      "path": "mods/Xaeros_Minimap_FP24.1.1_Forge_1.20.jar"
     },
     {
       "downloads": [
@@ -486,15 +474,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/o1C1Dkj5/versions/yyEN8Zb4/YungsBetterDungeons-1.20-Forge-4.0.3.jar"
+        "https://cdn.modrinth.com/data/o1C1Dkj5/versions/kPiQ6v4q/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 792642,
+      "fileSize": 792381,
       "hashes": {
-        "sha1": "1609372c07d79b9d54eed4cea236f89d50114198",
-        "sha512": "dffea37b8fac50cbae77bcaaf44b9f9cb85a9a6fac0d0673554c8c49c166452d0fa5ed84057b411fc9e055cbca55c21d8b645ff05bc755d687d8e60b5dcf30f6"
+        "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e",
+        "sha512": "56bd11a7aca3bacb908381a668af8f5b574c5557c21370ace783d637c949802187110a4f5dc26afae4d9af74cdf64cee81d59fac3513a9bec3f921193fc938b8"
       },
-      "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.3.jar"
+      "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
     },
     {
       "downloads": [
@@ -582,15 +570,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/6iTJugQR/versions/SZqlVVvB/amendments-1.20-1.1.21.jar"
+        "https://cdn.modrinth.com/data/6iTJugQR/versions/2mgTSWBo/amendments-1.20-1.1.22.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 931172,
+      "fileSize": 931038,
       "hashes": {
-        "sha1": "5baf19e2c83c1cc4a436271dde0a67e1109d17da",
-        "sha512": "7a15b7a243df16c2913e5e38e01c7943d8bec8ece702ec3f811b50af072aeed8dfb3b8a9ef9e1c2cd8d184a9519746f80ca499d275796c69b418a72e89f67f41"
+        "sha1": "377c8fec7c4a8ca81af9bc129d48053ea0800e88",
+        "sha512": "1c2798887b14a2d84f1f4dd6577e7e1adb0a9c556463d3df717aa78a137d42916b8912bf3ff239bb210b1f394b69387334047da466a782f5935514f05236e286"
       },
-      "path": "mods/amendments-1.20-1.1.21.jar"
+      "path": "mods/amendments-1.20-1.1.22.jar"
     },
     {
       "downloads": [
@@ -1014,15 +1002,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Aqlf1Shp/versions/gwP6WAQb/fabric-api-0.92.1%2B1.11.7%2B1.20.1.jar"
+        "https://cdn.modrinth.com/data/Aqlf1Shp/versions/DXF7HH4f/fabric-api-0.92.1%2B1.11.8%2B1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 3040487,
+      "fileSize": 3040470,
       "hashes": {
-        "sha1": "ffd586fa586e5030fe6cb904b1c2fe61d415a1ad",
-        "sha512": "e02cf07dec3326f15752b27d04febb789795581235b6595a935f5bbbb033fedfb3b736df1eb82f05ebb0356ba45f85e90a89558f7459fa4fc661d70f755602c3"
+        "sha1": "c4231359d245029d7e21e38e9f69832c4260dd86",
+        "sha512": "ee74c3aa4c9c30286b6ebd1d2595bc46fed24928f2ce18f63756a353ca1f390186785277aec97fdf296ac47243880b46a0541415dd5164f897614968b4d09bb9"
       },
-      "path": "mods/fabric-api-0.92.1+1.11.7+1.20.1.jar"
+      "path": "mods/fabric-api-0.92.1+1.11.8+1.20.1.jar"
     },
     {
       "downloads": [
@@ -1458,15 +1446,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/qyVF9oeo/versions/GdHd0uVw/sound-physics-remastered-fabric-1.20.1-1.3.1.jar"
+        "https://cdn.modrinth.com/data/qyVF9oeo/versions/CmxXa8uE/sound-physics-remastered-forge-1.20.1-1.3.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 174029,
+      "fileSize": 174516,
       "hashes": {
-        "sha1": "fc41d2febae832dd6e7df66ba37905b9641a3f88",
-        "sha512": "4e5527408b83c519f8f7ec186cd743298b55dd8a38ea18ef56e3cba82170fa8edd7b330fe56e1dc741383feac3b1972071df721985caf964da3bec82fcca3196"
+        "sha1": "47b74fae41e3a677dbbb939d67b4160f3e4af5b6",
+        "sha512": "a3c000d96687da06be40ab123a67203bb7749188a50c56d3018f1a7dc5fa1901d15a716768a521efa98d640e8f59016b040e59c84940821fa139bba2b1d86e83"
       },
-      "path": "mods/sound-physics-remastered-fabric-1.20.1-1.3.1.jar"
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.3.1.jar"
     },
     {
       "downloads": [
@@ -1530,15 +1518,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/yGdXF0OW/voicechat-fabric-1.20.1-2.5.11.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/zf6Umad8/voicechat-forge-1.20.1-2.5.12.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 8057265,
+      "fileSize": 7704574,
       "hashes": {
-        "sha1": "dc3505c0b0bc27c488c4e4bacf7edb6a6552c77b",
-        "sha512": "5b15421ff703ed8f7a07129d4a77431119bacda310e5917d4cf6f13beea9218a17f92e6f58051ab416ffd00ffe1b12a1e86c33267f578bbe338458d55c9d0bb7"
+        "sha1": "bf8bbd5f9a1336f52a7fe2aa905ec850cf457cc4",
+        "sha512": "402b6701e1405a4cd1a2699a357c9bb5fee4b0e5629516a1ffc14036eb94bc6708b18b3bc3640aa42b83e39a95ea73856e05d79d598e0bc97fc159a6af6d82c4"
       },
-      "path": "mods/voicechat-fabric-1.20.1-2.5.11.jar"
+      "path": "mods/voicechat-forge-1.20.1-2.5.12.jar"
     },
     {
       "downloads": [
@@ -1575,11 +1563,59 @@
         "sha512": "773acd817d19336c287c8a1eab6b06f42437b617b3f9ecf833f979fa5ea69cf6968454208e1b30474a2e4a591f186685ebb7c48b6b67db6c684b4193cd88ff45"
       },
       "path": "shaderpacks/rethinking-voxels_r0.1_beta2.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/uonOJKhA/versions/QKwrDO6o/VanillaLootChests.zip"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 408,
+      "hashes": {
+        "sha1": "a8eeb7e179872ff42326af7dbeb297cce160a660",
+        "sha512": "c9209fc30f2ccd8881c876041d197f9260fe30462b8381c34a8924755ee16d6c0eabe7e2951fdcf2a49058ed2e02b40f1540686ce5d16cd5a719d3550e6e1f3f"
+      },
+      "path": "config/paxi/resourcepacks/vanilla_loot_chests.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/9wrMXul2/versions/TF4czhUS/Create_Ultra_v1.0.zip"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 2096,
+      "hashes": {
+        "sha1": "266fe1718e4953f8cd57bf8c83dcef178622e88b",
+        "sha512": "0d1a4c80674e397cfa4d9df9795b8ce1374234418071e30fb64da0a04bc356bf7ed0d41785d7d3e4d6e096905aaadc2ddf4da5dfbf6d2644dd399a616bde9edb"
+      },
+      "path": "config/paxi/resourcepacks/create_ultra.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ereJ9CnJ/versions/4LHdd3F0/MetalsUltra_V1.3.zip"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 244,
+      "hashes": {
+        "sha1": "ea3b398a0f87048f025be2a1517fa4c3bea4e439",
+        "sha512": "a7b1cbdac70c76ee2954b9b3fb3a1c3cc6c1309dfe8c44e9422f79d04ebd8073966c2ebb68411ff493e81ca895b64631d44d1738287eb2d2cccdfb4cbac8bf5c"
+      },
+      "path": "config/paxi/resourcepacks/metals_ultra.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/YLJI8lfo/versions/gaiVfZ8h/StainedGlassUltra_V3.1_pixel_perfect.zip"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 316,
+      "hashes": {
+        "sha1": "c0e340dcd0e969862c726ce7dc65ee831305e403",
+        "sha512": "e0e5c2c4235d023c40bcafc26bb3d9c301748128a5a2e53eeaa47621f117487bffe829292b888e861f101dd221f0fd91f159dd8a84d809188aed95bf9da325cc"
+      },
+      "path": "config/paxi/resourcepacks/stained_glass_ultra.zip"
     }
   ],
   "formatVersion": 1,
   "game": "minecraft",
   "name": "Cog",
   "summary": "Project Cog is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
-  "versionId": "1.3.0"
+  "versionId": "1.3.1"
 }

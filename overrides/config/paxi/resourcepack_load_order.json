@@ -2,6 +2,9 @@
   "loadOrder": [
     "vanilla_tweaks",
     "coordinator",
-    "lootr_chest_retexture"
+    "vanilla_loot_chests.zip",
+    "metals_ultra.zip",
+    "stained_glass_ultra.zip",
+    "create_ultra.zip"
   ]
 }
