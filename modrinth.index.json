@@ -1566,6 +1566,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/sk4iFZGy/versions/NI1eSGiS/Remove_Terralith_Intro_Message_v1.0.zip"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 52,
+      "hashes": {
+        "sha1": "f537f697c60bc051fb8db8681b39f1dc051acb83",
+        "sha512": "541fd712c7ed23e26d942cd4e74d84e9e58c035741220ba66aa25114f05797a15d963e32ef008478f18c1e9337845f8ef61688a72d0ffc616142aa385cc9f37c"
+      },
+      "path": "config/paxi/datapacks/terralith_fix.zip"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/uonOJKhA/versions/QKwrDO6o/VanillaLootChests.zip"
       ],
       "env": { "client": "required", "server": "unsupported" },
