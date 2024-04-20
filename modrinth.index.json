@@ -174,6 +174,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Jdbbtt0i/versions/A42gNzaQ/CreateNumismatics-1.0.2%2Bforge-mc1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 848838,
+      "hashes": {
+        "sha1": "c22d965e7d7c6c7b8fd6f453b61efc003b5f2125",
+        "sha512": "99d93ba56f0dfae63023d4e657afaef7024fdaba509935ce2ee67a953f03c09517a45cd210d92637b8214213bc0bff33b305f90fc71d4c83a1a825a95f4ebfcd"
+      },
+      "path": "mods/CreateNumismatics-1.0.2+forge-mc1.20.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/JtSnhtNJ/versions/tbDBi4m9/Delightful-1.20.1-3.5.2.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -807,6 +819,18 @@
         "sha512": "954b127611e0cd8895daf62a75abc7f686355082fc75cf56e80b96be1506660aa530199a8a05f4c1f20b0c8128300bbc5e17e4493743e2c3be3baa34d7efeee3"
       },
       "path": "mods/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.c.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/UbFnAd4l/versions/r9jMwK81/create_jetpack-forge-4.2.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 229959,
+      "hashes": {
+        "sha1": "c40fcd571b6072d5c0f550c2978e1eca57510ea5",
+        "sha512": "a4340c8b2cfb57fa0067f74e8b867b612f45ff479b2ec1b78328febe0c47a1d4c14eb7f26da294ecd2897d63033fe558d31b55e497fcd6954d166f12ee8ba0d5"
+      },
+      "path": "mods/create_jetpack-forge-4.2.1.jar"
     },
     {
       "downloads": [
@@ -1629,5 +1653,5 @@
   "game": "minecraft",
   "name": "Cog",
   "summary": "Project Cog is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
-  "versionId": "1.3.1"
+  "versionId": "1.4.0"
 }
