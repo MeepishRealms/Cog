@@ -104,6 +104,12 @@ key_key.jei.toggleWildcardHideIngredient:key.mouse.right:CONTROL
 key_key.jei.nextRecipePage:key.keyboard.page.down
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
+key_gui.xaero_open_map:key.keyboard.u
+key_gui.xaero_open_settings:key.keyboard.unknown
+key_gui.xaero_map_zoom_in:key.keyboard.unknown
+key_gui.xaero_map_zoom_out:key.keyboard.unknown
+key_gui.xaero_quick_confirm:key.keyboard.unknown
+key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_key.elenaidodge2.dodge:key.keyboard.left.alt
 key_key.cataclysm.ability:key.keyboard.x
