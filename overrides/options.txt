@@ -74,6 +74,8 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.jetpack.toggle_active.description:key.keyboard.up
+key_key.jetpack.toggle_hover.description:key.keyboard.h
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
 key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.jei.toggleCheatModeConfigButton:key.mouse.left:CONTROL

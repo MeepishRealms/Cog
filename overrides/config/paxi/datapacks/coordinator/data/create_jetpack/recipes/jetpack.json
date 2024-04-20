@@ -1,0 +1,35 @@
+{
+  "type": "create_jetpack:copy_nbt_mechanical_crafting",
+  "pattern": [
+    " DSD ",
+    "PYXYP",
+    "PCBCP",
+    " C C "
+  ],
+  "key": {
+    "C": {
+      "item": "create:chute"
+    },
+    "X": {
+      "item": "create:copper_backtank"
+    },
+    "S": {
+      "item": "create:shaft"
+    },
+    "Y": {
+      "item": "create:precision_mechanism"
+    },
+    "P": {
+      "tag": "forge:plates/brass"
+    },
+    "B": {
+      "item": "bosses_of_mass_destruction:blazing_eye"
+    },
+    "D": {
+      "item": "irons_spellbooks:dragonskin"
+    }
+  },
+  "result": {
+    "item": "create_jetpack:jetpack"
+  }
+}
