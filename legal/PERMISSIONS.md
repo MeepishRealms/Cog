@@ -1,0 +1,15 @@
+# Permissions to Redistribute 
+The following mods are bundled as an override, meaning that they are not distributed by Modrinth's servers, but rather included as a part of the `.mrpack` binary.
+
+- **[Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)** by LainMI
+  - The "Minecraft Mod Public License" used by the mod permits redistribution.
+  - *Source avaliable at https://github.com/zlainsama/CosmeticArmorReworked*
+- **[Create: Broken Bad](https://discord.gg/JzAQPX7kDR)** and **[Usable Product](https://discord.gg/JzAQPX7kDR)** by jetpacker06 and Yoyo
+  - Permission explicitly obtained from Mod Authors. See [permission1.png](createbb/permission1.png) and [permission2.png](createbb/permission2.png).
+  - *Source avaliable at https://github.com/jetpacker06/Create-Broken-Bad*
+- **[Mighty Mail](https://www.curseforge.com/minecraft/mc-mods/mighty-mail)** by MrCrayfish
+  - The MIT License used by the mod permits redistribution.
+  - *Source avaliable at https://github.com/MrCrayfish/MightyMail*
+- **[Framework](https://www.curseforge.com/minecraft/mc-mods/framework)** by MrCrayfish
+  - The LGPL-2.1 used by the mod permits redistribution.
+  - *Source avaliable at https://github.com/MrCrayfish/Framework*
