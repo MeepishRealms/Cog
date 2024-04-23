@@ -7,7 +7,7 @@ The following mods/resouruce/data packs are bundled as an override, meaning that
   - The "Minecraft Mod Public License" used by the mod permits redistribution.
   - *Source avaliable at https://github.com/zlainsama/CosmeticArmorReworked*
 - **[Create: Broken Bad](https://discord.gg/JzAQPX7kDR)** and **[Usable Product](https://discord.gg/JzAQPX7kDR)** by jetpacker06 and Yoyo
-  - Permission explicitly obtained from Mod Authors. See [permission1.png](createbb/permission1.png) and [permission2.png](createbb/permission2.png).
+  - Permission explicitly obtained from Mod Authors. See [permission1.png](createbb/permission1.png), [permission2.png](createbb/permission2.png), and [permission.png](usableproduct/permission.png).
   - *Source avaliable at https://github.com/jetpacker06/Create-Broken-Bad*
 - **[Mighty Mail](https://www.curseforge.com/minecraft/mc-mods/mighty-mail)** by MrCrayfish
   - The MIT License used by the mod permits redistribution.
