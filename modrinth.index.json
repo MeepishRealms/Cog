@@ -30,6 +30,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/N6n5dqoA/versions/mtS53yIh/Axiom-2.7.0-for-MC1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 39929742,
+      "hashes": {
+        "sha1": "8a3df4fe510ad48bfd5bccc22fcbfd606a6e1436",
+        "sha512": "96dc8da1357d7848818abd0bf76b9e532a7f1a8f226895847c97b4ba1859f456cca01509807309b93191c0c71fd3d31ecbc8f08d9ee73e93893852951196514f"
+      },
+      "path": "mods/Axiom-2.7.0-for-MC1.20.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/hFUzfDsn/versions/2Kw4xPhp/BOMD-Forge-1.20.1-1.1.2.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -174,15 +186,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Jdbbtt0i/versions/A42gNzaQ/CreateNumismatics-1.0.2%2Bforge-mc1.20.1.jar"
+        "https://cdn.modrinth.com/data/Jdbbtt0i/versions/WPYknzSp/CreateNumismatics-1.0.3%2Bforge-mc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 848838,
+      "fileSize": 853865,
       "hashes": {
-        "sha1": "c22d965e7d7c6c7b8fd6f453b61efc003b5f2125",
-        "sha512": "99d93ba56f0dfae63023d4e657afaef7024fdaba509935ce2ee67a953f03c09517a45cd210d92637b8214213bc0bff33b305f90fc71d4c83a1a825a95f4ebfcd"
+        "sha1": "32bbd4e2ccc1cfb9a64e8db8154e6736db874ea9",
+        "sha512": "dde64fd2f11b08d041558d7d6c8e1bd495c7863dd02a83fc9f44281f5e83db8ab50f628578867fcdd57a86044728c20b008918a0f6d0d989b5537a42ee5a40f2"
       },
-      "path": "mods/CreateNumismatics-1.0.2+forge-mc1.20.1.jar"
+      "path": "mods/CreateNumismatics-1.0.3+forge-mc1.20.1.jar"
     },
     {
       "downloads": [
@@ -390,15 +402,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/ZzjhlDgM/versions/WYhvuPqr/Steam_Rails-1.6.1%2Bforge-mc1.20.1.jar"
+        "https://cdn.modrinth.com/data/ZzjhlDgM/versions/nlPSqQex/Steam_Rails-1.6.3%2Bforge-mc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 9051619,
+      "fileSize": 9072462,
       "hashes": {
-        "sha1": "33da894a0c9820408baf2f841ff02ef3e111e970",
-        "sha512": "491b2aa7a28be56a470e159276bdaa78871932e26e49a0c6633514fae1e73c31c6ad88054416b5cce8a0e106791d141c018ff3bb0f30b31deeb4ecd340c1de1e"
+        "sha1": "2e6629bed79c100742634d19f04a6766708f9a8e",
+        "sha512": "b75b5cfbab04bdab0c5e42d22c02fd9b05c2706e95e96e4f0b1f25e1530555ea31fd49e50d5a90ff867620a670701cd47f6abbc3e2478da7f43beccf4c08ebb9"
       },
-      "path": "mods/Steam_Rails-1.6.1+forge-mc1.20.1.jar"
+      "path": "mods/Steam_Rails-1.6.3+forge-mc1.20.1.jar"
     },
     {
       "downloads": [
@@ -906,15 +918,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/6FtRfnLg/versions/jxec8n0p/do_a_barrel_roll-forge-3.5.4%2B1.20.1.jar"
+        "https://cdn.modrinth.com/data/6FtRfnLg/versions/oLVOsTht/do_a_barrel_roll-forge-3.5.5%2B1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 621120,
+      "fileSize": 626076,
       "hashes": {
-        "sha1": "04cccc9a2be38b0e71e490dd74eb735d7331c575",
-        "sha512": "b80a7bf08a708fcade8f0baf1fc998939172fb89f9f48b1fb3d238083f4315d60902c5ad9ef1ddbcde1ca98835e90a96b3fc372776ba6f81ca88b7f648ce79a2"
+        "sha1": "06ebeab0309b4cc10c52d423d253f7703ca2c292",
+        "sha512": "661560d3c606c68c93de9f8ea94ff2b3760d5dfca4acb77d5c4d11d3e42feab1eece864c8b1bfb8d2c11066c1c32b35c791a31aea4400dcf80ab6e579e4ddea6"
       },
-      "path": "mods/do_a_barrel_roll-forge-3.5.4+1.20.1.jar"
+      "path": "mods/do_a_barrel_roll-forge-3.5.5+1.20.1.jar"
     },
     {
       "downloads": [
@@ -930,15 +942,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/LQ3K71Q1/versions/NhH3bdcX/dynamic-fps-3.4.2%2Bminecraft-1.20.4-forge.jar"
+        "https://cdn.modrinth.com/data/LQ3K71Q1/versions/M9XF5FlW/dynamic-fps-3.4.3%2Bminecraft-1.20.0-forge.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 252738,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 253719,
       "hashes": {
-        "sha1": "6c376b2a478a1d645407a816ce53c1e397832e8e",
-        "sha512": "1ec92bd29c05f339275fb05f18883e86c13d2a70ae46d6d51ca743f41befd6fcf16df0e301be358c5a78bc9a211f8678efb78c6636a189329d52d3ce91c15457"
+        "sha1": "c1398f3bc47e21ba047b3401316f31a895dba572",
+        "sha512": "f77e4901d91440d6d2195d6b37bc4ed5f6572056eced68e195780998ec072a448221a96d24cf13797e74668913ed68daea42abcaca16ab50b71bf788fee8b74c"
       },
-      "path": "mods/dynamic-fps-3.4.2+minecraft-1.20.4-forge.jar"
+      "path": "mods/dynamic-fps-3.4.3+minecraft-1.20.0-forge.jar"
     },
     {
       "downloads": [
@@ -1203,6 +1215,18 @@
         "sha512": "a048f80829c9c7fbdec3acc5bda966a675de1591b8574abd598ee6e4ab846dee18916d2ee1c8820a0a6d80896fdeba96a8019cf67c2e96352eb3db1905305217"
       },
       "path": "mods/make_bubbles_pop-0.2.0-forge-mc1.19.4+.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/GcWjdA9I/versions/V7yLDtJV/malilib-fabric-1.20.1-0.16.3.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 545403,
+      "hashes": {
+        "sha1": "94d4dd8a82e493d956b423019134d8c48ee737be",
+        "sha512": "2c16a64cf9af03569618c6bd0359797bbaecec854ac8e8197e9180b1739eb74b6157a9c389a4f8dd8b4aabe52227aafb8d2a6b6b72732ed3c450ff9a0849234c"
+      },
+      "path": "mods/malilib-fabric-1.20.1-0.16.3.jar"
     },
     {
       "downloads": [
@@ -1554,15 +1578,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/1eAoo2KR/versions/WdbHS4uT/yet-another-config-lib-forge-3.2.2%2B1.20.jar"
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/WTCAdLsq/YetAnotherConfigLib-3.4.0%2B1.20.1-forge.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 984522,
+      "fileSize": 929682,
       "hashes": {
-        "sha1": "12335cc91e372b646e607daa24e1a4f5f524bef3",
-        "sha512": "c86b4f39e5388ab31f8e627b477cd59063b539101970acc6accfbbd1a7f81d45b2420f8b2df2c6c10fc3594a8915473bd0e0d5a0a979c90fad21e4d02444a5a6"
+        "sha1": "26eddbd15cae0d99ae21bb48969118de68ff43ca",
+        "sha512": "87d4d52d11249d5b5c8f03df5dcad4aab5e1e818bb8e86a65b8d3d8cf11551838be569efd7555e5a157801cef15f408d4ec9dfe1aa07ac32f30ab780d2b9fd42"
       },
-      "path": "mods/yet-another-config-lib-forge-3.2.2+1.20.jar"
+      "path": "mods/YetAnotherConfigLib-3.4.0+1.20.1-forge.jar"
     },
     {
       "downloads": [
