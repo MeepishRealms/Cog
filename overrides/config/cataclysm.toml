@@ -192,16 +192,16 @@
 [Ignis]
 	#Ignis's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	IgnisHealthMultiplier = 10.0
+	IgnisHealthMultiplier = 15.0
 	#Ignis's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	IgnisDamageMultiplier = 2.0
+	IgnisDamageMultiplier = 2.5
 	#Ignis's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
-	IgnisHealingMultiplier = 1.2
+	IgnisHealingMultiplier = 1.4
 	#Ignis's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
-	"Ignis's prevent attacks from far away Range" = 15.0
+	"Ignis's prevent attacks from far away Range" = 20.0
 	#Ignis's DamageCap
 	#Range: 0 ~ 1000000
 	IgnisDamageCap = 20
@@ -230,10 +230,10 @@
 ["The Harbinger"]
 	#Harbinger's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	HarbingerHealthMultiplier = 10.0
+	HarbingerHealthMultiplier = 8.5
 	#Harbinger's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	HarbingerDamageMultiplier = 2.0
+	HarbingerDamageMultiplier = 1.8
 	#Harbinger's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
 	HarbingerHealingMultiplier = 1.2
@@ -258,7 +258,7 @@
 	LeviathanHealthMultiplier = 5.0
 	#Leviathan's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	LeviathanDamageMultiplier = 1.5
+	LeviathanDamageMultiplier = 1.30
 	#Leviathan's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"Leviathan's prevent attacks from far away Range" = 38.0
