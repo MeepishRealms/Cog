@@ -9,7 +9,7 @@
       "fluid": "create:potion",
       "nbt": {
         "Bottle": "REGULAR",
-        "Potion": "minecraft:instant_health"
+        "Potion": "minecraft:healing"
       }
     }
   ],
