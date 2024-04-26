@@ -35,7 +35,7 @@ The following roadmap is subject to change at any time and future plans are not 
   - Unleash your building potential with Jetpacks, Litematica, Axiom, and the schematicannon!
 - v1.5 - The Farsight Update
   - See Minecraft the way it was meant to be seen with expanded Shader support and compatibility with Distant Horizons-- see up to hundreds of chunks with shaders at over 120 FPS!
-- v2.0 - The Ominous Trials Update
+- v2.0 - The Tricky Trials Update
   - Update to 1.21!
   - Explore new Trail Chambers, Maces, and Wolf Armor.
 - v2.1 - The Aeronautics Update
