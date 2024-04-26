@@ -3,12 +3,14 @@ A Minecraft modpack with deep potential for automation, building, collaboration,
 Easy to grasp, difficult to master.
 Modded Expansion is built around a vanilla aesthetic, extended midgame, automation, and building focus. Currently made for Forge 1.20.1.
 
+![Available for Forge](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/supported/forge_vector.svg) [![Avaliable on Modrinth!](https://raw.githubusercontent.com/intergrav/devins-badges/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/project-cog)
+
 ## Installation and Server Hosting
 To install Modded Expansion, you can use the following methods.
 
-1. Install via Prism Launcher as Modrinth Pack
-2. Install via Modrinth App as Custom Import
-3. Install via Curseforge App as Custom Import
+1. Install via Modrinth App [Recommended!]
+2. Install via Prism Launcher using the Modrinth Tab
+3. Install via Curseforge App as Custom Import [Not Recommended]
 
 If you plan to host a server for Modded Expansion, either download the Server Instance ZIP or use a container template.
 
