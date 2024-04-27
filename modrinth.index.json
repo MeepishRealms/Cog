@@ -666,6 +666,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/NRF4uKO7/balm-forge-1.20-7.0.7.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 331235,
+      "hashes": {
+        "sha1": "8280fe836f6ecfdd13716e71e38135dc4a5e4876",
+        "sha512": "74fd3821f593cdae4582b29fe686ca77076427b313a111d5d2dc54c89f385cf8665a2def25295a91662016893f382ce68d199c46eb999109922cc384bec82521"
+      },
+      "path": "mods/balm-forge-1.20-7.0.7.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -915,6 +927,18 @@
         "sha512": "9fbbdfaf4c547a4ed331c792e9dca5cb8272c6e33630e95a0703b7b1170af5633fe04a263cb2cf2d871f852b057e0383c0ac1b62bf2f24f54c38cdd9296c2659"
       },
       "path": "mods/deepslatecutting-forge-1.7.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/WEg59z5b/versions/CKNINccT/defaultoptions-forge-1.20-18.0.1.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 87942,
+      "hashes": {
+        "sha1": "73af2309627a68a7bff3e53e02ea22fb5c4651e5",
+        "sha512": "41ab37f580a1cbcb063958b7ec6034c9bea729aecb5452e5982a21d068617a818e78d31f03e76fc4e06dbf73f066f576d9dd6566f70d4912f29b595ba5c54079"
+      },
+      "path": "mods/defaultoptions-forge-1.20-18.0.1.jar"
     },
     {
       "downloads": [
@@ -1626,15 +1650,27 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/kmwfVOoi/versions/kxINFUyA/rethinking-voxels_r0.1_beta2.zip"
+        "https://cdn.modrinth.com/data/R6NEzAwj/versions/MCqlWur4/ComplementaryUnbound_r5.1.1.zip"
       ],
       "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 607173,
+      "fileSize": 409957,
       "hashes": {
-        "sha1": "d72d79ba8525ffbe18acc10e07b38b4ea800c51d",
-        "sha512": "773acd817d19336c287c8a1eab6b06f42437b617b3f9ecf833f979fa5ea69cf6968454208e1b30474a2e4a591f186685ebb7c48b6b67db6c684b4193cd88ff45"
+        "sha1": "65c7ef20fef4b5b03aa44afccbfdfdd82574c193",
+        "sha512": "1610ec72806fdd9b36f3f50cd97f587612fa4d7564d15ddff575265c67e406bc6d8e65ef9e0bd945b79207189cbb6b1e77ba5b3b9c6fb68a2364bd248532143d"
       },
-      "path": "shaderpacks/rethinking-voxels_r0.1_beta2.zip"
+      "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/kmwfVOoi/versions/i5OG3ddh/rethinking-voxels_r0.1-beta3-fix1.zip"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 493088,
+      "hashes": {
+        "sha1": "d061ec2d424bd7129fbf1ed650b10aa4678a2526",
+        "sha512": "6dc310331ff5d1a0f5410fb8a66ecfc56c455d86bc6df03e464e04c83171706aafc802845ae94e07b950c2739415e8a23bc81ba2847bbbd30c3d2d555881e7f1"
+      },
+      "path": "shaderpacks/rethinking-voxels_r0.1-beta3-fix1.zip"
     },
     {
       "downloads": [
