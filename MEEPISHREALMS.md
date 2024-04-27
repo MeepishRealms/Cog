@@ -18,7 +18,6 @@ This is a building-first server. You must contribute value to the server by buil
 
 This condition is effort based, so don’t worry about your skill or knowledge level, just make an effort to make our server a better place.
 
-
 <u>Still, we heavily recommend you build either private buildings or contribute to public ones like the railways or you inevitably will get bored in two weeks.</u>
 
 Also, join the Discord server, since we can’t all get on all at once regularly, it allows us to socialize and build friendships outside of the game as well!

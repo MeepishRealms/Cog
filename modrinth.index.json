@@ -174,27 +174,27 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/FYpiwiBR/versions/bWPRSm4H/ConnectorExtras-1.10.0%2B1.20.1.jar"
+        "https://cdn.modrinth.com/data/FYpiwiBR/versions/7d8ZiTAO/ConnectorExtras-1.10.1%2B1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 185919,
+      "fileSize": 188255,
       "hashes": {
-        "sha1": "0a965305647847e160d0130eef071850ab395dd0",
-        "sha512": "32f6f81d13e8bcf8ca815784d3f72eeb44a79b9fff27f25fb57d167b246dd0768277390a6fd640534ff24dab666d6dba51921df8b886ad30e28767f58b946035"
+        "sha1": "9eb8b41e676d95e6d36d7fca4b9647bd4ac5d92a",
+        "sha512": "f5db5a183e15b80382af408772d21113206c9bb88306ab4832f71fcf6e6c77fdb397dd0f107a064b7c14d6f5655fe9456c10b8d24238903748f7f9afedd87979"
       },
-      "path": "mods/ConnectorExtras-1.10.0+1.20.1.jar"
+      "path": "mods/ConnectorExtras-1.10.1+1.20.1.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Jdbbtt0i/versions/WPYknzSp/CreateNumismatics-1.0.3%2Bforge-mc1.20.1.jar"
+        "https://cdn.modrinth.com/data/Jdbbtt0i/versions/OVbJYDP2/CreateNumismatics-1.0.4%2Bforge-mc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 853865,
+      "fileSize": 869308,
       "hashes": {
-        "sha1": "32bbd4e2ccc1cfb9a64e8db8154e6736db874ea9",
-        "sha512": "dde64fd2f11b08d041558d7d6c8e1bd495c7863dd02a83fc9f44281f5e83db8ab50f628578867fcdd57a86044728c20b008918a0f6d0d989b5537a42ee5a40f2"
+        "sha1": "551133e94ca5731de8f1441d6768d9d962b83a36",
+        "sha512": "f6846ebea95f67cd13d3e02001af21e9cbe7842114bdd93eff3bdf7015e73666d679376712f19fe6fe7e19d486f609303c29aae5edf7ee740c451b97d93509ac"
       },
-      "path": "mods/CreateNumismatics-1.0.3+forge-mc1.20.1.jar"
+      "path": "mods/CreateNumismatics-1.0.4+forge-mc1.20.1.jar"
     },
     {
       "downloads": [
@@ -270,15 +270,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/7DjvwG1b/ImmediatelyFast-Forge-1.2.11%2B1.20.4.jar"
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/Zmg9Im8A/ImmediatelyFast-Forge-1.2.12%2B1.20.4.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 401969,
+      "fileSize": 402646,
       "hashes": {
-        "sha1": "dd67a601a622c003bdb2ab802bc7409e7c65fb75",
-        "sha512": "74a6c4ce9b8920ad57f57ff05ade027ba30dd7baffd6d9cca361d2663040aa8082b17f46c14920a93d20e9b0c29fbb2cb4e10963c6d3b117df3c3feb77f17f64"
+        "sha1": "19cd773eba167a4b99394576bf39a2d8c2ed62f8",
+        "sha512": "e4f21a345ca58c6faf35cede205a2500239f2e3a68e210f4792c53515b9a9842befacbef36bda624c03165d32a69aa418c22716b0c5440d6e1280b44a816512b"
       },
-      "path": "mods/ImmediatelyFast-Forge-1.2.11+1.20.4.jar"
+      "path": "mods/ImmediatelyFast-Forge-1.2.12+1.20.4.jar"
     },
     {
       "downloads": [
@@ -666,6 +666,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/NRF4uKO7/balm-forge-1.20-7.0.7.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 331235,
+      "hashes": {
+        "sha1": "8280fe836f6ecfdd13716e71e38135dc4a5e4876",
+        "sha512": "74fd3821f593cdae4582b29fe686ca77076427b313a111d5d2dc54c89f385cf8665a2def25295a91662016893f382ce68d199c46eb999109922cc384bec82521"
+      },
+      "path": "mods/balm-forge-1.20-7.0.7.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -714,15 +726,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/40FYwb4z/versions/fs9CeXYZ/caelus-forge-3.1.0%2B1.20.jar"
+        "https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2.0%2B1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 38169,
+      "fileSize": 40125,
       "hashes": {
-        "sha1": "09cc4f33dfcfa2f4763ae433bd98f3b09e0caf00",
-        "sha512": "b665292cf808a6776b77c1bd427dac17ba7b4b38213b6078967f4cd0df089675c21fa6589fc6a27f4970eae8857db99a4441c14628ba1b3c89f10ddbf6c50091"
+        "sha1": "d14e8ee892d4d8764f523ad0e89bdcfc061fb007",
+        "sha512": "906baad404c33288d8daf8937bc6a85d3bcc03db67a4a68395b8f01eea57f773420ff97919aadb08a7618b62b0c6c3db72270f9c3af836b822385464f509cf78"
       },
-      "path": "mods/caelus-forge-3.1.0+1.20.jar"
+      "path": "mods/caelus-forge-3.2.0+1.20.1.jar"
     },
     {
       "downloads": [
@@ -918,6 +930,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/WEg59z5b/versions/CKNINccT/defaultoptions-forge-1.20-18.0.1.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 87942,
+      "hashes": {
+        "sha1": "73af2309627a68a7bff3e53e02ea22fb5c4651e5",
+        "sha512": "41ab37f580a1cbcb063958b7ec6034c9bea729aecb5452e5982a21d068617a818e78d31f03e76fc4e06dbf73f066f576d9dd6566f70d4912f29b595ba5c54079"
+      },
+      "path": "mods/defaultoptions-forge-1.20-18.0.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/6FtRfnLg/versions/oLVOsTht/do_a_barrel_roll-forge-3.5.5%2B1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -944,7 +968,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/LQ3K71Q1/versions/M9XF5FlW/dynamic-fps-3.4.3%2Bminecraft-1.20.0-forge.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 253719,
       "hashes": {
         "sha1": "c1398f3bc47e21ba047b3401316f31a895dba572",
@@ -1158,15 +1182,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/s4OWxYQQ/versions/dh8hxGbr/irons_spellbooks-1.20.1-3.1.3.jar"
+        "https://cdn.modrinth.com/data/s4OWxYQQ/versions/tBPmwNuN/irons_spellbooks-1.20.1-3.1.4.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 8457005,
+      "fileSize": 8456400,
       "hashes": {
-        "sha1": "9f18bef2f2a8102efa355240517b08e0e7bf8b97",
-        "sha512": "8376ace562003f1ca3aa7b9239cb4187f60fd32719d0b8952a227cfa966641af3fe251d65e60b7b04733ccdabee5a17f4aab833dc666163128e6a9f3269b0efe"
+        "sha1": "94ca46b89e387b2ca8323fdb915e889154432baa",
+        "sha512": "b3ebd22a562a6c4d2012efbafdd662c82309f7fb7bd94b385049da7b0e7702f57aa7d438ddbc3b6620652e998c67cc6aeab6662d3cd5bde18c3019554cbfa66b"
       },
-      "path": "mods/irons_spellbooks-1.20.1-3.1.3.jar"
+      "path": "mods/irons_spellbooks-1.20.1-3.1.4.jar"
     },
     {
       "downloads": [
@@ -1191,6 +1215,18 @@
         "sha512": "824031f8fa6908dbf1865b490277e6fed0c3348e7c91b5f26ffb875177bdd17e6ef8228372f1443efcff2cc526eddbedd19be37ff0705a8fbac276d5676b8aa5"
       },
       "path": "mods/kotlinforforge-4.10.0-all.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/umyGl7zF/versions/YAwgjR2e/kubejs-forge-2001.6.5-build.7.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 1651674,
+      "hashes": {
+        "sha1": "a41d08fbf8148a198c438e74d426c6f79bb901f1",
+        "sha512": "71983984d6aaba03ea0ba535e6bde59500991c61f8357111e85d7e6d3d454f4a53408104ddc3566fd45f837251c21e7112a0e30affdc1b2cdf2059946ff7adb0"
+      },
+      "path": "mods/kubejs-forge-2001.6.5-build.7.jar"
     },
     {
       "downloads": [
@@ -1254,15 +1290,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/2Rr52SPW/modernfix-forge-5.16.1%2Bmc1.20.1.jar"
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/BpXImv5B/modernfix-forge-5.17.0%2Bmc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 748009,
+      "fileSize": 738345,
       "hashes": {
-        "sha1": "459194d7846e6ad981dfde427eb6ee64e8dc1e0b",
-        "sha512": "27e28d8f469bcd0c0328506b508e0bda392293007e47d4b3848eafa845fd2c58bf1882802bc2cbbd3d687ebfc83f3f80e573286cbaedafa17ea424a46847581b"
+        "sha1": "9a6230d6f39353047771a458618b583d68d35d61",
+        "sha512": "15eb8f731d3c2125977d0c9fc48d23ee0a28fc52a464f9ae731f6e17f415fc9a5f19cc7d0afe81d44cea17dcbf34330c18f43fa9e762036c4a72430646ca10a8"
       },
-      "path": "mods/modernfix-forge-5.16.1+mc1.20.1.jar"
+      "path": "mods/modernfix-forge-5.17.0+mc1.20.1.jar"
     },
     {
       "downloads": [
@@ -1422,6 +1458,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/sk9knFPE/versions/w5HiejeN/rhino-forge-2001.2.2-build.18.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 1782275,
+      "hashes": {
+        "sha1": "0a631b4e8235a777d08bd53d4f49dba388205cad",
+        "sha512": "1fd5f5667e0f078797112df7ae5f300d2fed2c992fdfd0818569e9286d9bdf6c311cf722cbef542a9ecd78577dde5f88e3cfaa48824d0d75bfede9fd4e1be18e"
+      },
+      "path": "mods/rhino-forge-2001.2.2-build.18.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/TyTPFOiF/versions/iguviUFl/seamless-loading-screen-2.0.3%2B1.20.1-forge.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -1578,15 +1626,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/1eAoo2KR/versions/WTCAdLsq/YetAnotherConfigLib-3.4.0%2B1.20.1-forge.jar"
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/CL7AHQsm/YetAnotherConfigLib-3.4.1%2B1.20.1-forge.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 929682,
+      "fileSize": 929749,
       "hashes": {
-        "sha1": "26eddbd15cae0d99ae21bb48969118de68ff43ca",
-        "sha512": "87d4d52d11249d5b5c8f03df5dcad4aab5e1e818bb8e86a65b8d3d8cf11551838be569efd7555e5a157801cef15f408d4ec9dfe1aa07ac32f30ab780d2b9fd42"
+        "sha1": "6763352e0afb19d6fdf356f6cd490bb0be020267",
+        "sha512": "5c4e05a4c8e9fd4ad8e61e4ebc629eca0c540cafb65686a2338654ebb30014ed1ca78e7393b8f28b9298b4faf8d3f4e0fb1c44bf34426429c54a093ea41d76df"
       },
-      "path": "mods/YetAnotherConfigLib-3.4.0+1.20.1-forge.jar"
+      "path": "mods/YetAnotherConfigLib-3.4.1+1.20.1-forge.jar"
     },
     {
       "downloads": [
@@ -1602,15 +1650,27 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/kmwfVOoi/versions/kxINFUyA/rethinking-voxels_r0.1_beta2.zip"
+        "https://cdn.modrinth.com/data/R6NEzAwj/versions/MCqlWur4/ComplementaryUnbound_r5.1.1.zip"
       ],
       "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 607173,
+      "fileSize": 409957,
       "hashes": {
-        "sha1": "d72d79ba8525ffbe18acc10e07b38b4ea800c51d",
-        "sha512": "773acd817d19336c287c8a1eab6b06f42437b617b3f9ecf833f979fa5ea69cf6968454208e1b30474a2e4a591f186685ebb7c48b6b67db6c684b4193cd88ff45"
+        "sha1": "65c7ef20fef4b5b03aa44afccbfdfdd82574c193",
+        "sha512": "1610ec72806fdd9b36f3f50cd97f587612fa4d7564d15ddff575265c67e406bc6d8e65ef9e0bd945b79207189cbb6b1e77ba5b3b9c6fb68a2364bd248532143d"
       },
-      "path": "shaderpacks/rethinking-voxels_r0.1_beta2.zip"
+      "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/kmwfVOoi/versions/i5OG3ddh/rethinking-voxels_r0.1-beta3-fix1.zip"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 493088,
+      "hashes": {
+        "sha1": "d061ec2d424bd7129fbf1ed650b10aa4678a2526",
+        "sha512": "6dc310331ff5d1a0f5410fb8a66ecfc56c455d86bc6df03e464e04c83171706aafc802845ae94e07b950c2739415e8a23bc81ba2847bbbd30c3d2d555881e7f1"
+      },
+      "path": "shaderpacks/rethinking-voxels_r0.1-beta3-fix1.zip"
     },
     {
       "downloads": [
@@ -1675,7 +1735,7 @@
   ],
   "formatVersion": 1,
   "game": "minecraft",
-  "name": "Cog",
-  "summary": "Project Cog is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
-  "versionId": "1.4.2"
+  "name": "Modded Expansion",
+  "summary": "MeepishRealms: Modded Expansion is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
+  "versionId": "1.4.3"
 }

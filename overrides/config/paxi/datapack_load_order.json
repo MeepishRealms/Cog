@@ -2,6 +2,7 @@
   "loadOrder": [
     "terralith_fix.zip",
     "vanilla_tweaks",
-    "coordinator"
+    "coordinator",
+    "meth_recipe_module.zip"
   ]
 }

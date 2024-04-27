@@ -19,7 +19,7 @@
 
 [features]
 	#Range: 1.0 ~ 100.0
-	elytra_boost = 1.0
+	elytra_boost = 1.0000001
 
 [enchantments]
 	list = []
