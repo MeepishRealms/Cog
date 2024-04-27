@@ -40,18 +40,18 @@
 	#/!\ Unsupported item types are not guaranteed to work out of the box.
 	#Imbue Whitelist. Use an item's id to allow it to be imbued, ex: "minecraft:iron_sword"
 	imbueWhitelist = [
-		"minecraft:trident"
-		"minecraft:wooden_axe"
-		"minecraft:stone_axe"
-		"minecraft:iron_axe"
-		"minecraft:gold_axe"
-		"minecraft:diamond_axe"
-		"minecraft:netherite:axe"
-		"minecraft:wooden_pickaxe"
-		"minecraft:stone_pickaxe"
-		"minecraft:iron_pickaxe"
-		"minecraft:gold_pickaxe"
-		"minecraft:diamond_pickaxe"
+		"minecraft:trident",
+		"minecraft:wooden_axe",
+		"minecraft:stone_axe",
+		"minecraft:iron_axe",
+		"minecraft:gold_axe",
+		"minecraft:diamond_axe",
+		"minecraft:netherite:axe",
+		"minecraft:wooden_pickaxe",
+		"minecraft:stone_pickaxe",
+		"minecraft:iron_pickaxe",
+		"minecraft:gold_pickaxe",
+		"minecraft:diamond_pickaxe",
 		"minecraft:netherite:pickaxe"
 	]
 	#Imbue Blacklist. Use an item's id to prevent it from being imbued, ex: "minecraft:iron_sword"
