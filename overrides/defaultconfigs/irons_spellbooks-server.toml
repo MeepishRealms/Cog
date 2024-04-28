@@ -46,13 +46,13 @@
 		"minecraft:iron_axe",
 		"minecraft:gold_axe",
 		"minecraft:diamond_axe",
-		"minecraft:netherite:axe",
+		"minecraft:netherite_axe",
 		"minecraft:wooden_pickaxe",
 		"minecraft:stone_pickaxe",
 		"minecraft:iron_pickaxe",
 		"minecraft:gold_pickaxe",
 		"minecraft:diamond_pickaxe",
-		"minecraft:netherite:pickaxe"
+		"minecraft:netherite_pickaxe"
 	]
 	#Imbue Blacklist. Use an item's id to prevent it from being imbued, ex: "minecraft:iron_sword"
 	imbueBlacklist = []
