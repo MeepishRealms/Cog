@@ -1280,7 +1280,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/umyGl7zF/versions/YAwgjR2e/kubejs-forge-2001.6.5-build.7.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
+      "env": { "client": "required", "server": "required" },
       "fileSize": 1651674,
       "hashes": {
         "sha1": "a41d08fbf8148a198c438e74d426c6f79bb901f1",
@@ -1544,7 +1544,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/sk9knFPE/versions/w5HiejeN/rhino-forge-2001.2.2-build.18.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
+      "env": { "client": "required", "server": "required" },
       "fileSize": 1782275,
       "hashes": {
         "sha1": "0a631b4e8235a777d08bd53d4f49dba388205cad",
