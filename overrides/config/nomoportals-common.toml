@@ -1,7 +1,7 @@
 
 ["Vanilla Portals"]
 	#Enable or disable End portal teleportation interaction (set to 'true' to restore default functionality).
-	End_Portal = false
+	End_Portal = true
 	#Enable or disable Nether portal teleportation interaction (set to 'true' to restore default functionality).
 	Nether_Portal = true
 

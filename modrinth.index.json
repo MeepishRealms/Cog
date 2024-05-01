@@ -6,6 +6,18 @@
   "files": [
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/DSVgwcji/versions/eJihmpNQ/AI-Improvements-1.20-0.5.2.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 29553,
+      "hashes": {
+        "sha1": "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8",
+        "sha512": "eb932308aceb30f5157e967f1bd4b57eb1a1b2093886cbfaef6524b780337b8b0e2bd41c5103694c3a275827ceb7d63e7c55637a7a46f8e21f0a6770346b757d"
+      },
+      "path": "mods/AI-Improvements-1.20-0.5.2.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/wXiGiyGX/versions/txd1dBMw/Amplified_Nether_1.20.4_v1.2.4.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -15,6 +27,18 @@
         "sha512": "0e3e70402f3b462e33561b1b4d5cd14311b91ccd527c6f8ff76c1fad87ae20dd213f93fb9edaeb1e5ae90afd7f0e7f5edad8366ca8e51416d8a86530b477cc3d"
       },
       "path": "mods/Amplified_Nether_1.20.4_v1.2.4.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/bbGCtEvb/versions/Oa75lUzE/ArmorStatues-v8.0.6-1.20.1-Forge.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 528017,
+      "hashes": {
+        "sha1": "dbeb8229973c26d233b4bdf21ed6a4aa6b3ebd55",
+        "sha512": "818331fcf19afc47a5bdbecf70e935d8707c43831cc3295ee2cd2717dcb08d03a8426da748281032d3039c01d816fb863b51a97b7fe9dd13246fc8e70efb1971"
+      },
+      "path": "mods/ArmorStatues-v8.0.6-1.20.1-Forge.jar"
     },
     {
       "downloads": [
@@ -402,6 +426,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/1radnytC/PuzzlesLib-v8.1.18-1.20.1-Forge.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 997101,
+      "hashes": {
+        "sha1": "35e19738abab0051f3b6a5b8a33b5524c06d85ce",
+        "sha512": "74132df8ed1f9b5d2e7556aa26238fd06660f922fcf3e8508788fd97db32aa6ea4ec74b205066243f25b2fba5176217376424c23fa795e8f13b614606cfa68a6"
+      },
+      "path": "mods/PuzzlesLib-v8.1.18-1.20.1-Forge.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/ZzjhlDgM/versions/nlPSqQex/Steam_Rails-1.6.3%2Bforge-mc1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -630,6 +666,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/bb2EpKpx/versions/r0eKAc5z/argonauts-forge-1.20.1-1.0.10.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 644788,
+      "hashes": {
+        "sha1": "897c1f82873d8297c11e452737b1d32c690a00de",
+        "sha512": "7048563f30eabe16574821beb23a4b451b30c06728a755ca9e94ca8c14a599b6de666d47aed40de9e6e7893ee359f4d4de071749a5c2a60f96978776a14f4931"
+      },
+      "path": "mods/argonauts-forge-1.20.1-1.0.10.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/DULOQFj7/athena-forge-1.20.1-3.1.2.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -666,15 +714,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/MBAkmtvl/versions/NRF4uKO7/balm-forge-1.20-7.0.7.jar"
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/fzqus8s0/balm-forge-1.20.1-7.2.2.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 331235,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 343714,
       "hashes": {
-        "sha1": "8280fe836f6ecfdd13716e71e38135dc4a5e4876",
-        "sha512": "74fd3821f593cdae4582b29fe686ca77076427b313a111d5d2dc54c89f385cf8665a2def25295a91662016893f382ce68d199c46eb999109922cc384bec82521"
+        "sha1": "c0bb062b52fa0a234d922e066d3e09c3df4297d9",
+        "sha512": "447ff1031896744f82e0dde010945a4bcf82f0edce88dee2721c548ca64df40f7fa97e7d2abbe81f74b44339d8a336823afff17811885f773af1bc09f9ecd79d"
       },
-      "path": "mods/balm-forge-1.20-7.0.7.jar"
+      "path": "mods/balm-forge-1.20.1-7.2.2.jar"
     },
     {
       "downloads": [
@@ -894,15 +942,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/vvuO3ImH/versions/6EgL0aP4/curios-forge-5.8.1%2B1.20.1.jar"
+        "https://cdn.modrinth.com/data/vvuO3ImH/versions/7UxKaIU0/curios-forge-5.9.0%2B1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 380722,
+      "fileSize": 382848,
       "hashes": {
-        "sha1": "987f67849c688cbedaf33439dc95e1c300f5feaf",
-        "sha512": "c08e6eda72096be64d9c80fd5d4569f456a0001ff975b549e2b32c97df221832efaa75b379ba4cd9bdf8cc5272571b91f262eeab02c692597b288f89603098c6"
+        "sha1": "355115f0c03041d82ca974b99cda8b5478bf515a",
+        "sha512": "fd0454e45274af4cbb74e5c821ba980436544860f5c63beaa5a1241e5b44db6a3dfde7883070ac807085bc3402c9b136a2c03d897b53382478fad84207a0d43d"
       },
-      "path": "mods/curios-forge-5.8.1+1.20.1.jar"
+      "path": "mods/curios-forge-5.9.0+1.20.1.jar"
     },
     {
       "downloads": [
@@ -1035,6 +1083,18 @@
         "sha512": "f09066085b085fe68bd2d3d8d4895d57e3ad4e13aa5302fd6df6461ad3ab123dd178a7e15486d7bc355499dac8665a73e8ddc1229a4eaf6adf8e469255321a29"
       },
       "path": "mods/endrem_forge-5.2.3-R-1.20.X.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/eTy17BBS/versions/p65pjOle/enhanced_attack_indicator-1.0.4%2B1.20.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 33342,
+      "hashes": {
+        "sha1": "cbdf3e408ec0e2fb5d6ded4f32364ca4dd692e6d",
+        "sha512": "825ecea8a945f707f9f4512cf2f6996a689a8657bade71ace1926cbd2724b671e58ad25fda025c48e7186682e7e3ac64c96cc932c08b3fa0028edc4d8d7d5205"
+      },
+      "path": "mods/enhanced_attack_indicator-1.0.4+1.20.jar"
     },
     {
       "downloads": [
@@ -1220,7 +1280,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/umyGl7zF/versions/YAwgjR2e/kubejs-forge-2001.6.5-build.7.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
+      "env": { "client": "required", "server": "required" },
       "fileSize": 1651674,
       "hashes": {
         "sha1": "a41d08fbf8148a198c438e74d426c6f79bb901f1",
@@ -1398,6 +1458,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/gF3BGWvG/versions/qazws2P9/open-parties-and-claims-forge-1.20.1-0.22.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 1225375,
+      "hashes": {
+        "sha1": "16c6c822ce3050ffa61afda96e9466b43e1d44a5",
+        "sha512": "f4bb0c9bfc3729954630fc5bb7e6ca4d8d92b771f5880703ddc80e623709faa2dd2b758534bbe14006d6434ca0ecc26161c1a7174b251e401d36cbb0d5ab16ae"
+      },
+      "path": "mods/open-parties-and-claims-forge-1.20.1-0.22.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/bCxmmxKN/versions/cRR55xmK/overweightfarming-1.20.1-2.1.0-forge.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -1434,6 +1506,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/iYcNKH7W/versions/uBbjID8A/prometheus-forge-1.20.1-1.2.5.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 818179,
+      "hashes": {
+        "sha1": "21eaa382cea74c4a48defc354a1dae4ab7e1f11c",
+        "sha512": "609393339d124ef8b26a3764d88f2098215e418341d9f3bf08fc7d262109c2bd3792a64a24febf72c72a022ea566d7ebb3d5e182f433a849847dcd20a1f01ec1"
+      },
+      "path": "mods/prometheus-forge-1.20.1-1.2.5.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/nCQRBEiR/versions/rHORzYiO/raised-forge-1.20.1-3.1.3.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -1460,7 +1544,7 @@
       "downloads": [
         "https://cdn.modrinth.com/data/sk9knFPE/versions/w5HiejeN/rhino-forge-2001.2.2-build.18.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
+      "env": { "client": "required", "server": "required" },
       "fileSize": 1782275,
       "hashes": {
         "sha1": "0a631b4e8235a777d08bd53d4f49dba388205cad",
@@ -1554,6 +1638,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 3114590,
+      "hashes": {
+        "sha1": "231fb325368c0660954f47bfb03493f5246fa4d1",
+        "sha512": "15c6a3753dcba380624643a1e19c856240e8f6bed280f908e1be12c6154a86284ac86405c806273842975e0b7270af93ea9b1db5cf575a3853e54e1088cf7343"
+      },
+      "path": "mods/spark-1.10.53-forge.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/Z6ykjRlM/versions/chgnA6zJ/spyglass_improvements-1.5%2Bmc1.20%2Bforge.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -1626,15 +1722,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/1eAoo2KR/versions/CL7AHQsm/YetAnotherConfigLib-3.4.1%2B1.20.1-forge.jar"
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/lALu7fvN/YetAnotherConfigLib-3.4.2%2B1.20.1-forge.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 929749,
+      "fileSize": 1075392,
       "hashes": {
-        "sha1": "6763352e0afb19d6fdf356f6cd490bb0be020267",
-        "sha512": "5c4e05a4c8e9fd4ad8e61e4ebc629eca0c540cafb65686a2338654ebb30014ed1ca78e7393b8f28b9298b4faf8d3f4e0fb1c44bf34426429c54a093ea41d76df"
+        "sha1": "ec643c76385479d7e4b4018869f4b2759d14c298",
+        "sha512": "5205dd6e906d1ea16fdb265369add596e5aa3c9528146691b4c67d22a4dc24b25a01156ba484019e30b29e8d0554d765c00c4165a1fd086bae0db0d609fd5e1c"
       },
-      "path": "mods/YetAnotherConfigLib-3.4.1+1.20.1-forge.jar"
+      "path": "mods/YetAnotherConfigLib-3.4.2+1.20.1-forge.jar"
     },
     {
       "downloads": [
@@ -1737,5 +1833,5 @@
   "game": "minecraft",
   "name": "Modded Expansion",
   "summary": "MeepishRealms: Modded Expansion is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
-  "versionId": "1.4.3"
+  "versionId": "1.4.4"
 }
