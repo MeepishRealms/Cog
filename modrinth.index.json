@@ -342,15 +342,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/46KJle7n/versions/iw63gTDC/L_Enders_Cataclysm-1.99%20-%20Recipefix%20-1.20.1.jar"
+        "https://cdn.modrinth.com/data/46KJle7n/versions/u75rtQcW/L_Enders_Cataclysm-1.90%20-1.20.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 48146892,
+      "fileSize": 39395215,
       "hashes": {
-        "sha1": "a9bd56cb4d7c8b9ea83be1579c887f619702bea8",
-        "sha512": "faf027d81b66b5a02862d705f0aeefa5bb413d36e18b3585f2869bad67495e7559bad023d7b25415f55dde5862cb3f4ecfa5c82c91ab9c549ee3a4cd50fc7e24"
+        "sha1": "1ace506392da925ee9717c440ab553dd6c7168a0",
+        "sha512": "4f0dcc21bfe717b1a42f99a64cf5499d9c66e0741937914b37807ffb7f05813746db7766915deff2a8f39dff86bad7d481cedb684066097a0d669f11fb51cc50"
       },
-      "path": "mods/L_Enders_Cataclysm-1.99 - Recipefix -1.20.1.jar"
+      "path": "mods/L_Enders_Cataclysm-1.90 -1.20.1.jar"
     },
     {
       "downloads": [
