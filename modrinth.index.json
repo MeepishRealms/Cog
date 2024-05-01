@@ -1446,15 +1446,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/GchcoXML/versions/vVuYfukI/oculus-mc1.20.1-1.7.0.jar"
+        "https://cdn.modrinth.com/data/GchcoXML/versions/Bj8M79wL/oculus-mc1.20.1-1.6.15a.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 2831148,
+      "fileSize": 2806358,
       "hashes": {
-        "sha1": "27410903d3af950378776106b76503cfebe7ea3a",
-        "sha512": "8f7e56e65a12c7cfa4719c69e1de552dc8651ab202ff9bf78ff180c4bf81a82f3e569641046b1915b6f9e60f54451ae4b8b0d9a688a0c966473b91de9cefb923"
+        "sha1": "478a222cd6390353ba080b07fcac2b6301fbe3a2",
+        "sha512": "bf5d1dd0d113f497b97d49dc75ba83ecb91d436bfedb8f337cc6e69a78a05841ac3b31bef7c508cdf2d0e66f787c2e647e37ff99c7a491f786bf72d66028f6fe"
       },
-      "path": "mods/oculus-mc1.20.1-1.7.0.jar"
+      "path": "mods/oculus-mc1.20.1-1.6.15a.jar"
     },
     {
       "downloads": [
@@ -1833,5 +1833,5 @@
   "game": "minecraft",
   "name": "Modded Expansion",
   "summary": "MeepishRealms: Modded Expansion is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
-  "versionId": "1.4.3"
+  "versionId": "1.4.4"
 }
