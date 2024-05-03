@@ -5,9 +5,8 @@ The recommended method to run Modded Expansion on Docker is using Docker Compose
 
 ## Installation
 
-- Download the `docker-compose.yml` file within this folder onto your Linux server.
-- `cd` into the directory where it is stored.
-- Run the following command:
+1. `cd` into the folder where you placed the `docker-compose.yml` file on your server.
+2. Run the following command:
 ```
 $ docker compose up -d
 ```
