@@ -8,7 +8,7 @@ To begin, download the `mrme.container` and `mrme.volume` files within this fold
 Next, decide if you want to run Modded Expansion as a rootful or rootless container.
 
 ## Rootless Installation (Recommended)
-1. `cd` into the folder where you placed the Quadlet files.
+1. `cd` into the folder where you placed the Quadlet files on your server.
 2. Move both `mrme.container` and `mrme.volume` into `~/.config/containers/systemd/`.
 ```
 $ mv mrme.container mrme.volume ~/.config/containers/systemd/
@@ -26,7 +26,7 @@ The container will now automatically start and self-update on future boots.
 
 ## Rootful Installation
 All commands for this set of instructions past the first step are required to be run as root, using `sudo` or otherwise.
-1. `cd` into the folder where you placed the Quadlet files.
+1. `cd` into the folder where you placed the Quadlet files on your server.
 2. Move both `mrme.container` and `mrme.volume` into `/etc/containers/systemd/`.
 ```
 # mv mrme.container mrme.volume /etc/containers/systemd/
