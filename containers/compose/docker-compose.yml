@@ -1,6 +1,5 @@
 #To spin up this compose file, make sure you are "cd"'d into the directory where this file is stored.
 #Then run `docker compose up -d"
-
 services:
   modded_expansion:
     name: mrme
