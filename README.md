@@ -3,14 +3,14 @@ A Minecraft modpack with deep potential for automation, building, collaboration,
 Easy to grasp, difficult to master.
 Modded Expansion is built around a vanilla aesthetic, extended midgame, automation, and building focus. Currently made for Forge 1.20.1.
 
-[![Available for Forge](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/supported/forge_vector.svg)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) [![Avaliable on Modrinth!](https://raw.githubusercontent.com/intergrav/devins-badges/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/project-cog) [![Read the Documentation](https://raw.githubusercontent.com/intergrav/devins-badges/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/documentation/ghpages_vector.svg)](https://github.com/MeepishRealms/Cog/wiki)
+[![Avaliable on Modrinth!](https://raw.githubusercontent.com/intergrav/devins-badges/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/project-cog) [![Avaliable on Curseforge](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/modpacks/project-cog) [![Read the Documentation](https://raw.githubusercontent.com/intergrav/devins-badges/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/documentation/ghpages_vector.svg)](https://github.com/MeepishRealms/Cog/wiki)
 
 ## Installation and Server Hosting
 To install Modded Expansion, you can use the following methods.
 
 1. Install via Modrinth App [Recommended!]
 2. Install via Prism Launcher using the Modrinth Tab
-3. Install via Curseforge App as Custom Import [Not Recommended]
+3. Install via Curseforge App [Not Recommended: This version has a few missing features!]
 
 If you plan to host a server for Modded Expansion, either download the Server Instance ZIP or use a container template.
 
@@ -45,7 +45,7 @@ The following roadmap is subject to change at any time and future plans are not 
   - Explore moons and space!
 
 <details>
-    <summary>⚖️ Licensing and Credits</summary>
+    <summary>⚖️ Licensing and Credits on Modrinth</summary>
 
 Nearly all mods in this pack are uploaded on Modrinth. For a list of all mods that are included in the modpack, click the [latest release](https://modrinth.com/modpack/project-cog/version/latest), and see the Dependencies section.
 
@@ -71,4 +71,20 @@ The following mods/resouruce/data packs are bundled as an override, meaning that
 - **Vanilla Tweaks**: https://vanillatweaks.net/
 
 This modpack itself is licensed under the GPLv3 and you are free to fork, redistribute, and use the code.
+</details>
+
+<details>
+    <summary>⚖️ Licensing and Credits on Curseforge</summary>
+
+Nearly all mods in this pack are uploaded on Curseforge. For a list of all mods that are included in the modpack, click the [Relations tab](https://www.curseforge.com/minecraft/modpacks/project-cog/relations/dependencies).
+
+The following mods/resource/data packs are bundled as an override, meaning that they are not distributed by Curseforge's servers, but rather included as a part of the `.zip` binary.
+
+- **[Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)** by FX
+  - The LGPL-2.1 used by the mod permits redistribution.
+- **[No Rocket Boosting](https://modrinth.com/mod/no-rocket-boosting)** by Apollo
+  - The CC0-1.0 license used by the mod permits redistribution.
+- **Vanilla Tweaks**: https://vanillatweaks.net/
+
+The modpack itself is licensed under the GPLv3 and you are free to fork, redistribute, and use the code.
 </details>
