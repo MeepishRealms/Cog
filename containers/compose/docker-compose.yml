@@ -1,0 +1,33 @@
+#To spin up this compose file, make sure you are "cd"'d into the directory where this file is stored.
+#Then run `docker compose up -d"
+
+services:
+  modded_expansion:
+    name: mrme
+    image: docker.io/itzg/minecraft-server:java17-graalvm
+    network: host
+    tty: true
+    stdin_open: true
+    volumes:
+      - mrme_world:/data
+    environment:
+      EULA: "true"
+      TYPE: "MODRINTH"
+      MODRINTH_MODPACK: "FpI88Ccr"
+      MODRINTH_DEFAULT_VERSION_TYPE: "release"
+      CONFIGPATH: "config"
+      MOTD: "MeepishRealms Modded Expansion Dedicated Server"
+      ICON: "https://www.dropbox.com/scl/fi/goueaqlx8sk3nctq44fe9/mrmediscord.png?rlkey=e00ucxfupu9rxbrivxiqpuoya&dl=1"
+      MEMORY: "8G"
+      JVM_OPTS: "-XX:+UseG1GC -XX:MaxGCPauseMillis=130 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=28 -XX:G1HeapRegionSize=16M -XX:G1ReservePercent=20 -XX:G1MixedGCCountTarget=3 -XX:InitiatingHeapOccupancyPercent=10 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=0 -XX:SurvivorRatio=32 -XX:MaxTenuringThreshold=1 -XX:G1SATBBufferEnqueueingThresholdPercent=30 -XX:G1ConcMarkStepDurationMillis=5 -XX:G1ConcRSHotCardLimit=16 -XX:G1ConcRefinementServiceIntervalMillis=150 -XX:AllocatePrefetchStyle=3 -XX:+UseTransparentHugePages -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:+EagerJVMCI -Dgraal.TuneInlinerExploration=1 -Dgraal.CompilerConfiguration=enterprise -XX:ConcGCThreads=4"
+      NETWORK_COMPRESSION_THRESHOLD: "256"
+      SYNC_CHUNK_WRITES: "false"
+      DIFFICULTY: "hard"
+      VIEW_DISTANCE: "16"
+      ALLOW_FLIGHT: "true"
+      SPAWN_PROTECTION: "0"
+      ENABLE_COMMAND_BLOCK: "true"
+      ENABLE_WHITELIST: "true"
+      ENFORCE_WHITELIST: "true"
+      SNOOPER_ENABLED: "false"
+    restart: always

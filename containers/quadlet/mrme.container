@@ -1,0 +1,41 @@
+[Container]
+#By using this Quadlet template, you are agreeing to Mojang's EULA.
+Environment=EULA=true
+#Container Properties
+AutoUpdate=registry
+ContainerName=mrme
+Image=docker.io/itzg/minecraft-server:java17-graalvm
+Network=host
+PodmanArgs=--interactive --tty
+Volume=mrme.volume:/data
+#Modrinth Settings
+Environment=TYPE=MODRINTH
+Environment=MODRINTH_MODPACK=FpI88Ccr
+Environment=MODRINTH_DEFAULT_VERSION_TYPE=release
+Environment=CONFIGPATH=config
+#Server Identity
+Environment=MOTD="MeepishRealms: Modded Expansion Dedicated Server"
+Environment=ICON=https://www.dropbox.com/scl/fi/goueaqlx8sk3nctq44fe9/mrmediscord.png?rlkey=e00ucxfupu9rxbrivxiqpuoya&dl=1
+#Performance and Java Settings
+Environment=MEMORY=8G
+Environment=JVM_OPTS="-XX:+UseG1GC -XX:MaxGCPauseMillis=130 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=28 -XX:G1HeapRegionSize=16M -XX:G1ReservePercent=20 -XX:G1MixedGCCountTarget=3 -XX:InitiatingHeapOccupancyPercent=10 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=0 -XX:SurvivorRatio=32 -XX:MaxTenuringThreshold=1 -XX:G1SATBBufferEnqueueingThresholdPercent=30 -XX:G1ConcMarkStepDurationMillis=5 -XX:G1ConcRSHotCardLimit=16 -XX:G1ConcRefinementServiceIntervalMillis=150 -XX:AllocatePrefetchStyle=3 -XX:+UseTransparentHugePages -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:+EagerJVMCI -Dgraal.TuneInlinerExploration=1 -Dgraal.CompilerConfiguration=enterprise -XX:ConcGCThreads=4"
+Environment=NETWORK_COMPRESSION_THRESHOLD=256
+Environment=SYNC_CHUNK_WRITES=false
+#Server Properties
+Environment=DIFFICULTY=hard
+Environment=VIEW_DISTANCE=16
+Environment=ALLOW_FLIGHT=true
+Environment=SPAWN_PROTECTION=1
+Environment=ENABLE_COMMAND_BLOCK=true
+Environment=ENABLE_WHITELIST=true
+Environment=ENFORCE_WHITELIST=true
+Environment=SNOOPER_ENABLED=false
+
+[Service]
+#Restarts container on crash unless manually stopped with systemctl.
+Restart=always
+TimeoutStopSec=120
+
+[Install]
+#Starts container on boot.
+WantedBy=multi-user.target default.target
