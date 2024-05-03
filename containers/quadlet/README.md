@@ -5,7 +5,7 @@ The recommended method to run Modded Expansion on Podman is using Quadlets. Mode
 
 To begin, download the `mrme.container` and `mrme.volume` files within this folder onto your Linux server.
 
-Next, decide if you want to run Modded Expansion as a rootfully, or a rootless container.
+Next, decide if you want to run Modded Expansion as a rootful or rootless container.
 
 ## Rootless Installation (Recommended)
 1. `cd` into the folder where you placed the Quadlet files.
