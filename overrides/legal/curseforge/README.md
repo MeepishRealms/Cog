@@ -13,4 +13,4 @@ Due to the Curseforge version's status as a port, certain features may be missin
 - **Beta Versions**
   - Beta Versions of Modded Expansion will never be avaliable on Curseforge.
 - **Server Compatbility**
-  - You cannot host servers using the Curseforge port of the pack since it will cause Modrinth clients to lose functionality and potentially experience glitches.
+  - You cannot host servers using the Curseforge port of the pack since it will cause Modrinth clients to lose Axiom functionality.

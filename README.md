@@ -10,7 +10,7 @@ To install Modded Expansion, you can use the following methods.
 
 1. Install via Modrinth App [Recommended!]
 2. Install via Prism Launcher using the Modrinth Tab
-3. Install via Curseforge App [Not Recommended: This version has a few missing features!]
+3. Install via Curseforge App
 
 If you plan to host a server for Modded Expansion, either download the Server Instance ZIP or use a container template.
 
