@@ -1578,6 +1578,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Dpilnxtl/versions/zGemlmwK/no-rocket-boosting-1.0.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 10771,
+      "hashes": {
+        "sha1": "7c7af91446a6dcecdd766b609ad3de78821bf80d",
+        "sha512": "92c7332366f735f699df32dc5cfeebde57fec8ba98793752b1de02d9e25a9b6826ce8d39d3ecdc738626e4578cb2681c013efec98c9dbe319e129b954695ce58"
+      },
+      "path": "mods/no-rocket-boosting-1.0.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/hg77g4Pw/versions/tmHWmt1u/no-telemetry-1.8.0.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
