@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "create:goggles"
+    "create:goggles",
+    "irons_spellbooks:tarnished_helmet"
   ]
 }
