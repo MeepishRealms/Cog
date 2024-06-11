@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "farmersdelight:cake_slice"
+    },
+    {
+      "amount": 75,
+      "fluid": "create:honey",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "create_central_kitchen:honey_cake_slice"
+    }
+  ]
+}

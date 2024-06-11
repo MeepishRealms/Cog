@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "farmersdelight:cake_slice"
+    },
+    {
+      "amount": 75,
+      "fluid": "create:chocolate",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "create_central_kitchen:chocolate_cake_slice"
+    }
+  ]
+}
