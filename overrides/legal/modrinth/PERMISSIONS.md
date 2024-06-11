@@ -1,6 +1,9 @@
 # Permissions to Redistribute 
 The following mods/resouruce/data packs are bundled as an override, meaning that they are not distributed by Modrinth's servers, but rather included as a part of the `.mrpack` binary.
 
+- **[B.F. End Cities](https://www.curseforge.com/minecraft/mc-mods/bf-end-cities)** by Anthxny
+  - The MIT License used by the mod permits redistribution.
+  - *Source code avaliable at https://github.com/anthxnymc/BFEndCities*
 - **[Bobby Reforged](https://www.curseforge.com/minecraft/mc-mods/bobby-reforged)** by Anthxny
   - The LGPL-3 used by the mod permits redistribution.
   - *Source code avaliable at https://github.com/anthxnymc/BobbyReforged*
