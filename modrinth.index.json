@@ -66,6 +66,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/eT6Jsaq5/BadOptimizations-2.1.1.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 426768,
+      "hashes": {
+        "sha1": "6c42358ecd765bd9372d3e69a1363ca4eeeb55a3",
+        "sha512": "a1750f969f9b7385c330f5662ef1ae6bab364f443d07d6fd4a527ebcc903fe4290593b18e16c8f112eb54d76cf74c26237ace811280a67aef3b41b198c7d8db9"
+      },
+      "path": "mods/BadOptimizations-2.1.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/Q2OqKxDG/versions/vhpXnjE2/BetterAdvancements-1.20.1-0.3.2.162.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -195,6 +207,18 @@
         "sha512": "1c64bfa21e5c1ce672e6538579e1da9d67df2ec158ba415d361e8bb9f6220292dc221abcf36505b73f5ccc789e49519f9e314baee978855a50db32cb1b1c88d7"
       },
       "path": "mods/Chipped-forge-1.20.1-3.0.6.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 341451,
+      "hashes": {
+        "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
+        "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9"
+      },
+      "path": "mods/Chunky-1.3.146.jar"
     },
     {
       "downloads": [
@@ -411,6 +435,18 @@
         "sha512": "20d973e57ac7c20fe8f3a6f5cd75b46d3362a7f7ec408750f15894ce98c14174f083535abeff8640c21e53411cceef6387442141bf98a694b0e3ba4d18804257"
       },
       "path": "mods/LegendaryTooltips-1.20.1-forge-1.4.5.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/9gNVPfzw/versions/qvD8LMWH/MinecraftCapes%20Forge%201.20.1-12.3.7.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 48158,
+      "hashes": {
+        "sha1": "5cb42618b8242eb57b63dc54155736fcc205c47a",
+        "sha512": "2765ad80578766bec7e3f8b67351b8281a392408779f74d4e329001705ada5a29079240d9f847dbe7aa79b972965774c844054d18c3efe8575413f9307464aa0"
+      },
+      "path": "mods/MinecraftCapes Forge 1.20.1-12.3.7.jar"
     },
     {
       "downloads": [
@@ -738,6 +774,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/rkN8aqci/versions/Eip0qUwF/async-locator-forge-1.20-1.3.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 264951,
+      "hashes": {
+        "sha1": "fa8e3d65644e5bf1ea62f1ba3c94b0982dfb7357",
+        "sha512": "84cfbd80bf0a5a53ffa42f1c154e8f5991f27e5924df011849693e00310a2654962f9d9e1aaa237931d8fcc2fe13bd2908f1cd92261b1fed8d5fa2b685d83194"
+      },
+      "path": "mods/async-locator-forge-1.20-1.3.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/DULOQFj7/athena-forge-1.20.1-3.1.2.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -759,6 +807,18 @@
         "sha512": "aef0265954a24395f8a7e9f8ea5fd9edea29e8a175114845542f34520cc51a41a685031e7922b39302b32f2070264fef74f93fc6a342fc3eae1e8b2ef7020849"
       },
       "path": "mods/audioplayer-fabric-1.20.1-1.10.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/cRh6MJ6n/versions/dNSKgdoR/autumnity-1.20.1-5.0.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 1219707,
+      "hashes": {
+        "sha1": "b7dcdc74db6c25c5c6f1644304491a161f459a14",
+        "sha512": "b6f5855b1d8c4d72ddad701af229a7dc2b1d46b27db6c4e3a0b1eaccbc326a4f3eae56322f0cfa5f0e9501e394d530170c90f2a057265303d2d1d6d09465ae38"
+      },
+      "path": "mods/autumnity-1.20.1-5.0.1.jar"
     },
     {
       "downloads": [
@@ -798,6 +858,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/VsM5EDoI/versions/LkOcOC7A/blueprint-1.20.1-7.1.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 1141553,
+      "hashes": {
+        "sha1": "5ff3b2c8ff096d6481ed252f0371aeb60b460f27",
+        "sha512": "cb788eb25834e601f3c59cf9af9eeb30416a4ee9a87fafb6f5abbbea7f97f66b7197b20a57988fe365ba1a122292194bdb73ce0e0aa8af1a0318080a74495652"
+      },
+      "path": "mods/blueprint-1.20.1-7.1.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/o4Wx4DUB/versions/NOiJG3oF/blur-forge-3.1.1.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -819,6 +891,18 @@
         "sha512": "7445d79217cbe235c1afa04ccef4b55005b980a0942f86829bda0fec2bfc6d76c4fdf686380416e1d6eef92454be11107abecc32b2f9b43a39fa5c92bd90a3f2"
       },
       "path": "mods/bucketlib-1.20.1-2.3.4.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/b7vOFSIp/versions/PyMRj9VM/buzzier_bees-1.20.1-6.0.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 557383,
+      "hashes": {
+        "sha1": "5de23e8c0e88ded278bb7fd1bddd245c88c72eb4",
+        "sha512": "4ff45446cf6cbd94421a477c631ae36fd3697d334b7039828061f88932ffd6d5f3d385e88a5a503c94c62d007cc816bc86d889d9c4ee290679a05d2bf633fae3"
+      },
+      "path": "mods/buzzier_bees-1.20.1-6.0.0.jar"
     },
     {
       "downloads": [
@@ -927,6 +1011,18 @@
         "sha512": "c3b58a99f618ae7d2903e754f7d229263bcc23f15d21df355575b4c198dcca8d6e3fc414a02343ce658b0203f67ed862a0876164eb587cc0b70490a89968beb2"
       },
       "path": "mods/comforts-forge-6.3.5+1.20.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/uxLAKWU8/versions/EOHNMKGz/corn_delight-1.0.4-1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 142501,
+      "hashes": {
+        "sha1": "3d09b46f62468c35f5ee117503edacf5aed087d1",
+        "sha512": "2793e04a03b85edc9294fb85a6b380f47ecd76beadd56b8dbd9d1e32f5c97dd7e353c100cb891c6e4a58e47ab607640ec03017b0e3a94cf7f37068ff92d5573e"
+      },
+      "path": "mods/corn_delight-1.0.4-1.20.1.jar"
     },
     {
       "downloads": [
@@ -1203,6 +1299,18 @@
         "sha512": "f09066085b085fe68bd2d3d8d4895d57e3ad4e13aa5302fd6df6461ad3ab123dd178a7e15486d7bc355499dac8665a73e8ddc1229a4eaf6adf8e469255321a29"
       },
       "path": "mods/endrem_forge-5.2.3-R-1.20.X.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/yHN0njMr/versions/99a5wEsK/ends_delight-1.20.1-1.0.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 256864,
+      "hashes": {
+        "sha1": "f6a9c2215a0ed1188526bbf15c55bd1709d8f7d8",
+        "sha512": "f4dc06bae12e416d3a89fb796612c67b3354a0e0d4df4a0dc652d17f41773a38046c307b0b5fc2e6c5c52f2e5f19bcb706f6a7e9339c94b5e9b0a7ddb2f87f76"
+      },
+      "path": "mods/ends_delight-1.20.1-1.0.1.jar"
     },
     {
       "downloads": [
@@ -1566,6 +1674,30 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/ntMyNH8c/versions/c79gyX4v/mysterious_mountain_lib-1.4.7-1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 290014,
+      "hashes": {
+        "sha1": "de6e8dd8d55f49b234d704ab06eb399d77dac1d8",
+        "sha512": "6addfcf7168ad05b15071886e6cc51b5ffe771a932df6bb63b564add04b6aa6dd5f1917136ed2f0de2d88465ad9bea6b3104a1f57aa99bfb2cbb4293995789d9"
+      },
+      "path": "mods/mysterious_mountain_lib-1.4.7-1.20.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/InYMuiQt/versions/bSOBBF52/neapolitan-1.20.1-5.0.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 4664510,
+      "hashes": {
+        "sha1": "2ef19ce68ea3873d572eb1440da58b0f1f9a41db",
+        "sha512": "7d45b0ea7f477ab2b2e32b8431f42b40a92ae4b83b4f8d5b9918ca31d9180f4289c924294d281fb5d273360ecf3f60f68d2138d8fe86c9a80b387aaa8e8de67b"
+      },
+      "path": "mods/neapolitan-1.20.1-5.0.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/Vv0RM7WN/versions/MTDQhZd2/nethersdelight-1.20.1-4.0.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -1599,6 +1731,18 @@
         "sha512": "38b6d7939e3eb64d121d284ea7d7b04ab1863cb4dedaef2e85b11cee3f13f3e160839822402b94dc8da49ffaa10e2b901395300efc1f95bcf4dbf3024aeefa9a"
       },
       "path": "mods/no-telemetry-1.8.0.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/KuNKN7d2/versions/EuQErqo9/noisium-forge-2.0.3%2Bmc1.20-1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 220842,
+      "hashes": {
+        "sha1": "4cec669eb885f344206ca314e245ee62a19861cb",
+        "sha512": "05a8573a7810d302d8e954f8afc83bf528ffa3874319cea495c0c00581bc46deac4f437fcb26dd279d024cdf61c7eadc12f7731af820b3607134cd7727782e33"
+      },
+      "path": "mods/noisium-forge-2.0.3+mc1.20-1.20.1.jar"
     },
     {
       "downloads": [
@@ -1743,6 +1887,18 @@
         "sha512": "58a7a8ce6bc2f9a5a1403200e46681705e256c4384ffd9043dfc9c5223c0e90b22c280163e913a69a7bf41c63830a4b9c11109b14c62d3e9fe87d32949676903"
       },
       "path": "mods/seamless-loading-screen-2.0.3+1.20.1-forge.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/P59fUQow/versions/5yEbtLc3/seasonals-1.20.1-5.0.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 244299,
+      "hashes": {
+        "sha1": "6b50d2067f1da6c720a09d35a00f5050bf727cee",
+        "sha512": "babea1e5a36a9e14c71eaf7120c89e7ee436206092836580a058e8030d85f20826f90cb73a34bca4ff4a989238cd1ed318593655c73d3d59ec8373043374cf8d"
+      },
+      "path": "mods/seasonals-1.20.1-5.0.0.jar"
     },
     {
       "downloads": [
@@ -1923,6 +2079,18 @@
         "sha512": "9951e9796b136c87704ab4670033a7394469b84ec26cbb29fb5bed0f4a37145b44788eed46babc35662f9d713bee2ec34b5ae6d91bb57b087c052f401b98bded"
       },
       "path": "mods/trimmable-tools-mc1.20-v1.0.6.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/gTuTFFyz/versions/VUl1Dsmx/upgrade_aquatic-1.20.1-6.0.0.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 4914897,
+      "hashes": {
+        "sha1": "439b2023c88929edda20f4cfbdb630df0050b10c",
+        "sha512": "9b04fe22c55ed05ed0bdc2e65abd1a28300a4a1a540576d3318f01551a7f13f548906e21aa729adbe21ae3f2c1e6040008a9e0cd9c9080e4195e59684f59a015"
+      },
+      "path": "mods/upgrade_aquatic-1.20.1-6.0.0.jar"
     },
     {
       "downloads": [
