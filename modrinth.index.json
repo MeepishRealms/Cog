@@ -930,6 +930,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/SaCpeal4/versions/KgzjTw3n/comforts-forge-6.3.5%2B1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 376472,
+      "hashes": {
+        "sha1": "e119443dcbd6c9fd07e922ceb6f070d28de7aef7",
+        "sha512": "c3b58a99f618ae7d2903e754f7d229263bcc23f15d21df355575b4c198dcca8d6e3fc414a02343ce658b0203f67ed862a0876164eb587cc0b70490a89968beb2"
+      },
+      "path": "mods/comforts-forge-6.3.5+1.20.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/rLLJ1OZM/versions/6rPDKAT8/coroutil-forge-1.20.1-1.3.7.jar"
       ],
       "env": { "client": "required", "server": "required" },
