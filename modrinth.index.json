@@ -6,30 +6,6 @@
   "files": [
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/ugdtgQ7E/versions/u3yInf8z/admiral-fabric-0.4.4%2B1.20.1.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 99795,
-      "hashes": {
-        "sha1": "ca74625b5a98a067345fe53545011b755fcbce6c",
-        "sha512": "2e0a14167242452f9a131bd87c66f7fbdf8599c83cd4504ba069ab726acf7e5b0e5220e5eeb2e05a91d6c6ecb42ba5480a81bf77ee24f9d20e047b7dba63f137"
-      },
-      "path": "mods/.connector/temp/audioplayer-fabric-1.20.1-1.10.2$admiral-0.4.4+1.20.1+fabric.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/ugdtgQ7E/versions/u3yInf8z/admiral-fabric-0.4.4%2B1.20.1.jar"
-      ],
-      "env": { "client": "required", "server": "required" },
-      "fileSize": 99795,
-      "hashes": {
-        "sha1": "ca74625b5a98a067345fe53545011b755fcbce6c",
-        "sha512": "2e0a14167242452f9a131bd87c66f7fbdf8599c83cd4504ba069ab726acf7e5b0e5220e5eeb2e05a91d6c6ecb42ba5480a81bf77ee24f9d20e047b7dba63f137"
-      },
-      "path": "mods/.connector/temp/instantgroup-fabric-1.20.1-1.6.0$admiral-0.4.4+1.20.1+fabric.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/DSVgwcji/versions/eJihmpNQ/AI-Improvements-1.20-0.5.2.jar"
       ],
       "env": { "client": "required", "server": "required" },
@@ -231,6 +207,18 @@
         "sha512": "aed9526886431fe6e09a27fc9934af18ffb73e7f9c0313c5541f42a771c954dfe03232e57200dfccd6d3a324428108bcd646bed37352e16078b5794f8657c5ba"
       },
       "path": "mods/Companion-1.20.1-forge-5.0.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/u58R1TMW/versions/LM3aqTbN/Connector-1.0.0-beta.43%2B1.20.1.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 4514564,
+      "hashes": {
+        "sha1": "492e05d859bb681347d1bb13a6dce49537985ad6",
+        "sha512": "8fcd9ca0eac01515bf4306b9dd98d57b798554742332bb57d19c5a329e1d91acb3afb3a11dc89b28f7d671798368d93ba7244f69461b45f534c0cbff02d1df8f"
+      },
+      "path": "mods/Connector-1.0.0-beta.43+1.20.1.jar"
     },
     {
       "downloads": [
