@@ -5,7 +5,7 @@
 banSendingItemsWithInventories = false
 # The maximum amount of items that can be queued for delivery for a mail box
 # Valid range: 1 to 6 (inclusive)
-mailboxInventoryRows = 1
+mailboxInventoryRows = 2
 # Prevents items contained in this list from being sent through a Post Box.
 # An example of how the list is defined:
 # bannedItems = [
@@ -15,10 +15,8 @@ mailboxInventoryRows = 1
 #     ...
 # ]
 # ^ Note: This is just an example. Write your list below.
-bannedItems = [
-  "minecraft:shulker_box"
-]
+bannedItems = []
 # The maximum amount of items that can be queued for delivery for a mail box
 # Valid range: 0 to 256 (inclusive)
-mailQueueSize = 18
+mailQueueSize = 256
 

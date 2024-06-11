@@ -4,4 +4,6 @@
   "editor.tabSize": 2,
   "prettier.quoteProps": "consistent",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "IDX.aI.enableInlineCompletion": true,
+  "IDX.aI.enableCodebaseIndexing": true,
 }
