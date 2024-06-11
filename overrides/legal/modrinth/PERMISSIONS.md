@@ -6,6 +6,9 @@ The following mods/resouruce/data packs are bundled as an override, meaning that
   - *Source code avaliable at https://github.com/anthxnymc/BobbyReforged*
 - **[Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)** by BlewberryPie
   - Permission explicitly obtained from Mod Author. See [permission.png](chimes/permission.png).
+- **[Collector's Reap](https://www.curseforge.com/minecraft/mc-mods/collectors-reap) by brnbrd**
+  - The MIT License used by the mod permits redistribution.
+  - *Source code avaliable at https://github.com/brnbrd/CollectorsReap*
 - **[Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)** by LainMI
   - The "Minecraft Mod Public License" used by the mod permits redistribution.
   - *Source code avaliable at https://github.com/zlainsama/CosmeticArmorReworked*
