@@ -546,15 +546,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/iUheEnjm/versions/hxwE6dfU/ThirstWasTaken-1.20.1-1.3.7.jar"
+        "https://cdn.modrinth.com/data/iUheEnjm/versions/WAqHrDql/ThirstWasTaken-1.20.1-1.3.8.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 195202,
+      "fileSize": 198813,
       "hashes": {
-        "sha1": "f44564e8bd9ce8e78676fec7a695988486504bcb",
-        "sha512": "6443271e6f96245731ae5810c0f187b77a48a1a6c97151b312c0c615ef4aad32d2fb27c257a03a35b2defefb7ef0e9a23f2ac79d777129adb58a68863c5abad6"
+        "sha1": "ab8f7731f5e4dd368ec17781b56e9f7f540f442f",
+        "sha512": "01e02e360c265d264bf9d2bd7246a922eed92a127f7f7977931c9d33b2477f181d1da0469a3956d4005b709ec5e1e28ba28f0347128e750db9f3287bf93570cc"
       },
-      "path": "mods/ThirstWasTaken-1.20.1-1.3.7.jar"
+      "path": "mods/ThirstWasTaken-1.20.1-1.3.8.jar"
     },
     {
       "downloads": [
@@ -2277,5 +2277,5 @@
   "game": "minecraft",
   "name": "Modded Expansion",
   "summary": "MeepishRealms: Modded Expansion is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
-  "versionId": "1.5.3"
+  "versionId": "1.5.4"
 }
