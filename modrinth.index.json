@@ -858,15 +858,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/OSDpLd82/versions/zGMhmLYb/bbb-1.20.1-forge-1.1.1.jar"
+        "https://cdn.modrinth.com/data/OSDpLd82/versions/62W62oaw/bbb-1.20.1-fabric-1.0.1.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 1417098,
+      "fileSize": 1791703,
       "hashes": {
-        "sha1": "3fef65f2180f5657c89f1d6848c9dd2017872894",
-        "sha512": "1e596090be5a8cba13246fe09d31acf7c56e5c53c377fa6a14f5be9f6ece8780922038ab30a0487b996ddef60935c34c15857826b46cfd963f48296d0e321723"
+        "sha1": "846704989508800d84d2860d4cf5f3c769cbf523",
+        "sha512": "1ca743d51a45b184d45de833acf62664cd85c002f277e8357eab8756bb8b0af6444294807e1616ef06ee3dc3a2379897cc566742858c07348ff705cbfe203361"
       },
-      "path": "mods/bbb-1.20.1-forge-1.1.1.jar"
+      "path": "mods/bbb-1.20.1-fabric-1.0.1.jar"
     },
     {
       "downloads": [
@@ -2277,5 +2277,5 @@
   "game": "minecraft",
   "name": "Modded Expansion",
   "summary": "MeepishRealms: Modded Expansion is a vanilla-aesthetic Forge modpack focused around long-term progression, automation, building, socialization, and collaboration.",
-  "versionId": "1.5.2"
+  "versionId": "1.5.3"
 }
