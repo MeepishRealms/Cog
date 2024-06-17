@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "MeepishRealms: ME",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "author": "",
   "files": [
     {
@@ -411,7 +411,7 @@
     },
     {
       "projectID": 679270,
-      "fileID": 5287289,
+      "fileID": 5437370,
       "required": true
     },
     {
